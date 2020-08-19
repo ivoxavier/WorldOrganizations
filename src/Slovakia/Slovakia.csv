@@ -1,0 +1,822 @@
+name,country,city,businessType
+MEDZINARODNE LASEROVE CENTRUM,Slovakia,BRATISLAVA,Research Organisations
+NARODNY TRUST NO,Slovakia,BRATISLAVA,Other
+SPINEA SRO,Slovakia,PRESOV,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+USTAV EXPERIMENTALNEJ FYZIKY SLOVENSKEJ AKADEMIE VIED,Slovakia,KOSICE,Higher or Secondary Education Establishments
+UNIVERZITA PAVLA JOZEFA SAFARIKA V KOSICIACH,Slovakia,KOSICE,Higher or Secondary Education Establishments
+INSTITUTE OF LANDSCAPE ECOLOGY OF THE SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Higher or Secondary Education Establishments
+SLOVENSKA POLNOHOSPODARSKA UNIVERZITA V NITRE,Slovakia,NITRA,Higher or Secondary Education Establishments
+SAFTRA PHOTONICS SRO,Slovakia,KOSICE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+RIMANEC SRO,Slovakia,PLIESOVCE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UNIVERZITA  KONSTANTINA FILOZOFA VNITRE,Slovakia,NITRA,Higher or Secondary Education Establishments
+CENTRUM VEDECKO TECHNICKYCH INFORMACII SLOVENSKEJ REPUBLIKY,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+NEULOGY AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BIC BRATISLAVA SPOL SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UNIVERZITA MATEJA BELA V BANSKEJ BYSTRICI,Slovakia,BANSKA BYSTRICA,Higher or Secondary Education Establishments
+PEDAL CONSULTING SRO,Slovakia,MARTIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MINISTRY OF ENVIRONMENT,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SLOVENSKA AGENTURA ZIVOTNEHO PROSTREDIA,Slovakia,BANSKA BYSTRICA,Research Organisations
+MOTION ZONE SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SLOVENSKA AKADEMIA VIED,Slovakia,BRATISLAVA,Research Organisations
+CENTRUM TRANSDISCIPLINARNYCH STUDIICETIP N.O.,Slovakia,BRATISLAVA,Other
+TRNAVSKA UNIVERZITA V TRNAVE,Slovakia,TRNAVA,Higher or Secondary Education Establishments
+"LETOVE PREVADZKOVE SLUZBY SLOVENSKEJ REPUBLIKY, STATNY PODNIK",Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TECHNICKA UNIVERZITA V KOSICIACH,Slovakia,KOSICE,Higher or Secondary Education Establishments
+KOSICKY SAMOSPRAVNY KRAJ,Slovakia,KOSICE,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+NARODNE LESNICKE CENTRUM,Slovakia,ZVOLEN,Other
+VYSKUMNY USTAV PAPIERA A CELULOZY AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UNIVERZITA KOMENSKEHO V BRATISLAVE,Slovakia,BRATISLAVA,Higher or Secondary Education Establishments
+NEUROIMUNOLOGICKY USTAV SLOVENSKEJAKADEMIA VIED,Slovakia,BRATISLAVA,Research Organisations
+SLOVENSKA TECHNICKA UNIVERZITA V BRATISLAVE,Slovakia,BRATISLAVA,Higher or Secondary Education Establishments
+"Institute of Electrical Engineering, Slovak Academy of Sciences",Slovakia,Bratislava,Research Organisations
+STATNY GEOLOGICKY USTAV DIONYZA STURA,Slovakia,BRATISLAVA,Research Organisations
+EXPRO S.R.O.,Slovakia,SALA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HOLIG GROUP AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ENVIRONMENTAL INSTITUTE s.r.o.,Slovakia,KOS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KAJO SRO,Slovakia,BYTCA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MASA TECH S.R.O.,Slovakia,STARA TURA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SOCIOLOGICKY USTAV SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Research Organisations
+BIOPHIL CENTRAL EUROPE SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TATRAMED SOFTWARE SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HOLCIM EMERGING EUROPE SERVICES SRO,Slovakia,Bratislava,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CHEMICKY USTAV SLOVENSKEJ AKADEMIEVIED,Slovakia,BRATISLAVA,Research Organisations
+BIOMEDICAL ENGINEERING S.R.O,Slovakia,KOSICE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+STREDOEUROPSKY INSTITUT PRE VYSKUMPRACE ZDRUZENIE,Slovakia,BRATISLAVA RUZINOV,Other
+CENTRUM SPOLOCNYCH CINNOSTI SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Other
+GLOBAL WATER PARTNERSHIP CENTRAL AND EASTERN EUROPE,Slovakia,BRATISLAVA,Other
+USTAV EKOLOGIE LESA SLOVENSKEJ AKADEMIE VIED,Slovakia,ZVOLEN,Research Organisations
+BROADBIT ENERGY TECHNOLOGIES SRO,Slovakia,Komarno,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ZILINSKA UNIVERZITA V ZILINE,Slovakia,ZILINA,Higher or Secondary Education Establishments
+"IMC- INDUSTRIAL MANAGEMENT CONSULTING SLOVAKIA, S.R.O.",Slovakia,DUBOVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"R-DAS, SRO",Slovakia,SLIAC,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+URAD VEREJNEHO ZDRAVOTNICTVA SLOVENSKEJ REPUBLIKY,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SLOVENSKA ZDRAVOTNICKA UNIVERZITA V BRATISLAVE,Slovakia,BRATISLAVA,Higher or Secondary Education Establishments
+BIOMEDICINSKE CENTRUM SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Research Organisations
+VUJE AS,Slovakia,TRNAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EKONOMICKA UNIVERZITA V BRATISLAVE,Slovakia,BRATISLAVA,Higher or Secondary Education Establishments
+VOLTIA AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SLOVENSKE CENTRUM PRE VYSKUM UMELEJ INTELIGENCIE - SLOVAK AI,Slovakia,BRATISLAVA,Research Organisations
+NOVITECH AS,Slovakia,KOSICE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HLAVNE MESTO SLOVENSKEJ REPUBLIKY BRATISLAVA,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+MESTSKY USTAV OCHRANY PAMIATOK,Slovakia,BRATISLAVA,Research Organisations
+POWERTEC SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NANO DESIGN SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+I-EUROPA SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NARODNE CENTRUM ROBOTIKY,Slovakia,BRATISLAVA,Research Organisations
+"INFOTECH, S.R.O.",Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MINISTERSTVO FINANCII SLOVENSKEJ REPUBLIKY,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TECHNICKA UNIVERZITA VO ZVOLENE,Slovakia,ZVOLEN,Higher or Secondary Education Establishments
+"SAE-AUTOMATION, S.R.O",Slovakia,NOVA DUBNICA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"USTAV INFORMATIKY,  SLOVENSKA AKADEMIA VIED",Slovakia,BRATISLAVA,Higher or Secondary Education Establishments
+SLOVENSKA INOVACNA A ENERGETICKA AGENTURA,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ATOS IT SOLUTIONS AND SERVICES SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CHEMOSVIT FIBROCHEM AS,Slovakia,SVIT,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MATADOR INDUSTRIES AS,Slovakia,DUBNICA NAD VAHOM,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ENBEE SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SOLARGIS SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+USTAV HYDROLOGIE SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Research Organisations
+BRATISLAVSKA VODARENSKA SPOLOCNOSTA.S.,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PREZIDIUM POLICAJNEHO ZBORU SR,Slovakia,Bratislava,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+"ISEM-INSTITUT PRE MEDZINARODNU BEZPECNOST A KRIZOVE RIADENIE, NO",Slovakia,ZILINA,Other
+ASTRONOMICAL INSTITUTE OF THE SLOVAK ACADEMY OF SCIENCES,Slovakia,VYSOKE TATRY,Research Organisations
+INNOV8 S.R.O.,Slovakia,TRNAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ENERGETICKE CENTRUM BRATISLAVA,Slovakia,BRATISLAVA 37,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SHARK.AERO s.r.o,Slovakia,HLBOKE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OMNIA KLF A.S.,Slovakia,KYSUCKE NOVE MESTO,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VYSKUMNY USTAV DOPRAVNY AS,Slovakia,Zilina,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIAEUROPA COMPETENCE CENTRE SRO,Slovakia,BRATISLAVA,Other
+PROGRES 123 SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Financial Directorate of the Slovak Republic,Slovakia,Banská Bystrica,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+BAVENIR SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INTERSOFT A.S.,Slovakia,KOSICE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"USABILITY ENGINEERING CENTER, S.R.O",Slovakia,TRNAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VELAWORKS SRO,Slovakia,NITRA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MINISTERSTVO VNUTRA SLOVENSKEJ REPUBLIKY,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+PISTONPOWER SRO,Slovakia,POVAZSKA BYSTRICA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LEITNER TECHNOLOGIES SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+E-CODE,Slovakia,KRUPINA,Other
+PEWAS SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIRTUAL REALITY MEDIA AS,Slovakia,TRENCIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MATTIG MANAGEMENT PARTNERS SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HIGHCHEM SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EEA SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EDICO SK AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DANUBIA NANOTECH SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SLOVAK BUSINESS AGENCY,Slovakia,BRATISLAVA - STARE MESTO,Other
+GOSPACE TECH S.R.O.,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SLOVENSKA SPOLOCNOST PRE ZAHRANICNU POLITIKU,Slovakia,BRATISLAVA,Research Organisations
+GLYCANOSTICS SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SLOVENSKA RADA PRE ZELENE BUDOVY,Slovakia,BRATISLAVA,Other
+FYZIKALNY USTAV SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Research Organisations
+TWENTY COMMUNICATIONS SRO,Slovakia,SKALICA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NARODNY JADROVY FOND,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SKOLA KOMUNIKACIE A MEDII NO,Slovakia,BRATISLAVA,Research Organisations
+MESTO TRENCIN,Slovakia,TRENCIN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+MESTO POPRAD,Slovakia,POPRAD,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TECHNICKY A SKUSOBNY USTAV STAVEBNY n.o.,Slovakia,BRATISLAVA,Research Organisations
+UNIVERZITA SV. CYRILA A METODA V TRNAVE,Slovakia,TRNAVA,Higher or Secondary Education Establishments
+SLOVENSKA KOMORA STAVEBNYCH INZINIEROV,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+NARODNY USTAV CELOZIVOTNEHO VZDELAVANIA,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+Zvaz stavebnych podnikatelov Slovenska,Slovakia,BRATISLAVA,Other
+SLOVENSKA ASOCIACIA PRE ELEKTROMOBILITU,Slovakia,BRATISLAVA,Other
+SLOVENSKY ZIVNOSTENSKY ZVAZ,Slovakia,BRATISLAVA,Other
+MESTO TRNAVA,Slovakia,TRNAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TERICHEM TERVAKOSKI AS,Slovakia,SVIT,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CENTRUM BIOLOGIE RASTLIN A BIODIVERZITY SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Higher or Secondary Education Establishments
+USTAV VZDELAVANIA A SLUZIEB,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SAIA NO,Slovakia,BRATISLAVA 1,Other
+BIZZCOM S. R. O.,Slovakia,BUCANY,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+USTAV POLYMEROV - SLOVENSKA AKADEMIA VIED,Slovakia,BRATISLAVA 45,Research Organisations
+"USTAV ANORGANICKEJ CHEMIE SLOVENSKA AKADEMIA VIED (Institute of Inorganic Chemistry, Slovak Academy of Sciences)",Slovakia,BRATISLAVA KARLOVA VES,Other
+SIMCON,Slovakia,ZILINA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MONDELEZ EUROPEAN BUSINESS SERVICES CENTRE SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NARODNE POL'NOHOSPODARSKE A POTRAVINARSKE CENTRUM,Slovakia,LUZIANKY,Research Organisations
+VAF S.R.O.,Slovakia,ROVINKA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SYGIC AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Centire s.r.o.,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VYSOKA SKOLA BEZPECNOSTNEHO MANAZERSTVA V KOSICIACH NEZISKOVA ORGANIZACIA,Slovakia,KOSICE JUH,Higher or Secondary Education Establishments
+MINISTERSTVO HOSPODRSTVA SLOVENSKEJ REPUBLIKY,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ZOS TRNAVA AS,Slovakia,TRNAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TATRAVAGONKA AS,Slovakia,POPRAD,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ENVIRAL AS,Slovakia,LEOPOLDOV,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SPOLOCNOST OCHRANY SPOTREBITEL'OV (S.O.S.) POPRAD ZDRUZENIE,Slovakia,POPRAD,Other
+DECOM AS,Slovakia,TRNAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SLOVENSKA OBCHODNA A PRIEMYSELNA KOMORA,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+REGIONALNE PORADENSKE A INFORMACNECENTRUM PRESOV,Slovakia,PRESOV,Other
+EKONOMICKY USTAV SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Research Organisations
+NEXIS FIBERS A.S.,Slovakia,HUMENNE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CEMMAC AS,Slovakia,HORNE SRNIE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TRENCIANSKA UNIVERZITA ALEXANDRA DUBCEKA V TRENCINE,Slovakia,TRENCIN,Higher or Secondary Education Establishments
+NARODNY USTAV REUMATICKYCH CHOROB-NURCH NIRD NATIONAL INSTITUTE OF RHEUMATIC DISEASES,Slovakia,PIESTANY,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+"Ministry of Education, Science, Research and Sport",Slovakia,Bratislava,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+DOKUMENTACNE STREDISKO HOLOKAUSTU OBCIANSKE ZDRUZENIE,Slovakia,BRATISLAVA,Research Organisations
+IKEA INDUSTRY SLOVAKIA SRO,Slovakia,MALACKY,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DAPHNE - INSTITUT APLIKOVANEJ EKOLOGIE,Slovakia,BRATISLAVA,Research Organisations
+ENERGOCHEMICA TRADING AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AXON NEUROSCIENCE R&D SERVICES SE,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AXON NEUROSCIENCE SE,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OBCIANSKE ZDRUZENIE MVO L'UDIA A VODA KOSICE,Slovakia,KOSICE,Other
+"ELCOM, SPOLOCNOST S RUCENIM OBMEDZENYM, PRESOV",Slovakia,PRESOV,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BONEHEADZ AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MINISTERSTVO PODOHOSPODARSTVA A ROZVOJA VIDIEKA SLOVENSKEJ REPUBLIKY,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+BIOMILA SPOL SRO,Slovakia,RUDNIK,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MICROSTEP-MIS SPOL SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CENTRUM SPOLOCENSKYCH A PSYCHOLOGICKYCH VIED SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Other
+BRATISLAVSKY INSTITUT PRE POLITICKU,Slovakia,BRATISLAVA,Research Organisations
+MATTEK IN VITRO LIFE SCIENCE LABORATORIES SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EXPERIMENTAL MEDICINE CENTRE OF THE SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+USTAV GEOTECHNIKY SLOVENSKEJ AKADEMIE VIED,Slovakia,KOSICE SEVER,Research Organisations
+INZINIERSKA VYPOCTOVA SPOLOCNOST TRNAVA S.R.O.,Slovakia,TRNAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MICRONIC AS,Slovakia,KYSAK,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MESTO NITRA,Slovakia,NITRA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+OBCIANSKE ZDRUZENIE VIDIECKY PARLAMENT,Slovakia,BANSKA BYSTRICA,Research Organisations
+AGROINSTITUT NITRA STATNY PODNIK,Slovakia,Nitra,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+WAI SRO,Slovakia,PIESTANY,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIROLOGICKY USTAV SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Research Organisations
+GENETON S.R.O.,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EXDWARF CONSULTING SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BRATISLAVSKY SAMOSPRAVNY KRAJ,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+USTAV VIED O ZEMI SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Other
+UNIVERZITA VETERINARSKEHO LEKARSTVA A FARMACIE V KOSICIACH,Slovakia,Kosice,Higher or Secondary Education Establishments
+BRAINWARE S.R.O,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+M&S ENGINEERING SK SRO,Slovakia,BRATISLAVA STARE MESTO,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NADACIA HABITAT FOR HUMANITY INTERNATIONAL,Slovakia,BRATISLAVA,Other
+A & Z ACOUSTICS SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"OFZ, AS",Slovakia,ORAVSKY PODZAMOK,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VYCHODOSLOVENSKE MUZEUM Y KOSICIACH,Slovakia,KOSICE,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+USTAV MATERIALOV A MECHANIKY STROJOV SLOVENSKEJ AKADEMIE,Slovakia,BRATISLAVA,Research Organisations
+WOODLIME AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CASSOVIA LIFE SCIENCES,Slovakia,KYSUCKE NOVE MESTO,Other
+FARMA OBORIN SRO,Slovakia,DOBSINA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"POSAM, SPOL SRO",Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+RELKO SPOL SRO,Slovakia,BRATISLAVA 38,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SCHEIDT & BACHMANN SLOVENSKO S.R.O.,Slovakia,ZILINA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EKOSERVIS SLOVENSKO SRO,Slovakia,VELKY SLAVKOV,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ZDRUZENIE POUZIVATELOV SLOVENSKEJAKADEMICKEJ DATOVEJ SIETE-SANET,Slovakia,BRATISLAVA,Other
+TRIPTYCH,Slovakia,NITRA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BIOREALIS SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VERZITA SV CYRILA A METODA V TRNAVE,Slovakia,TRNAVA,Higher or Secondary Education Establishments
+SEZ KROMPACHY AS,Slovakia,KROMPACHY,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CARNY PETER,Slovakia,TRNAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NUCLEOCON SRO,Slovakia,Levice,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SLOVENSKA ORGANIZACIA PRE VYSKUMNEA VYVOJOVE AKTIVITY ZDRUZENIE,Slovakia,BRATISLAVA,Other
+APPLIED PRECISION SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SKLADKY A ODPADY SRO,Slovakia,Bratislava,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MULTIPLEXDX S.R.O.,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AXXENCE SLOVAKIA SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VUD ZILINA,Slovakia,BRATISLAVA,Unknown
+"SLOVAK UNIVERSITY OF TECHNOLOGY, FACULTY OF ELECTRICAL ENGINEERING AND INFORMATION TECHNOLOGY DEPARTMENT OF MEASUREMENT",Slovakia,,Unknown
+INSTITUTE OF ZOOLOGY - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+Institute of Plant Genetics - Slovak Academy of Sciences,Slovakia,Nitra,Unknown
+Institute of Chemistry - Slovak Academy of Sciences,Slovakia,Bratislava,Unknown
+Research Institute of Animal Production,Slovakia,033 80 Liptovsky Hradok,Unknown
+Institute of Virology - Slovak Academy of Sciences,Slovakia,Bratislava,Unknown
+ENVIRONMENTAL INSTITUTE,Slovakia,KOS,Unknown
+State Forest Products Research Institute,Slovakia,Bratislava,Research Organisations
+Slovak Agricultural University,Slovakia,Nitra,Unknown
+Polnonakup Dunaj a.s.,Slovakia,Dunajska Streda,Unknown
+RESEARCH & DEVELOPMENT INSTITUTE,Slovakia,NOVA DUBNICA,Unknown
+University of Transport and Communications Zilina,Slovakia,Zilina,Unknown
+Univerzita KomenskÃ©ho,Slovakia,Bratislava,Unknown
+"INSTITUTE OF FOREST ECOLOGY, SLOVAK ACADEMY OF SCIENCES",Slovakia,ZVOLEN,Unknown
+TECHNICAL UNIVERSITY OF ZVOLEN,Slovakia,ZVOLEN,Unknown
+The State Forests of the Tatra National Park,Slovakia,Tatranska Lomnica 059 60,Unknown
+Nemocnica S Poliklinikou Topolcany,Slovakia,Topolcany,Unknown
+Soil Fertility Research Institute,Slovakia,Bratislava,Unknown
+Vuez a.s.,Slovakia,Levice,Unknown
+Univerzita Komenskeho V Bratislave - Comenius University,Slovakia,Bratislava,Unknown
+Public Health Institute - Ministry ofHealth of Slovak Republic,Slovakia,Trnava,Unknown
+INSTITUTE OF ELECTRICAL ENGINEERING - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+Technical University Kosice,Slovakia,Kosice,Unknown
+Inzinierske Stavby AS,Slovakia,Kosice,Unknown
+Insitute of Geotechnics - Slovak Acadymy of Sciences,Slovakia,Kosice,Unknown
+UNIVERSITY P.J. SAFARIK,Slovakia,KOSICE,Unknown
+National Cancer Institute,Slovakia,Bratislava,Unknown
+"INSTITUTE OF MATERIALS RESEARCH, SLOVAK ACADEMY OF SCIENCES",Slovakia,KOSICE,Unknown
+Institute of Preventive and Clinical Medicine - Slovak Academy of Sciences,Slovakia,Bratislava,Unknown
+Nuclear Power Plants Research Institute,Slovakia,Trnava,Unknown
+Research Institute of Plant Production,Slovakia,Piestany,Unknown
+Food Research Institute,Slovakia,Bratislava,Unknown
+CANCER RESEARCH INSTITUTE - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+Slovak University of Technology,Slovakia,Bratislava,Unknown
+Slovak Hydrometeorological Institute,Slovakia,Bratislava,Unknown
+GEOPHYSICAL INSTITUTE - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+Specialized State Health Institute,Slovakia,Banska Bystrica,Unknown
+Geological Survey of Slovak Republic,Slovakia,Spisska Nova Ves,Unknown
+Institute of Electrical Engineering -Slovak Academy of Sciences,Slovakia,Bratislava,Unknown
+Ustav Stavebnictva a Architektury - Slovak Academy of Sciences,Slovakia,Bratislava,Unknown
+Slovak University,Slovakia,,Unknown
+INSTITUTE OF PREVENTIVE AND CLINICAL MEDICINE,Slovakia,BRATISLAVA,Unknown
+COMENIUS UNIVERSITY,Slovakia,BRATISLAVA,Unknown
+"SLOVAK ACADEMY OF SCIENCES, BRATISLAVA",Slovakia,BRATISLAVA,Unknown
+Institute of Materials and Machine Mechanics - Slovak Academy of Sciences,Slovakia,Bratislava,Unknown
+Technical University of Zvolen,Slovakia,Zvolen,Unknown
+TECHNICAL UNIVERSITY OF KOSICE,Slovakia,KOSICE,Unknown
+"MICRONIC, S.R.O.",Slovakia,KOSICE,Unknown
+Geophysical Institute - Slovak Academy of Sciences,Slovakia,Bratislava,Unknown
+FOREST RESEARCH INSTITUTE,Slovakia,ZVOLEN,Unknown
+NCI,Slovakia,,Unknown
+Vseobecna Zdravotna Poistovna- General Health Insurance Company,Slovakia,Bratislava 15,Unknown
+Elas Spol Sro,Slovakia,Prievidza,Unknown
+University of Zilina,Slovakia,Zilina,Unknown
+Slovak University of Technology,Slovakia,Trnava,Unknown
+Geological Survey of Slovak Republic,Slovakia,Bratislava,Unknown
+Institute for Neuroimmunology - Slovak Academy of Sciences,Slovakia,Bratislava,Unknown
+Dairy Research Institute,Slovakia,Zilina,Unknown
+University of Transport and Communication,Slovakia,Zillina,Unknown
+Hydrotechnologia Ltd,Slovakia,NovÃ© Mesto naad Vahom,Unknown
+Welding Research Institute Bratislava,Slovakia,Bratislava,Unknown
+"National Institute of Health, Prievidza",Slovakia,Prievidza,Unknown
+University of Trnava,Slovakia,Trnava,Unknown
+HYDEKO KV,Slovakia,BRATISLAVA,Unknown
+SLOVAK UNIVERSITY OF TECHNOLOGY,Slovakia,BRATISLAVA,Unknown
+Fakulta Elektotechniky A Informatiky Stu (Faculty of Electrotechnics Ans Informatics of Stu),Slovakia,Bratislava,Unknown
+Ustav Teorie Riadenia A Robotiky Sav (Institute of Teory of Control and Robotics of Sav),Slovakia,Bratislava,Unknown
+Alldeco S.r.o.,Slovakia,JaslovskÃ© Bohunice,Unknown
+"Comenius University, Faculty of Mathematics and Physics",Slovakia,Bratislava,Unknown
+Ifbl Slovakia Spol. S R.O.,Slovakia,Kosice,Unknown
+MATEJ BEL UNIVERSITY,Slovakia,BANSKA BYSTRICA,Unknown
+"VUJE TRNAVA INC - ENGINEERING, DESIGN AND RESEARCH ORGANISATION",Slovakia,TRNAVA,Unknown
+NUCLEAR REGULATORY AUTHORITY OF THE SLOVAK REPUBLIC,Slovakia,BRATISLAVA,Unknown
+NUCLEAR POWER PLANTS RESEARCH INSTITUTE,Slovakia,TRNAVA,Unknown
+INIZINIERSKA VYPOCTOVA SPOLOCNOST TRNAVA S.R.O.,Slovakia,BRATISLAVA,Unknown
+"SLOVENSKE ELEKTRARNE, A.S.",Slovakia,JASLOVSKE BOHUNICE,Unknown
+"INSTITUTE OF PHYSICS, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+SLOVENSKY METROLOGICKY USTAV,Slovakia,BRATISLAVA,Unknown
+SLOVENSKY METROLOGICKY USTAV,Slovakia,MODRA,Unknown
+INSTITUTE OF EXPERIMENTAL PHYSICS-SLOVAK ACADEMY OF SCIENCES,Slovakia,KOSICE,Unknown
+"EGU - ENERGETICKY USTAV, A.S.",Slovakia,BRATISLAVA,Unknown
+BIC BRATISLAVA. SPOL. S.R.O.,Slovakia,BRATISLAVA,Unknown
+SLOVENSKA TECHNICKA UNIVERZITA V BRATISLAVE,Slovakia,BRATISLAVA,Unknown
+SLOVAK HYDROMETEOROLOGICAL INSTITUTE@@@,Slovakia,BRATISLAVA,Unknown
+WATER RESEARCH INSTITUTE,Slovakia,BRATISLAVA,Unknown
+ENERGY CENTER BRATISLAVA,Slovakia,BRATISLAVA,Unknown
+SLOVAK ENERGY SOCIETY,Slovakia,BRATISLAVA,Unknown
+UNIVERZITA KOMENSKEHO V BRATISLAVE,Slovakia,BRATISLAVA 16,Unknown
+"EXE IT, SPOL.S R.O.",Slovakia,BRATISLAVA,Unknown
+SARC CENTRE FOR ADVANCEMENT OF SCIENCE AND TECHNOLOGY,Slovakia,BRATISLAVA,Unknown
+UNIVERSITY OF ZILINA,Slovakia,ZILINA,Unknown
+INSTITUTE FOR SOCIOLOGY - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+SOCIAL AND BIOLOGICAL COMMUNICATION - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+FACULTY OF ECONOMICS,Slovakia,KOSICE,Unknown
+"TRANSFER SLOVENSKO, SPOL.S. R.O.",Slovakia,Bratislava,Unknown
+LUDOPRINT A.S.,Slovakia,BOBOT,Unknown
+PULP AND PAPER RESEARCH INSTITUTE A.S.,Slovakia,BRATISLAVA,Unknown
+ISTRAN S.P.OL. S.R.O.,Slovakia,BRATISLAVA,Unknown
+VUNAR,Slovakia,NOVE ZAMKY,Unknown
+AUTOKOMPONENT AS,Slovakia,ZILINA,Unknown
+FACULTY OF ELECTRICAL ENGINEERING AND INFORMATION TECHNOLOGY,Slovakia,BRATISLAVA,Unknown
+CENTRE FOR CREATIVITY AND INNOVATION,Slovakia,NOVE ZAMKY,Unknown
+ENERGY CENTRE BRATISLAVA,Slovakia,BRATISLAVA,Unknown
+"USTAV INFORMATIKY, SLOVENSKA AKADEMIA VIED",Slovakia,BRATISLAVA,Unknown
+"UNIVERZITA V BRATISLAVE, FAKULTA ELEKTROTECHNIKY A INFORMATIKY SLOVENSKEJ TECHNICKEJ",Slovakia,BRATISLAVA,Unknown
+ASTRONOMICAL INSTITUTE OF THE SLOVAK ACADEMY OF SCIENCES,Slovakia,TRATRANSKA LOMNICA,Unknown
+SLOVAK ACADEMY OF SCIENCES - INSTITUTE OF PHYSICS,Slovakia,BRATISLAVA,Unknown
+INSTITUTE OF MEDICAL ETHICS AND BIOETHICS Â²N.F,Slovakia,BRATISLAVA,Unknown
+PROFING S.R.O.,Slovakia,BRATISLAVA,Unknown
+THE MONUMENTS BOARD OF THE SLOVAK REPUBLIK,Slovakia,BRATISLAVA,Unknown
+POLYMER INSTITUTE OF THE SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+FOUNDATION S.P.A.C.E. - SOCIAL POLICY ANALYSIS CENTRE,Slovakia,BRATISLAVA,Unknown
+"FACULTY OF ECONOMICS, TECHNICAL UNIVERSITY OF KOSICE",Slovakia,KOSICE,Unknown
+INSTITUTE OF PHYSICS - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+GENERAL TECHNOLOGIES,Slovakia,BRATISLAVA,Unknown
+CHEMZA A.S. STRAZSKE,Slovakia,STRAZSKE,Unknown
+DUSLO A.S.,Slovakia,SALA,Unknown
+KAPPA STUROVO A.S.,Slovakia,STUROVO,Unknown
+MATADOR A.S. PUCHOV,Slovakia,PUCHOV,Unknown
+NOVACKE CHEMICKE ZAVODY,Slovakia,NOVAKY,Unknown
+SEVEROSLOVENSKE CELULUZKY A PAPIERNE A.S. RUZOMBEROK,Slovakia,LIPTOVSKY MIKULAS,Unknown
+SLOVNAFT A.S.,Slovakia,BRATISLAVA,Unknown
+SLOVNAFT VURUP A.S.,Slovakia,BRATISLAVA,Unknown
+DUMA SPOL. S.R.O.,Slovakia,BRATISLAVA,Unknown
+"SLOVENSKY VODOHOSPODARSKY PODNIK, STATNY PODNIK",Slovakia,BANSKA STIAVNICA,Unknown
+UNIVERSITY OF VETERINARY MEDECINE,Slovakia,KOSICE,Unknown
+INSTITUTE OF MATERIALS RESEARCH - SLOVAK ACADEMY OF SCIENCES,Slovakia,KOSICE,Unknown
+MUNICIPALITY AUTHORITY OF CITY TRNAVA,Slovakia,TRNAVA,Unknown
+"PETER RAKSANYI, AUTORIZOVANY INZINIER, PLANNING BUREAU",Slovakia,BRATISLAVA,Unknown
+SLOVAK NATIONAL ARCHIVES,Slovakia,BRATISLAVA,Unknown
+RESEARCH INSTITUTE OF ANIMAL PRODUCTION NITRA,Slovakia,NITRA,Unknown
+SPEL - PROCONT S.R.O.,Slovakia,PRESOV,Unknown
+INSTITUTE OF INFORMATICS - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+INSTITUTE OF LANDSCAPE ECOLOGY OF THE SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+LOCAL COUNCIL OF BRATISLAVA,Slovakia,BRATISLAVA,Unknown
+TECHNICKA UNIVERZITA V KOSICIACH,Slovakia,KOSICE,Unknown
+DECOM SLOVAKIA LTD.,Slovakia,TRNAVA,Unknown
+"INSTITUTE OF CONSTRUCTION AND ARCHITECTURE, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+INSTITUTE OF MOLECULAR BIOLOGY - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+VYCHODODOSLOVENSKE STROJARNE,Slovakia,KOSICE,Unknown
+NEW ENERGY ALTERNATIVES S.R.O.,Slovakia,KOSICE,Unknown
+INSTITUTE OF BOTANY - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+AREPOC,Slovakia,BRATISLAVA,Unknown
+SLOVAK PLACENTAL HAEMATOPOETIC STEM CELL REGISTRY EUROCORD-SLOVAKIA,Slovakia,BRATISLAVA,Unknown
+CASSOVIA BIC s.r.o.,Slovakia,,Unknown
+WELDING RESEARCH INSTITUTE - INDUSTRIAL INSTITUTE SR,Slovakia,BRATISLAVA,Unknown
+NADACIA INNOVA SLOVAKIA,Slovakia,BRATISLAVA,Unknown
+RESEARCH INSTITUTE OF POSTS AND TELECOMMUNICATIONS,Slovakia,BANSKA BYSTRICA,Unknown
+SLOVAK AGRICULTURAL UNIVERSITY,Slovakia,NITRA,Unknown
+VULM A.S.,Slovakia,MODRA,Unknown
+SLOVENSKA POL'NOHOSPODARSKA UNIVERSITA V NITRE,Slovakia,NITRA,Unknown
+ECOSON S.R.O.,Slovakia,NOVE MESTO NAD VAHOM,Unknown
+FOOD RESEARCH INSTITUTE,Slovakia,BRATISLAVA,Unknown
+INSTITUTE OF ANIMAL PHYSIOLOGY - SLOVAK ACADEMY OF SCIENCES,Slovakia,KOSICE,Unknown
+"FACULTY OF ELECTRICAL ENGINEERING AND INFORMATICS, TECHNICAL UNIVERSITY OF KOSICE",Slovakia,KOSICE,Unknown
+INSTITUTE OF INORGANIC CHEMISTRY - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+PARASITOLOGICAL INSTITUTE - SLOVAK ACADEMY OF SCIENCES,Slovakia,KOSICE,Unknown
+INSTITUTE OF EXPERIMENTAL ENDOCRINOLOGY - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+SVETOVA RADA REMESIEL - SLOVENSKO,Slovakia,BRATISLAVA,Unknown
+"KOTLY SES LTD, TIMACE",Slovakia,TIMACE,Unknown
+IRONWORKS PODBREZOVA J.S. COMPANY,Slovakia,PODBREZOVA,Unknown
+INTERMEC S.R.O.,Slovakia,MARTIN,Unknown
+KIOS S.R.O.,Slovakia,,Unknown
+VUD,Slovakia,,Unknown
+VYSKUMNY USTAV DOPRAVNY,Slovakia,,Unknown
+Type of Event: Euro Conference,Slovakia,,Unknown
+"ELEKTROTECHNICKEHO USTAVU, SLOVENSKEJ AKADEMIE VIED",Slovakia,BRATISLAVA,Unknown
+SLOVAK UNIVERSITY OF TECHNOLOGY,Slovakia,,Unknown
+DELPHIS REPRESENTATION OFFICE IN SLOVAK REPUBLIC,Slovakia,BRATISLAVA,Unknown
+ZTS-MATEC A.S. - MATERIAL AND TECHNOLOGY CENTER,Slovakia,DUBNICA NAD VAHOM,Unknown
+IPA SLOVAKIA,Slovakia,ZILINA,Unknown
+PRVA ZVARACSKA A. S.,Slovakia,BRATISLAVA,Unknown
+INSTITUTE OF MATERIALS AND MACHINE MECHANICS - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+KRIMINALISTICKY A EXPERTIZNY USTAV POLICAJNEHO ZBORU,Slovakia,BRATISLAVA,Unknown
+VIPO JOINT STOCK COMPANY,Slovakia,PARTIZANSKE,Unknown
+"SLOVAK WATER MANAGEMENT AUTHORITY, STATE ENTREPRISE, IRRIGATION AND DRAINAGE BRANCH OFFICE",Slovakia,BRATISLAVA,Unknown
+"LIPTOVSKO MLIEKAREN, A.S.",Slovakia,LIPTOVSKY MIKULAS,Unknown
+"FACULTY OF ELECTRICAL ENGINEERING AND INFORMATICS, TECHNICAL UNIVERSITY KOSICE",Slovakia,KOSICE,Unknown
+UNIVERSITY OF ST CYRIL AND METHOD IN TRNAVA,Slovakia,TRNAVA,Unknown
+"AGENTURA SOCIALNYCH ANALYZ ""ASA"" S.R.O",Slovakia,BRATISLAVA,Unknown
+ZILINSKA UNIVERZITA V ZILINE,Slovakia,ZILINA,Unknown
+"VUKOV EXTRA, A.S.",Slovakia,PRESOV,Unknown
+TENTO A.S.,Slovakia,ZILINA,Unknown
+PUBLIC HEALTH AUTHORITY OF THE SLOVAK REPUBLIC,Slovakia,BRATISLAVA,Unknown
+PHOSTEC S.R.O.,Slovakia,ZARNOVICA,Unknown
+ZDRUZENIE POUZIVATELOV SLOVENSKEJ AKADEMICKEJ DATOVEJ SIETE,Slovakia,BRATISLAVA 1,Unknown
+INSTITUTE OF VIROLOGY - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+"INSTITUTE OF ZOOLOGY, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+BIC BRATISLAVA S.R.O.,Slovakia,BRATISLAVA,Unknown
+TECHNICAL UNIVERSITY KOSICE,Slovakia,KOSICE,Unknown
+"VVUPS-NOVA, RESEARCH AND DEVELOPMENT INSTITUTE FOR BUILDING CONTRUCTION S.R.O.",Slovakia,BRATISLAVA,Unknown
+THE LOCAL AUTHORITY KOSICE - CITY WARD SIDLISKO TAHANOVCE,Slovakia,KOSICE,Unknown
+THE LOCAL AUTHORITY KOSICE - CITY WARD DARGOVSKYCH HRDINOV,Slovakia,KOSICE,Unknown
+JUVIER S.R.O.,Slovakia,KOSICE,Unknown
+OFFICE OF THE KOSICE SELF-GOVERNING REGION,Slovakia,KOSICE,Unknown
+INSITUTE OF GEOTECHNICS - SLOVAK ACADEMY OF SCIENCES,Slovakia,KOSICE,Unknown
+STATE HEALTH INSTITUTE,Slovakia,BANSKA BYSTRICA,Unknown
+"SYNERGY - VCG, SPOL. S.R.O.",Slovakia,BRATISLAVA,Unknown
+"TERRANOVA - INDUSTRIA, LTD",Slovakia,BRATISLAVA,Unknown
+"Institute of Chemistry, Slovak Academy of Sciences",Slovakia,Bratislava,Unknown
+RESEARCH INSTITUTE OF PLANT PRODUCTION,Slovakia,PIESTANY,Unknown
+"BIC BRATISLAVA, S.R.O",Slovakia,,Unknown
+Slovak Postgraduate Academy of Medicine,Slovakia,BRATISLAVA,Unknown
+SLOVAK MEDICAL UNIVERSITY,Slovakia,BRATISLAVA,Unknown
+PSYCHIATRICKA NEMOCNICA MICHALOVCE,Slovakia,MICHALOVCE,Unknown
+OBCIANSKE ZDRUZENIE PRE URAZY HLAVY,Slovakia,NOVE ZAMKY,Unknown
+ACADEMIA ISTROPOLITANA NOVA,Slovakia,SVATY JUR,Unknown
+"FACULTY OF ELECTRICAL ENGINEERING AND INFORMATICS, TECHNICAL UNIVERSITY OF KOSICE,SLOVAKIA",Slovakia,KOSICE,Unknown
+VAP SPOL. S.R.O. PRESOV,Slovakia,PRESOV,Unknown
+Comenius University,Slovakia,BRATISLAVA,Unknown
+THE GEMER REGIONAL FOREST OWNERS ASSOCIATION,Slovakia,ROZNAVA,Unknown
+"ELET, S.R.O.",Slovakia,BRATISLAVA,Unknown
+VUKOV EXTRA AS,Slovakia,PRESOV,Unknown
+INSTITUT INFORMATIKY A STATISTIKY,Slovakia,BRATISLAVA,Unknown
+"GOTIVE, S.R.O.",Slovakia,BRATISLAVA,Unknown
+SLOVAK BIOMASS ENERGY CENTRE,Slovakia,ZVOLEN,Unknown
+ENERGY CENTRE BRATISLAVA,Slovakia,BRATISLAVA 37,Unknown
+SLOVAK ENERGY AGENCY,Slovakia,BRATISLAVA,Unknown
+SLOVENSKA POLNOHOSPODARSKA UNIVERZITA V NITRA,Slovakia,NITRA,Unknown
+POLNOHOSPODARSKE DRUZSTVO KAPUSANY PRI PRESOVE,Slovakia,KAPUSANI PRI PRESOVE,Unknown
+"PETER RAKSANYI, AUTORIZOVANY INZINIER, PRIDOS - PLANNING BUREAU, BRATISLAVA",Slovakia,BRATISLAVA,Unknown
+STATNA PLAVEBNA SPRAVA BRATISLAVA,Slovakia,BRATISLAVA,Unknown
+SLOVENSKY VODOHOSPODARSKY PODNIK S .P . BANSKA STIAVNICA,Slovakia,BRATISLAVA,Unknown
+KIOS S.R.O.,Slovakia,PIESTANY,Unknown
+VYSKUMNY USTAV DOPRAVNY,Slovakia,BRATISLAVA,Unknown
+"SLOVENSKE ELEKTRARNE, A.S.",Slovakia,BRATISLAVA,Unknown
+TECHSOFT ENGINEERING S.R.O.,Slovakia,BLAZICE,Unknown
+BIC Bratislava,Slovakia,Bratislava,Unknown
+"BIC BRATISLAVA, SPOL. S R.O.",Slovakia,BRATISLAVA,Unknown
+USTAV MOLEKULARNEJ BIOLOGIE SAV,Slovakia,BRATISLAVA,Unknown
+BIC Bratislava,Slovakia,,Unknown
+National Agency for Development of SMEs,Slovakia,,Unknown
+NUCLEAR REGULATORY AUTHORITY OF THE SLOVAK REPUBLIC,Slovakia,TRNAVA,Unknown
+AGENTURA NA PODPORU VEDY A TECHNIKY,Slovakia,BRATISLAVA,Unknown
+"BIC BRATISLAVA, SPOL. S. R.O.",Slovakia,BRATISLAVA,Unknown
+"USTAV INFORMATIKY, SLOVENSKA AKADEMIA VIED",Slovakia,,Research Organisations
+URAD JADROVEHO DOZORU SLOVENSKEJ REPUBLIKY,Slovakia,BRATISLAVA,Unknown
+"VUJE TRNAVA A.S. - INZINIERSKA, PROJEKTOVA A VYSKUMNA ORGANIZACIA",Slovakia,TRNAVA,Unknown
+INZINIERSKA VYPOCTOVA SPOLOCNOST TRNAVA S.R.O.,Slovakia,TRNAVA,Unknown
+STATE VETERINARY INSTITUTE ZVOLEN,Slovakia,ZVOLEN,Unknown
+TECHNICAL UNIVERSITY OF KOSICE,Slovakia,Kosice,Unknown
+"VÃTCH-CHEMITEX, SPOL. S.R.O.",Slovakia,ZILINA,Unknown
+"BIC GROUP,S.R.O.",Slovakia,BRATISLAVA,Unknown
+EEA S.R.O.,Slovakia,BRATISLAVA,X
+MINISTERSTVO VNUTRA SLOVENSKEJ REPUBLIKY,Slovakia,BRATISLAVA,Other
+SLOVENSKA NARODNA KNIZNICA,Slovakia,MARTIN,GOV
+UNIVERZITA KONSTANTINA FILOSOFA V NITRE,Slovakia,NITRA,Unknown
+INSTITUTE FOR FORECASTING SLOVAK ACADEMY SCIENCES,Slovakia,BRATISLAVA,Unknown
+INSTITUT PRO STRUKTURALNI POLITIKU,Slovakia,BRATISLAVA,Unknown
+INSTITUTE OF CHEMISTRY - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+SLOVAK AGRICULTURAL UNIVERSITY IN NITRA,Slovakia,NITRA,Unknown
+SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Unknown
+"BIC GROUP, S.R.O.",Slovakia,BRATISLAVA 1,Unknown
+BAGETA GOTTSCHALL,Slovakia,PEZINOK,Unknown
+SLOVENSKA ZDRAVOTNICKA UNIVERZITA,Slovakia,BRATISLAVA,Unknown
+ZVAZ STAVEBNYCH PODNIKATEL'OV SLOVENSKA,Slovakia,BRATISLAVA 3,Unknown
+SLOVAK ENVIRONMENTAL AGENCY,Slovakia,BANSKÃ BYSTRICA,Unknown
+APVV - AGENTÃRA NA PODPORU VÃSKUMU A VÃVOJA APVV - THE SLOVAK RESEARCH AND DEVELOPMENT AGENCY,Slovakia,BRATISLAVA,Unknown
+GALVAFIN - ITALY S.R.O.,Slovakia,TEPLICKA NAD VAHOM,Unknown
+ING. ALEXANDER PIVOVARNIK - INGMETAL,Slovakia,PRESOV,Unknown
+SLOVAK UNIVERSITY OF AGRICULTURE IN NITRA,Slovakia,NITRA,Unknown
+"HYDROMELIORACIE, S.P.",Slovakia,BRATISLAVA,Unknown
+"DECONTA, A.S.",Slovakia,TRNAVA,Unknown
+"VYSKUMNY USTAV MLIEKARENSKY, A.S.",Slovakia,ZILINA,Unknown
+SLOVENSKÃ POL'NOHOSPODÃRSKA UNIVERZITA V NITRE,Slovakia,NITRA,Unknown
+VUSAPL A.S.,Slovakia,NITRA,Unknown
+LETOVE PREDVADZKOVE SLUZBY,Slovakia,BRATISLAVE,Unknown
+SLOVENSKA POLNOHOSPODARSKA UNIVERZITA V NITRE,Slovakia,NITRA,Unknown
+REAKTORTEST S.R.O,Slovakia,TRNAVA,Unknown
+SLOVENSKA ASOCIACIA SPRACOVATELOV PLASTOV A VYROBCOV SPECIALNEHO NARADIA,Slovakia,BRATISLAVA,Unknown
+ESOX SPOL S.R.O,Slovakia,LIPTOVSKY HRADOK,Unknown
+DEMA - CONSULTANT ING. MARIAN MADLIAK,Slovakia,SUCANY,Unknown
+"USTAV MOLEKULARNEJ BIOLOGIE, SLOVENSKA AKADEMIA VIED",Slovakia,BRATISLAVA,Unknown
+"FACULTY OF NATURAL SCIENCE, COMENIUS UNIVERSITY IN BRATISLAVA - THE CENTER OF PROJECT COOPERATION CPS+",Slovakia,BRATISLAVA 4,Unknown
+SLOVENSKE CENTRUM PRODUKTIVITY,Slovakia,ZILINA,Unknown
+SLOVENSKY HYDROMETEOROLOGICKY USTAV,Slovakia,BRATISLAVA,Unknown
+APLAN,Slovakia,BRATISLAVA,Unknown
+"EEB, S.R.O.",Slovakia,TOPOLCANY,Unknown
+GAMO AS,Slovakia,BANSKA BYSTRICA,IND
+SLOVENSKE CENTRUM PRODUKTIVITY,Slovakia,ZILINA,RES
+BASS S.R.O.,Slovakia,ORAVSKY PODZAMOK,IND
+SLOVENSKA POLNOHOSPODARSKA UNIVERSITA V NITRE,Slovakia,NITRA,Unknown
+"USTAV EXPERIMENTALNEJ ONKOLOGIE, SLOVENSKA AKADEMIA VIED CANCER RESEARCH INSTITUTE, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+KOSICKY SAMOSPRAVNY KRAJ,Slovakia,KOSICE,Unknown
+TATRAMED S.R.O.,Slovakia,BRATISLAVA,Unknown
+UNIVERZITA KOMENSKEHO V BRATISLAVE,Slovakia,BRATISLAVA,Unknown
+"CLENERGY, A.S.",Slovakia,ZVOLEN,Unknown
+SLOVENSKA ASOCIACIA PRE BIOMASU,Slovakia,ZVOLEN,Unknown
+POLNOHOSPODARSKE DRUZSTVO - KAPUSANY,Slovakia,KAPUSANY PRI PRESOVE,Unknown
+SPIRIT INFORMACNE SYSTEMY A.S,Slovakia,BRATISLAVA,Unknown
+SLOVAK AGRICULTURAL RESEARCH AUTHORITY,Slovakia,NITRA,Unknown
+INSTITUTE OF EXPERIMENTAL PHYSICS SLOVAK ACADEMY OF SCIENCES,Slovakia,KOSICE,Unknown
+NATIONAL FOREST CENTRE,Slovakia,ZVOLEN,Unknown
+TECHNICKA UNIVERZITA VO ZVOLENE,Slovakia,ZVOLEN,Unknown
+SLOVAK RESEARCH AND DEVELOPMENT AGENCY,Slovakia,BRATISLAVA,Unknown
+NATIONAL AGENCY FOR DEVELOPMENT OF SMALL AND MEDIUM ENTERPRISES,Slovakia,BRATISLAVA,Unknown
+ASSOCIATION OF INDUSTRIAL RESEARCH AND DEVELOPMENT ORGANIZATIONS,Slovakia,BRATISLAVA,Unknown
+NOVITECH PARTNER LTD,Slovakia,KOSICE,Unknown
+OFFICE OF THE PRESIDIUM - SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+"INSTITUTE OF VIROLOGY, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+VYSKUMNY USTAV POTRAVINARSKY,Slovakia,BRATISLAVA,Unknown
+VUJE A.S.,Slovakia,TRNAVA,Unknown
+"INSTITUTE OF EXPERIMENTAL PHYSICS, SLOVAK ACADEMY OF SCIENCES",Slovakia,KOSICE,Unknown
+UNIVERSITY OF ZILINA IN ZILINA,Slovakia,ZILINA,Unknown
+"ZELEZNICNA SPOLOCNOST SLOVENSKO, A.S.",Slovakia,BRATISLAVA,Unknown
+ASTRONOMICKÃ ÃSTAV SLOVENSKEJ AKADÃMIE VIED,Slovakia,VYSOKÃ TATRY,Unknown
+INSTITUTE OF PHILOSOPHY AT THE SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+INSTITUTE OF MOLECULAR PHYSIOLOGY AND GENETICS,Slovakia,BRATISLAVA,Unknown
+AGROFINAL S.R.O,Slovakia,HLOHOVEC,Unknown
+SLOVAK ACADEMY OF SCIENCES.,Slovakia,BRATISLAVA,Unknown
+VYSKUMNY USTAV VODNEHO HOSPODARSTVA,Slovakia,BRATISLAVA,Unknown
+KERAMIKA BIELA HORA S.R.O.,Slovakia,MICHALOVCE,Unknown
+"INSTITUTE OF CHEMISTRY, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+COMENIUS UNIVERSITY IN BRATISLAVA,Slovakia,BRATISLAVA 16,Unknown
+REGIONALNE PORADENSKE A INFORMACNE CENTRUM PRESOV,Slovakia,PRESOV,Unknown
+THE PRESOV SELF-GOVERNING REGION,Slovakia,PRESOV,Unknown
+TRNAVSKY SAMOSPRAVNY KRAJ,Slovakia,TRNAVA,Unknown
+"THE CITY OF TRNAVA, LEGAL MUNICIPAL ENTITY",Slovakia,TRNAVA,Unknown
+SLOVAK UNIVERSITY OF TECHNOLOGY IN BRATISLAVA,Slovakia,BRATISLAVA,Unknown
+ASSOCIATION - REGIONAL DEVELOPMENT AGENCY OF TRNAVA REGION,Slovakia,TRNAVA,Unknown
+"ENVIRONMENTAL INSTITUTE, S.R.O.",Slovakia,KOS,Unknown
+POLYMER INSTITUTESLOVAK ACADEMY OF SCIENCE,Slovakia,BRATISLAVA,Unknown
+"SLOVAK ACADEMY OF SCIENCES, INSTITUTE FOR FORECASTING",Slovakia,BRATISLAVA,Unknown
+VYSKUMNY USTAV PODOZNALECTVA A OCHRANY PODY,Slovakia,BRATISLAVA,Unknown
+UNIVERZITA KOMENSKEHO V BRATISLAVE.,Slovakia,BRATISLAVA,Unknown
+NARODNE LESNICKE CENTRUM,Slovakia,ZVOLEN,Unknown
+THE SLOVAK UNIVERSITY OF AGRICULTURE IN NITRA,Slovakia,NITRA,Unknown
+UNIVERSITY OF SAINT CYRIL AND METOD IN TRNAVA,Slovakia,TRNAVA,Unknown
+REGIONAL ENVIRONMENTAL CENTER FOR CENTRAL AND EASTERN EUROPE REC SLOVAKIA,Slovakia,BRATISLAVA,Unknown
+"SLOVAK UNIVERSITY OF TECHNOLOGY, FACULTY OF ARCHITECTURE- SPECTRA CENTRE",Slovakia,BRATISLAVA,Unknown
+FARMACEUTICKÃ FAKULTA UNIVERZITY KOMENSKÃHO,Slovakia,BRATISLAVA,Unknown
+"INSTITUTE OF INORGANIC CHEMISTRY, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+UNIVERSITY OF ECONOMICS BRATISLAVA,Slovakia,BRATISLAVA,Unknown
+"INSTITUTE OF BOTANY, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+"PRVA ZVARACSKA, A.S.",Slovakia,BRATISLAVA,Unknown
+SPOLOCNOST PRE PROJEKTOVÃ RIADENIE (PROJECT MANAGEMENT ASSOCIATION OF SLOVAKIA),Slovakia,TRNAVA,Unknown
+NOVITECH PARTNER S.R.O.,Slovakia,KOSICE,Unknown
+SLOVENSKÃ AGENTÃRA NA PODPORU VÃSKUMU A VÃVOJA (SLOVAK RESEARCH AND DEVELOPMENT AGENCY),Slovakia,BRATISLAVA,Unknown
+VUJE A.S.,Slovakia,,Unknown
+SIEMENS PROGRAM AND SYSTEM ENGINEERING S.R.O.,Slovakia,BRATISLAVA,Unknown
+ELFA S.R.O.,Slovakia,KOSICE,Unknown
+"SARC - CENTRE FOR ADVANCEMENT, SCIENCE AND TECHNOLOGY",Slovakia,BRATISLAVA,Unknown
+UNIVERZITA KOMENSKEHO,Slovakia,BRATISLAVA 16,Unknown
+TECHNICKÃ UNIVERZITA VO ZVOLENE (TECHNICAL UNIVERSITY IN ZVOLEN),Slovakia,ZVOLEN,Unknown
+USTAV NORMALNEJ A PATOLOGICKEJ FYZIOLOGIE SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Unknown
+FYZIKALNY USTAV - SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Unknown
+UNIVERZITY OF SV CYRIL AND METOD IN TRNAVA,Slovakia,TRNAVA,Unknown
+REGIONAL AUTHORITY OF PUBLIC HEALTH,Slovakia,BANSKA BYSTRICA,Unknown
+ZILINSKÃ UNIVERZITA V ZILINE,Slovakia,ZILINA,Unknown
+SLOVAK AGRICULTURAL RESEARCH CENTRE,Slovakia,NITRA,Unknown
+CENTRUM VYSKUMU RASTLINNEJ VYROBY PIEST'ANY,Slovakia,PIESTANY,Unknown
+"PARASITOLOGICAL INSTITUTE, SLOVAK ACADEMY OF SCIENCES",Slovakia,KOSICE,Unknown
+NATIONAL FOREST CENTER,Slovakia,ZVOLEN,Unknown
+TECHNICKA UNIVERZITA VO ZVOLENE (TECHNICAL UNIVERSITY OF ZVOLEN),Slovakia,ZVOLEN,Unknown
+PEWAS SRO,Slovakia,BRATISLAVA,Unknown
+SAIA N.O,Slovakia,BRATISLAVA 1,Unknown
+TECHNICKA UNIVERZITA V KOSICIACH.,Slovakia,KOSICE,Unknown
+ING. GEJZA BODON EXOS CONSULTING,Slovakia,KOSICE,Unknown
+BOTANICKY USTAV - SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Unknown
+CENTRUM PRE JADROVU BEZPECNOST,Slovakia,BRATISLAVA,Unknown
+PRESKOVEJ REGIONALNEJ KOMORY SLOVENSKEJ OBCHODNEJ A PRIEMYSELNEJ KOMORY,Slovakia,PRESOV,Unknown
+REGIONAL AUTHORITY OF PUBLIC HEALTH BANSKÃ BYSTRICA,Slovakia,BANSKÃ BYSTRICA,Unknown
+KORAK SLOVAKIA S.R.O.,Slovakia,BANSKA BYSTRICA,Unknown
+UNIVERZITA PAVLA JOZEFA SAFARIKA V KOSICIACH,Slovakia,,Unknown
+DECOM SLOVAKIA SPOL SRO,Slovakia,TRNAVA,Unknown
+"LNSTITUTE OF PHYSICS, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+INSTITUTE OF ELECTRICAL ENGINEERING OF THE SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+"CASSOVIA BIC, SPOLOCNOST S RUCENIM OBMEDZENYM, KOSICE",Slovakia,KOSICE,Unknown
+INSTITUTE OF INORGANIC CHEMISTRY OF THE SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+UNIVERZITA KOMENSKEHO V BRATISLAVE,Slovakia,BRATISLAVA 16,Higher or Secondary Education Establishments
+"TS MOTORY, A.S.",Slovakia,MARTIN,Unknown
+PROCESNA AUTOMATIZACIA A.S. KOSICE,Slovakia,KOSICE,Unknown
+MINISTRY OF EDUCATION OF SLOVAK REPUBLIC,Slovakia,BRATISLAVA,Unknown
+FAKULTNA NEMOCNICA S POLIKLINIKOU BRATISLAVA,Slovakia,BRATISLAVA,Unknown
+SLOVENSKEJ FYZIKALNEJ SPOLOCNOSTI,Slovakia,BRATISLAVA,Unknown
+UNIVERZITA KOMENSKÃHO V BRATISLAVE,Slovakia,BRATISLAVA,Unknown
+ÃSTAV EXPERIMENTÃLNEJ ENDOKRINOLÃGIE SLOVENSKEJ AKADÃMIE VIED,Slovakia,BRATISLAVA,Unknown
+SARC - CENTRE FOR ADVANCEMENT OF SCIENCE AND TECHNOLOGY,Slovakia,BRATISLAVA,Unknown
+APVV - SLOVAK RESEARCH AND DEVELOPMENT AGENCY,Slovakia,BRATISLAVA,Unknown
+INSTITUT PRE DOBRE SPRAVOVANU SPOLOUNOSU,Slovakia,BRATISLAVA,Unknown
+CLINICAL RESEARCH ASSOCIATES AND CONSULTANTS,Slovakia,BRATISLAVA,Unknown
+ZDRUZENIA AUTOMOBILOVEHO PRIEMYSLU SLOVENSKEJ REPUBLIKY,Slovakia,BRATISLAVA 2,Unknown
+"BIONT, A.S.",Slovakia,BRATISLAVA,Unknown
+"SLOVNAFT VURUP, A.S.",Slovakia,BRATISLAVA,Unknown
+ÃSTAV MATERIÃLOV A MECHANIKY STROJOV SAV,Slovakia,BRATISLAVA,Unknown
+TECHNIKA UNIVERZITA VO ZVOLENE (TECHNICAL UNIVERSITY OF ZVOLEN),Slovakia,ZVOLEN,Unknown
+KOSICKY SAMOSPRAVNEHO KRAJ,Slovakia,KOSICE,Unknown
+MESTO MICHALOVCE,Slovakia,MICHALOVCE,Unknown
+INTERSOFT A.S.,Slovakia,KOSICE,Unknown
+"PRESIDIUM OFFICE, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+MINISTRY OF TRANSPORT AND COMMUNICATIONS OF SLOVAK REPUBLIC,Slovakia,BRATISLAVA,Unknown
+SLOVENSKÃ INOVACNÃ A ENERGETICKÃ AGENTÃRA,Slovakia,BRATISLAVA,Unknown
+SLOVAK INSTITUTE OF METROLOGY,Slovakia,BRATISLAVA,Unknown
+"SLOVAK OFFICE OF STANDARDS, METROLOGY AND TESTING",Slovakia,BRATISLAVA,Unknown
+"INSTITUT OF SLOVAK AND WORLD ECONOMY, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+FOOD RESEARCH INSTITUTE (VYSKUMNY USTAV POTRAVINARSKY),Slovakia,BRATISLAVA 26,Unknown
+ÃSTAV MOLEKULÃRNEJ FYZIOLÃGIE A GENETIKY SLOVENSKEJ AKADÃMIE VIED,Slovakia,BRATISLAVA,Unknown
+RESEARCH INSTITUTE OF AGRICULTURAL ECONOMICS,Slovakia,,Unknown
+RESEARCH INSTITUTE OF AGRICULTURAL AND FOOD ECONOMICS,Slovakia,,Unknown
+SLOVAK MEDICAL UNIVERSITY (BRATISLAVA),Slovakia,BRATISLAVA,Unknown
+SLOVENSKA ASOCIACIA VEREJNEHO ZDRAVIA,Slovakia,Kosice,Unknown
+RESEARCH INSTITUTE OF AGRICULTURAL AND FOOD ECONOMICS,Slovakia,BRATISLAVA,Unknown
+"INSTITUTE FOR ECONOMIC RESAERCH, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+ZILINSKA UNIVERZITA,Slovakia,ZILINA,Unknown
+SLOVENSKÃÂ¡ POLNOHOSPODÃÂ¡RSKA UNIVERZITA V NITRE,Slovakia,NITRA,Unknown
+DUSAN SALAT,Slovakia,VRBOVE,Unknown
+VYSKUMNY USTAV DOPRAVNY - TRANSPORT RESEARCH INSTITUTE,Slovakia,ZILINA,Unknown
+SLOVENSKA TECHNICKA UNIVERZITA BRATISLAVA,Slovakia,BRATISLAVA,Unknown
+USTAV MATERIALOV A MECHANIKY STROJOV SAV,Slovakia,BRATISLAVA,Unknown
+INA SKALICA SPOL. S.R.O.,Slovakia,SKALICA,Unknown
+SLOVAK ACADEMY OF SCIENCES-OFFICE OF THE PRESIDIUM-FOREIGN RELATIONS DEPARTMENT,Slovakia,BRATISLAVA,Unknown
+INTERNATIONAL LASER CENTER,Slovakia,BRATISLAVA,Unknown
+BOTANICKÃ ÃSTAV SLOVENSKEJ AKADÃMIE VIED,Slovakia,BRATISLAVA,Unknown
+AGENTURA PRE PODPORU REGIONALNEHO ROZVOJA KOSICE,Slovakia,KOSICE,Unknown
+"TWISTA, SPOL S.R.O.",Slovakia,HUMENNE,Unknown
+UNIVERSITY OF VETERINARY MEDICINE,Slovakia,KOSICE,Unknown
+DACHTO.COM S.R.O,Slovakia,SENICA,Unknown
+"BIC GROUP, S.R.O.",Slovakia,BRATISLAVA,Unknown
+INSTITUTE FOR STRUCTURAL POLICIES IREAS,Slovakia,BRATISLAVA,Unknown
+ENERGETICKE CENTRUM BRATISLAVA,Slovakia,BRATISLAVA,Unknown
+CASSOVIA BIC S.R.O.,Slovakia,KOSICE,Unknown
+SLOVAK ACADEMY OF SCIENCES - OFFICE OF THE PRESIDIUM,Slovakia,BRATISLAVA,Unknown
+MODULCAD S.R.O.,Slovakia,BRATISLAVA,Unknown
+INSTITUTE OF BOTANY-SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+"INSTITUTE OF MOLECULAR BIOLOGY, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA 45,Unknown
+UNIVERSZITY KOMENSKÃHO V BRATISLAVE,Slovakia,BRATISLAVA,Unknown
+"CARPAT, N.O.",Slovakia,PIESTANY,Unknown
+"INSTITUT OF ECONOMIC RESEARCH, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+UNIVERSITY OF PAVOL JOZEF SAFARIK,Slovakia,KOSICE,Unknown
+"VUTCH-CHEMITEX, SPOL. S.R.O.",Slovakia,ZILINA,Unknown
+EKONOMICKA UNIVERZITA V BRATISLAVE,Slovakia,BRATISLAVA,Unknown
+SLOVENSKY NARODNY ARCHIV,Slovakia,BRATISLAVA,Unknown
+"ROZVOJOVA AGENTURA TRENCIANSKEHO SAMOSPRAVNEHO KRAJA, N.O.",Slovakia,TRENCIN,Unknown
+"BIC GROUP, S. R. O.",Slovakia,BRATISLAVA,Unknown
+"SLOVAK CHAMBER OF COMMERCE AND INDUSTRY, TRENCIN REGIONAL CHAMBER",Slovakia,TRENCIN,Unknown
+TRENCIANSKA UNIVERZITA ALEXANDRA DUBCEKA V TRENCINE,Slovakia,TRENCIN,Unknown
+SLOVENSKA POL'NOHOSPODARSKA UNIVERSITA V NITRE (SLOVAK AGRICULTURAL UNIVERSITY IN NITRA),Slovakia,NITRA,Unknown
+ELEKTROTECHNICK PRODUKTY S.R.O.,Slovakia,BRATISLAVA,Unknown
+THE OFFICE OF BANSKA BYSTRICA SELF - GOVERNING REGION,Slovakia,BANSKA BYSTRICA,Unknown
+CENTRE FOR CREATIVITY AND INNOVATION,Slovakia,NOVÃ ZÃMKY,Unknown
+"INSITUTE OF MOLECULAR BIOLOGY, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+"TWISTA, SPOL SRO",Slovakia,HUMENNE,Unknown
+"COMENIUS UNIVERSITY, FACULTY OF NATURAL SCIENCES",Slovakia,BRATISLAVA,Unknown
+MESTSKA CAST KOSICE-SIDLISKO TAHANOVCE,Slovakia,KOSICE,Unknown
+ZILINSKA UNIVERZITA,Slovakia,ZLINA,Unknown
+"COMENIUS UNIVERSITY, FACULTY OF MATHEMATICS, PHYSICS AND INFORMATICS, INSTITUTE OF PHYSICS",Slovakia,BRATISLAVA,Unknown
+STATE GEOLOGICAL INSTITUTE OF DIONYZ STUR,Slovakia,BRATISLAVA,Unknown
+DEMA - CONSULTANT,Slovakia,SUCANY,Unknown
+"REGIONAL GOVERNMENT, BRATISLAVA",Slovakia,BRATISLAVA,Unknown
+USTAV POLYMEROV - SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Unknown
+DANUBIA NANOTECH S.R.O.,Slovakia,BRATISLAVA,Unknown
+SLOVENSKY HODVAB AS,Slovakia,SENICA,Unknown
+ZDRUZENIE POUZIVATELOV SLOVENSKEJ AKADEMICKEJ DATOVEJ SIETE,Slovakia,BRATISLAVA,Unknown
+ZDRUZENIE POUZIVATELOV SLOVENSKEJ AKADEMICKEJ DATOVEJ SIETE,Slovakia,Bratislava,Unknown
+SLOVAK UNIVERSITY OF TECHNOLOGY,Slovakia,Bratislava,Unknown
+ELEKTROTECHNICKY USTAV - SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Unknown
+"BIOMASA, ZDRUZENIE PRAVNICKYCH OSOB",Slovakia,KYSUSKY LIESKOVEC,Unknown
+UNIVERZITA SV. CYRILA A METODA V TRNAVE,Slovakia,TRNAVA,Unknown
+USTAV MATERIALOV A MECHANIKY STROJOV - SLOVENSKA AKADEMIA VIED,Slovakia,BRATISLAVA 3,Unknown
+SPOLOCNOST PRE NOVE MATERIALY A TECHNOLOGIE SLOVENSKA,Slovakia,BRATISLAVA,Unknown
+VYSKUMNY USTAV ZVARACSKY - PRIEMYSELNY INSTITUT SR,Slovakia,BRATISLAVA 3,Unknown
+"USTAV INFORMATIKY, SLOVENSKA AKADEMIA VIED",Slovakia,,Unknown
+"COMENIUS UNIVERSITY, FACULTY OF MATHEMATICS, PHYSICS AND INFORMATICS,",Slovakia,BRATISLAVA,Unknown
+NOVOFRUCT SK S.R.O.,Slovakia,NOVE ZAMKY,Unknown
+LIKO BRATISLAVA A.S.,Slovakia,BRATISLAVA,Unknown
+MINISTRY OF EDUCATION OF THE SLOVAK REPUBLIC,Slovakia,BRATISLAVA,Unknown
+VYSKUMNY USTAV PODOZNALECTVA A OCHRANY PODY/SOIL SCIENCE AND CONSERVATION RESEARCH INSTITUTE,Slovakia,BRATISLAVA,Unknown
+"INSITUTE OF EXPERIMENTAL PHARMACOLOGY, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+UNIVERZITA SV CYRILA A METODA V TRNAVE,Slovakia,TRNAVA,Unknown
+NOVITECH A.S.,Slovakia,KOSICE,Unknown
+"VINNE PIVNICE SVT JUR, S.R.O.",Slovakia,SVÃTÃ JUR,Unknown
+"UNIVERSITY OF VIROLOGY, SLOVAK ACADEMY OF SCIENCES",Slovakia,BRATISLAVA,Unknown
+SPOLOK SLOVENSKYCH KNIHOVNIKOV,Slovakia,BRATISLAVA,Unknown
+SLOVAK CHAMBER OF COMMERCE AND INDUSTRY,Slovakia,BRATISLAVA 1,Unknown
+UNIVERZITA KOMENSKEHO,Slovakia,BRATISLAVA,Unknown
+UNIVESITY OF ZILINA,Slovakia,ZILINA,Unknown
+UNIVERZITA KOMENSKÃHO V BRATISLAVE -,Slovakia,BRATISLAVA,Unknown
+KLF-ZVL MTK SPOL. S R.O.,Slovakia,MARTIN,Unknown
+"SLOVAK ACADEMY OF SCIENCES, INSTITUTE OF HISTORY, INSTITUTE OF ETHNOLOGY",Slovakia,BRATISLAVA,Unknown
+INSTITUTE OF PHILOSOPHY OF THE SLOVAK ACADEMY OF SCIENCES,Slovakia,BRATISLAVA,Unknown
+SLOVENSKÃ HYDROMETEOROLOGICKÃ ÃSTAV,Slovakia,BRATISLAVA,Unknown
+FOUR TRADE S.R.O,Slovakia,ZIAR NAD HRONOM,Unknown
+ING. LADISLAV ANDRASIK VRYOBA ODLIATKOX,Slovakia,ZIAR NAD HRONOM,Unknown
+"RNDR. KAMIL VRANA, PHD.-HYDEKO-KV",Slovakia,BRATISLAVA,Unknown
+"VAF, S.R.O.",Slovakia,BRATISLAVA,IND
+"SAE-AUTOMATION,S.R.O",Slovakia,NOVA DUBNICA,Unknown
+PRESOVSKA UNIVERZITA V PRESOVE,Slovakia,PRESOV,Unknown
+EXCELLENT SPOL. S R.O.,Slovakia,KOSICE,Unknown
+ALLDECO,Slovakia,JASLOVSKE BOHUNICE,Unknown
+Zapadoslovenska Distribucna as,Slovakia,Bratislava 1,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+STATNE LESY TATRANSKEHO NARODNEHO PARKU,Slovakia,VYSOKE TATRY,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+CMMS SRO,Slovakia,STUROVO,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+USTAV MATERIALOVEHO VYSKUMU SLOVENS KEJ AKADEMIE VIED*INSTITUTE OF MATE RIALS RESEARCH SLOVAK ACADEMY OF SC IENCES,Slovakia,KOSICE,Research Organisations
+Ustav Zoologie Slovenskej akademie vied,Slovakia,Bratislava,Research Organisations
+MEDMARK SRO,Slovakia,NOVE ZAMKY,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ECOLAND SRO,Slovakia,TRNAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GEOTHERMAL ANYWHERE AS,Slovakia,TRNAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MEROCO AS,Slovakia,Leopoldov,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Zdruzenie Maxa Reinhardta,Slovakia,Bratislava,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+"ALLIED COMMUNICATIONS, S.R.O.*FORELINTERNATIONAL SCHOOL FOREL",Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SUISSE EXPERTS SRO,Slovakia,BORINKA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ZDRUZENIE BITERAP,Slovakia,Bratislava,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LESY SLOVENSKEJ REPUBLIKY,Slovakia,Banska Bystrica,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+KAMEA ELECTRONICS SRO,Slovakia,PIESTANY,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+JAZYKOVEDNY USTAV LUDOVITA STURA SLOVENSKEJ AKADEMIE VIED,Slovakia,Bratislava,Research Organisations
+"INDRA Slovakia, a.s.",Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INSTITUT PRE DOBRE SPRAVOVANU SPOLOCNOST,Slovakia,BRATISLAVA,Research Organisations
+VYSOKOSPECIALIZOVANY ODBORNY USTAV GERIATRICKY SV. LUKASA V KOSICIACH N.O.,Slovakia,KOSICE,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+VYSKUMNY USTAV ZVARACSKY - PRIEMYSELNY INSTITUT SR,Slovakia,BRATISLAVA,Unknown
+MONDI SCP AS,Slovakia,RUZOMBEROK,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"SYNKOLA, S.R.O.",Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+USTAV VYSKUMU SOCIALNEJ KOMUNIKACIE SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Research Organisations
+SIRECO S.R.O.,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GALANTATERM SPOL. SR.O.,Slovakia,GALANTA,Unknown
+BYSPRAV,Slovakia,Galanta,Unknown
+Mesto Galanta,Slovakia,Galanta,Unknown
+HORNONITRIANSKE BANE PRIEVIDZA AS,Slovakia,PRIEVIDZA,Unknown
+PAMIDA INTERNATIONAL SRO,Slovakia,KOSICE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INFOSTAT- INSTITUT INFORMATIKY A STATISTIKY INFOSTAT,Slovakia,Bratislava,Research Organisations
+OBCIANSKE ZDRUZENIE SLOVENSKA ASOCIACIA VEREJNEHO ZDRAVIA,Slovakia,KOSICE,Research Organisations
+ZVAZ CHEMICKEHO A FARMACEUTICKEHO PRIEMYSLU SLOVENSKEJ REPUBLIKY,Slovakia,BRATISLAVA,Other
+SLOVAK TELEKOM AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Ãrad verejnÃ©ho zdravotnÃ­ctva SR,Slovakia,Bratislava,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+STREDOSLOVENSKY USTAV SRDCOVYCH A CIEVNYCH CHOROB AS,Slovakia,BanskÃ¡ Bystrica,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Ministry of Transport and Communications of Slovak Republic,Slovakia,Bratislava 15,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+"Ardaco, a.s.",Slovakia,Bratislava,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EDIS (VYSKUMNE A VYVOJOVE DRUZSTVOPRE ELEKTRONICKE DIGITALNE SYSTEMY),Slovakia,Kosice,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VERDE SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NARODNY BEZPECNOSTNY URAD,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+WORLD CONSULT AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KLF-ZVL MTK SPOL. S R.O.,Slovakia,MARTIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+USTAV MOLEKULARNEJ FYZIOLOGIE A GENETIKY SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Higher or Secondary Education Establishments
+MOLEKULARNOMEDICINSKE CENTRUM SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Research Organisations
+Agency for the support of regional development Kosice,Slovakia,KOSICE,Other
+NETWORK OF INSTITUTES AND SCHOOLS OF PUBLIC ADMINISTRATION IN CENTRAL AND EASTERN EUROPE,Slovakia,BRATISLAVA,Other
+ZTS VYSKUMNO-VYVOJOVY USTAV KOSICE AS,Slovakia,KOSICE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"Solarklima, s.r.o.",Slovakia,Kosice - Saca,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VÃœchodoslovenskÃ¡ energetika a.s.,Slovakia,KoÅ¡ice,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Ministry of Interior of the Slovak Republic,Slovakia,Bratislava,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ADDSEN SRO,Slovakia,MALACKY,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INSTITUTE OF PLANT GENETICS AND BIOTECHNOLOGY,Slovakia,NITRA,Higher or Secondary Education Establishments
+ALLPLAN SLOVENSKO SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GTVT S.R.O,Slovakia,MARIANKA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"ON Semiconductor Slovakia, a.s.",Slovakia,Piestany,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BROADBIT SLOVAKIA SRO,Slovakia,KOMARNO,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AUTOMOBILOVY KLASTER - ZAPADNE SLOVENSKO ZDRUZENIE,Slovakia,TRNAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+RICHTER RASEN SLOVAKIA SRO,Slovakia,ZAVOD,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+S-TEAM LAB SPOL SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VYSKUMNY USTAV POTRAVINARSKY,Slovakia,BRATISLAVA,Research Organisations
+VYSKUMNY USTAV EKONOMIKY POLNOHOSPODARSTVA A POTRAVINARSTVA,Slovakia,BRATISLAVA,Research Organisations
+HEIDELBERG POSTPRESS SLOVENSKO SPOL SRO,Slovakia,NOVE MESTO NAD VAHOM,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+COMPUTER CONTROL TECHNOLOGY SRO,Slovakia,PRESOV,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AKADEMIA OZBROJENYCH SIL GENERALA MILANA RASTISLAVA STEFANIKA,Slovakia,LIPTOVSKY MIKULAS,Higher or Secondary Education Establishments
+VYSKUMNY USTAV PODOZNALECTVA A OCHRANY PODY,Slovakia,BRATISLAVA,Research Organisations
+VYSKUMNY USTAV CHEMICKYCH VLAKIEN AS,Slovakia,SVIT,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ZELEZNICNA SPOLOCNOST SLOVENSKO A.S,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+3R TECHNICS SLOVAKIA SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+WEASTRA SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NEWAYS SLOVAKIA AS,Slovakia,NOVA DUBNICA,Unknown
+SOFT & CONTROL TECHNOLOGY SRO,Slovakia,KOSICE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"CENTRUM ROZVOJA ZAHRADNICTVA, SPOLSRO",Slovakia,Prieviddza,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIA MAGNA SRO,Slovakia,VRUTKY,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"TC CONTACT, spol. s r.o.",Slovakia,NOVE MESTO NAD VAHOM,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GOTIVE a.s.,Slovakia,Bratislava,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TOWERCOM AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ERUPSI SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PRVA ZVARACSKA a. s.,Slovakia,Bratislava,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ROBOTEC SRO,Slovakia,SUCANY,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Vedecko-technologicky park Zilina,Slovakia,Zilina,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CEIT SK SRO,Slovakia,Zilina,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KIOS S.R.O.,Slovakia,PIE`dANY,Unknown
+"LETISKO M. R. STEFANIKA - AIRPORT BRATISLAVA, A.S. (BTS)",Slovakia,BRATISLAVA 21,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HAMELN RDS AS,Slovakia,MODRA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BROADBIT SLOVAKIA SRO,Slovakia,KOMARNO,Unknown
+ENVIRONCENTRUM SRO,Slovakia,KOSICE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INSTITUT PRE VYSKUM PRACE A RODINY,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+THE SPOT,Slovakia,BRATISLAVA,Other
+CORINEX COMMUNICATIONS AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CLINICAL RESEARCH ASSOCIATES & CONSULTANTS S.R.O.,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UNIA KLASTROV SLOVENSKA ZDRUZENIE,Slovakia,NITRA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GEOFYZIKALNY USTAV SLOVENSKEJ AKADEMIE VIED,Slovakia,Bratislava,Research Organisations
+PROGSEIS,Slovakia,Trnava,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"RNDr. Kamil Vrana, CSc.-HYDEKO-KV",Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"FAGOR EDERLAN SLOVENSKO, A.S.",Slovakia,ZIAR NAD HRONOM,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Monika Gotsova,Slovakia,Presov,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+RNDR PETER MEDERLY REGIOPLAN-KRAJINNOCKOLOGICKY SERVIS,Slovakia,NITRA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AGENTURA NA PODPORU VYSKUMU A VYVOJA,Slovakia,BRATISLAVA,Research Organisations
+URAD JADROVEHO DOZORU SLOVENSKEJ REPUBLIKY,Slovakia,Bratislava,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+Unia nevidiacich a slabozrakych Slovenska,Slovakia,Bratislava,Other
+INSTITUTE FOR PUBLIC AFFAIRS,Slovakia,BRATISLAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+USTAV MEDICINSKEJ ETIKY A BIOETIKY n.f.,Slovakia,Bratislava,Research Organisations
+USTAV EXPERIMENTALNEJ ENDOKRINOLOGIE - SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Research Organisations
+QUERCUS s.r.o.,Slovakia,LUCENEC,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SLOVENSKA SPOLOCNOST PRE POVRCHOVE UPRAVY,Slovakia,BRATISLAVA,Other
+SLOVENSKY HYDROMETEOROLOGICKY USTAV,Slovakia,BRATISLAVA,Research Organisations
+UNIVERZITNA KNIZNICA V BRATISLAVE,Slovakia,Bratislava,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+LOX Technologies,Slovakia,Piestany,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SLOVENSKE ELEKTRARNE AKCIOVA SPOLOCNOST,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MINISTERSTVO SKOLSTVA SLOVENSKEJ REPUBLIKY,Slovakia,Bratislava,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+Ing.Jan Sestina SETA,Slovakia,Ruzomberok,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PAM-ak s.r.o.,Slovakia,Chorvatsky Grob,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Zilina self-governing region,Slovakia,Zilina,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+"TEN SLOVAKIA, s.r.o.",Slovakia,Samorin,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CORDIA AS,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+USTAV MOLEKULARNEJ BIOLOGIE SLOVENSKEJ AKADEMIE VIED,Slovakia,BRATISLAVA,Research Organisations
+USTAV BIOCHEMIE A GENETIKY ZIVOCICHOV SLOVENSKEJ AKADEMIE VIED,Slovakia,IVANKA PRI DUNAJI,Research Organisations
+SLOVENSKE CENTRUM POLNOHOSPODARSKEHO VYSKUMU,Slovakia,NITRA,Research Organisations
+Ustav molekularnej biologie Slovenskej akademie vied,Slovakia,Bratislava,Higher or Secondary Education Establishments
+CENTRUM VYSKUMU ZIVOCISNEJ VYROBY NITRA,Slovakia,LUZIANKY,Research Organisations
+ELFA S.R.O.,Slovakia,KOSICE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TAUSEC SRO,Slovakia,KOSICE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ENERGY CHANGES SRO,Slovakia,BRATISLAVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Slovenske narodne muzeum,Slovakia,Bratislava,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+MLADI VEDCI SLOVENSKA,Slovakia,BRATISLAVA,Other

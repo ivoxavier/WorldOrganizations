@@ -1,0 +1,944 @@
+name,country,city,businessType
+KOC UNIVERSITY,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+PROMATEK DENIZCILIK TEKNOLOJILERI VE MUHENDISLIK COZUMLERI SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ARCELIK A.S.,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ISTANBUL BILGI UNIVERSITESI,Turkey,EYUP ISTANBUL,Higher or Secondary Education Establishments
+HAYATA DESTEK DERNEGI,Turkey,ISTANBUL,Other
+MIDDLE EAST TECHNICAL UNIVERSITY,Turkey,ANKARA,Higher or Secondary Education Establishments
+BOGAZICI ULUSLARARASI EGITIM DANISMANLIK MERKEZI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BILKENT UNIVERSITESI VAKIF,Turkey,BILKENT ANKARA,Higher or Secondary Education Establishments
+BOGAZICI UNIVERSITESI,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+SILVERLINE ENDUSTRI VE TICARET A.S.,Turkey,AMASYA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKIYE BILIMSEL VE TEKNOLOJIK ARASTIRMA KURUMU,Turkey,ANKARA,Research Organisations
+GAZIANTEP ILI DAMIZLIK KOYUN KECI YETISTIRICILERI BIRLIGI,Turkey,SEHITKAMIL GAZIANTEP,Other
+OMER HALISDEMIR UNIVERSITISI,Turkey,NIGDE,Higher or Secondary Education Establishments
+PAN HAYVANCILIK GIDA SANAYI VE TICARET LIMITED SIRKETI,Turkey,SEHITKAMIL GAZIANTEP,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ATATURK UNIVERSITY,Turkey,ERZURUM,Higher or Secondary Education Establishments
+RED ROCK AGRICULTURAL PASTORAL TARIM LIMITED SIRKETI,Turkey,CANKAYA ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Turkiye Petrol Rafinerileri Anonim Sirketi,Turkey,Kocaeli,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MINISTRY OF AGRICULTURE AND FORESTRY,Turkey,Ankara,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ELEKTRIK DAGITIM HIZMETLERI DERNEGI(ELDER),Turkey,CANKAYA,Other
+AYDEM ELEKTRIK DAGITIM ANONIM SIRKETI,Turkey,DENIZLI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKIYE CIMENTO MUSTAHSILLERI BIRLIGI,Turkey,CANKAYA ANKARA,Other
+EKODENGE MUHENDISLIK MIMARLIK DANISMANLIK TICARET ANONIM SIRKETI,Turkey,CANKAYA ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AKG GAZBETON ISLETMELERI SANAYI VETICARETCARET AS,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ZORLU ENERJI ELEKTRIK URETIM AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+M-D2 MUHENDISLIK DANISMANLIK INSAAT TAAHHUT IC VE DIS TICARET LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SRDC YAZILIM ARASTIRMA VE GELISTIRME VE DANISMANLIK TICARET ANONIM SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+IZMIR BUYUKSEHIR BELEDIYESI,Turkey,IZMIR,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+IZMIR INSTITUTE OF TECHNOLOGY,Turkey,IZMIR,Higher or Secondary Education Establishments
+DE SURDURULEBILIR ENERJI VE INSAAT SANAYI TICARET LIMITED SIRKETI,Turkey,KADIKOY ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AREFSENS ELECTRONICS BIOTECHNOLOGY INC,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KARADENIZ TEKNIK UNIVERSITESI,Turkey,TRABZON,Higher or Secondary Education Establishments
+GREEN DANISMANLIK FINANS ENERJI CEVRE MUHENDISLIK TARIM MUSAVIRLIK INSAAT SANAYI VE DIS TICARET LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KILIC DENIZ URUNLERI URETIMI IHRACAT ITHALAT VE TICARET AS,Turkey,BODRUM MUGLA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+YEDITEPE UNIVERSITY VAKIF,Turkey,Istanbul,Higher or Secondary Education Establishments
+ARGENIT AKILLI BILGI TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EGE UNIVERSITY,Turkey,IZMIR,Higher or Secondary Education Establishments
+MERCEDES-BENZ TURK AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BETA FIDAN DOKU KULTURU ISLAH ARGEZIRAAT TARIM SULAMA HAYVANCILIK GIDA TURIZM INSAAT SANAYI TICARET LIMITED SIRKETI,Turkey,ADANA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MUSTAFA KEMAL UNIVERSITY,Turkey,ANTAKYA HATAY,Higher or Secondary Education Establishments
+TEKIRDAG NAMIK KEMAL UNIVERSITESI,Turkey,Tekirdağ,Higher or Secondary Education Establishments
+DOKUZ EYLUL UNIVERSITESI,Turkey,ALSANCAK IZMIR,Higher or Secondary Education Establishments
+ANKARA UNIVERSITESI,Turkey,TANDOGAN ANKARA,Higher or Secondary Education Establishments
+FORD OTOMOTIV SANAYI ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ISTANBUL TEKNIK UNIVERSITESI,Turkey,MASLAK ISTANBUL,Higher or Secondary Education Establishments
+Istanbul Metropolitan Municipality,Turkey,Istanbul,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+INAVITAS ENERJI ANONIM SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OSMANGAZI ELEKTRIK DAGITIM ANONIM SIRKETI,Turkey,ESKISEHIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ISTANBUL UNIVERSITESI - CERRAHPASA,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+ISTANBUL UNIVERSITESI,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+BYS GROUP INFORMATION SYSTEMS CONSULTANCY TRADE AND INDUSTRY LIMITED COMPANY,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Turkiye Cumhuriyeti Saglik Bakanligi,Turkey,Ankara,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SABANCI UNIVERSITESI,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+AVL ARASTIRMA VE MUHENDISLIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,GEBZE KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HABITUS ARASTIRMA VE DANISMANLIK LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KORDSA TEKNIK TEKSTIL ANONIM SIRKETI,Turkey,KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ISTANBUL CHEMICALS AND CHEMICAL PRODUCTS EXPORTERS' ASSOCIATION,Turkey,ISTANBUL,Other
+UNIVERSITY OF CUKUROVA,Turkey,ADANA,Higher or Secondary Education Establishments
+BASBAKANLIK AFET VE ACIL DURUM YONETIMI BASKANLIGI,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TEKNOLOJI ARASTIRMA GELISTIRME ENDUSTRIYEL URUNLER BILISIM TEKNOLOJILERI SANAYI VE TICARET ANONIM TICARET,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKCELL TEKNOLOJI ARASTIRMA VE GELISTIRME ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TOGEN DANISMANLIK TARIM VE HAYVANCILIK ZIRAAT GIDA BIOTEKNOLOJI ITHALAT IHRACAT SAN VE TIC LTD,Turkey,ADANA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KADIR HAS UNIVERSITESI,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+CAMLI YEM BESICILIK SANAYI VE TICARET ANONIM SIRKETI,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NETAS TELEKOMUNIKASYON ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ASAS ALUMINYUM SANAYI VE TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TRAFIK ARASTIRMA YONETIM SIMULASYON INSAAT MUSAVIRLIK PROJE VE TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Sampas Bilisim Ve Iletisim Sistemleri Sanayi Ve Ticaret A.S.,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ANTALYA METROPOLITAN MUNICIPALITY,Turkey,ANTALYA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ANTEPE INSAAT VE TICARET ANONIM SIRKETI,Turkey,ANTALYA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AKDENIZ UNIVERSITY,Turkey,ANTALYA,Higher or Secondary Education Establishments
+MIKROELEKTRONIK ARASTIRMA GELISTIRME TASARIM VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SMART IS MAKINALARI SANAYI VE TICARET ANONIM SIRKETI,Turkey,MANISA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MARMARA UNIVERSITY,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+GE MARMARA TECHNOLOGY CENTER MUHENDISLIK HIZMETLERI LIMITED SIRKETI,Turkey,MASLAK,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VESTEL ELEKTRONIK SANAYI VE TICARET ANONIM SIRKETI,Turkey,MANISA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+FLOTEKS PLASTIK SANAYI VE TICARET AS,Turkey,DEMIRTAS BURSA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MINISTRY OF ENVIRONMENT AND FORESTRY GENERAL DIRECTORATE OF FORESTRY,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TURKIYE CUMHURIYETI DEVLET DEMIR YOLLARI ISLETMESI GENEL MUDURLUGU,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TOFAS TURK OTOMOBIL FABRIKASI ANONIM SIRKETI,Turkey,SISLI ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TEKNOPAR ENDUSTRIYEL OTOMASYON SANAYI VE TICARET ANONIM SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NOKSEL CELIK BORU SANAYI AS,Turkey,ANKAR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TIRSAN TREYLER SANAYI VE TICARET AS,Turkey,SAKARYA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ORGANIK KIMYA SANAYI VE TICARET AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OZYEGIN UNIVERSITESI,Turkey,ALEMDAG CEKMEKOY ISTANBUL,Higher or Secondary Education Establishments
+PANASONIC LIFE SOLUTIONS ELEKTRIK SANAYI VE TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ESKISEHIR OSMANGAZI UNIVERSITESI,Turkey,ESKISEHIR,Higher or Secondary Education Establishments
+ERGUNLER INSAAT PETROL URUNLERI OTOMOTIV TEKSTIL MADENCILIK SU URUNLER SANAYI VE TICARET LIMITED STI.,Turkey,ISPARTA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INOVASYON MUHENDISLIK TEKNOLOJI GELISTIRME DANISMANLIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,ESKISEHIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OTOKAR OTOMOTIV VE SAVUNMA SANAYI AS,Turkey,MALTEPE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TECHY BILISIM TEKNOLOJILERI DANISMANLIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,ODUNPAZARI ESKISEHIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BORNOVA BELEDIYESI,Turkey,IZMIR BORNOVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+PAVO TASARIM URETIM ELEKTRONIK TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ENFORMA BILISIM ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ROKETSAN ROKET SANAYII VE TICARET ANONIM SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+FARPLAS OTOMOTIV ANONIM SIRKETI,Turkey,KOCAELİ,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TC BASAKSEHIR BELEDIYESI,Turkey,ISTANBUL,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ERICSSON ARASTIRMA GELISTIRME VE BILISIM HIZMETLERI ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKSAT UYDU HABERLESME VE KABLO TV ISLETME AS,Turkey,GOLBASI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TUSAS-TURK HAVACILIK VE UZAY SANAYII AS,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ROBONIK MEKATRONIK TEKNOLOJILERI DANISMANLIK SANAYI VE TICARET LIMITEDSIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+IMECAR ELEKTRONIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,ANTALYA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KARINCA TEKNOLOJI VE ILETISIM SANAYI VE TICARET LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TEKFEN MUHENDISLIK AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ARGEIST SANAL VE ARTIRILMIS GERCEKLIK TEKNOLOJILERI LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIDEO ANALITIK BILISIM TEKNOLOJILERI ARGE DANISMANLIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+IF GROUP ARASTIRMA GELISTIRME PROJE DANISMANLIK EGITIM SANAYI VE TICARET AS,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KOSGEB-KUCUK VE ORTA OLCEKLI ISLETMELERI GELISTIRME VE DESTEKLEME IDARESI BASKANLIGI,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+GAZIANTEP UNIVERSITESI TARGET TEKNOLOJI TRANSFER OFISI AS,Turkey,GAZIANTEP,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GAZIANTEP CHAMBER OF INDUSTRY,Turkey,GAZIANTEP,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+GAZIANTEP TEKNOLOJI GELISTIRME BOLGESI KURUCU VE ISLETICI ANONIM SIRKETI AS,Turkey,SEHITKAMIL GAZIANTEP,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DIYARBAKIR CHAMBER OF COMMERCE AND INDUSTRY,Turkey,DIYARBAKIR,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SANLIURFA TICARET VE SANAYI ODASI,Turkey,HALILIYE SANLIURFA,Research Organisations
+KUARTISMED MEDIKAL ARASTIRMA GELISTIRME DANISMANLIK EGITIM SANAYI VE TICARET LIMITED SIRKETI,Turkey,CANKAYA ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AKDENIZ KORUMA DERNEGI,Turkey,URLA IZMIR,Other
+BITNET BILISIM HIZMETLERI LIMITED SIRKETI,Turkey,CEKMEKOY ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ENTEKNO ENDUSTRIYEL TEKNOLOJIK VE NANO MALZEMELER SANAYI VE TICARET ANONIM SIRKETI,Turkey,ESKISEHIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MINISTRY OF INDUSTRY AND TECHNOLOGY,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ALISPINE SAGLIK HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HISBIM HISARLAR BILGI VE INOVASYONMERKEZI SANAYI VE TICARET ANONIMSIRKETI,Turkey,ESKISEHIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INTEGRITY NDT MUHENDISLIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INTERMODAL TASIMACILIK VE LOJISTIKARASTIRMA DERNEGI,Turkey,ANKARA,Research Organisations
+MINISTRY OF NATIONAL EDUCATION,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+Herdem Attorneys at Law,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GLAKOLENS BIYOMEDIKAL BIYOTEKNOLOJISANAYI VE TICARET ANONIM SIRKETI,Turkey,"SARIYER, ISTANBUL",Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NG BIYOTEKNOLOJI LIMITED SIRKETI,Turkey,BASAKSEHIR ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+YAZILIM SANAYICILERI DERNEGI,Turkey,ISTANBUL,Other
+NESNE ELEKTRONIK TASARIM-DANISMANLIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,BORNOVA IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MOBILUS YAZILIM BILGISAYAR ILETISIM SANAYI VE TICARET ANONIM SIRKETI,Turkey,CANKAYA ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKIYE KALKINMA BANKASI ANONIM SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+JEOTERMAL ELEKTRIK SANTRAL YATIRIMCILARI DERNEGI,Turkey,IZMIR,Other
+POLARAN YAZILIM BILISIM DANISMANLIKITHALAT IHRACAAT SANAYI TICARET LIMITED SIRKETI,Turkey,CANKAYA ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ULUSAL ZEYTIN VE ZEYTINYAGI KONSEYIBASKANLIGINA,Turkey,Izmir,Other
+APPSILON ILERI MALZEMELER DANISMANLIK SANAYI VE TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ISTANBUL OKAN UNIVERSITESI,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+BIYANS BIYOLOJIK URUNLER AR-GE DANISMANLIK SANAYI TICARET LIMITED SIRKETI,Turkey,CANKAYA ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Zip Prime Biyoteknoloji Limited Sirketi,Turkey,Ankara,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LOJIKA BILGI TEKNOLOJILERI VE SERVISLERI TICARET AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TVARC ARGE SAVUNMA MAKINE MUHENDISLIK EGITIM DANISMANLIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,ESKISEHIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MITOS MEDIKAL TEKNOLOJILER SANAYIVE TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MATRIKS BIYOTEKNOLOJI SANAYI VE TICARET LIMITED SIRKETI,Turkey,GOLBASI ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MIKRO BIYOSISTEMLER ELEKTRONIK SANAYI VE TICARET ANONIM SIRKETI,Turkey,CANKAYA ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LUMOS LAZER ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ANKARA SOSYAL BILIMLER UNIVERSITESI,Turkey,ANKARA,Higher or Secondary Education Establishments
+PETKIM PETROKIMYA HOLDING ANONIM SIRKETI,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TABU COZUMLERI DANISMANLIK LIMITED SIRKETI,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MEINOX ILAC TEKNOLOJILERI AS,Turkey,SARIYER ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+REENGEN ENERJI TEKNOLOJILERI ANONIM SIRKETI,Turkey,SARIYER ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ALFANORM TASARIM MIMARLIK MUHENDISLIK LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+IMARINE DENIZ TEKNOLOJILERI VE ARASTIRMALARI SANAYI VE TICARET ANONIMSIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MIGROS TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BIOCAPSOL KIMYA ANONIM SIRKETI,Turkey,PENDIK ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HEKSAGON MUHENDISLIK VE TASARIM AS,Turkey,BESIKTAS ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BIGEKA PROJE EGITIM DANISMANLIK LTD.STI,Turkey,VAN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+IHALE TEKNOLOJILERI  A.S.,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BASKENT ELEKTRIK DAGITIM ANONIM SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KOLLESTEE MEDIKAL SANAYI VE TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SENSENCALL YAZILIM DANISMANLIK MEDIKAL ELEKTRONIK SANAYI VE TICARET ANONIM SIRKETI,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VISPERA BILGI TEKNOLOJILERI SANAYI IC VE DIS TICAREST ANONIM SIRKETI,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MAGSPIN ILERI TEKNOLOJI MALZEMELERIARASTIRMA GELISTIRME URETIM TICARET SANAYI ANONIM SIRKETI,Turkey,ESKISEHIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+YDR TEKNOLOJI GELISTIRME LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ULUSLARARASI GUNES ENERJISI TOPLULUGU TURKIYE BOLUMU DERNEGI,Turkey,CANKAYA ANKARA,Other
+DONE ILETISIM BILGI SISTEMLERI VE YAY. SAN. VE TIC. A.S.,Turkey,ESENLER,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NANOGRAFI NANO TEKNOLOJI BILISIM IMALAT VE DANISMANLIK LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CEVRE DOSTU YESIL BINALAR DERNEGI IKTISADI ISLETMESI,Turkey,ISTANBUL,Other
+NANOME NANO TEKNOLOJI ARGE DANISMANLIK SANAYI VE TICARET LIMITED SIRKET,Turkey,KAYSERI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CIMSA CIMENTO SANAYI VE TICARET ANONIM SIRKETI,Turkey,USKUDAR ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ELEKTROSENS SAGLIK VE DANISMANLIK HIZMETLERI ANONIM SIRKETI,Turkey,ESENLER ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Ambulance and Emergency Physicians Association,Turkey,Izmir,Research Organisations
+FRATELLI DANISMANLIK AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"ANKARA ELEKTRIK, HAVAGAZI VE OTOBUSISLETME MUESSESESI",Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PEGASUS HAVA TASIMACILIGI ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURK PATENT ENSTITUSU,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+IZMIR BIYOTIP VE GENOM MERKEZI,Turkey,IZMIR,Research Organisations
+MINE PLASTIK ENDUSTRIYEL URUNLER VE SERT MADEN KIMYA LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ISTANBUL SEHIR UNIVERSITESI,Turkey,DRAGOS KARTAL ISTANBUL,Higher or Secondary Education Establishments
+MULTECILER VE SIGINMACILAR YARDIMLASMA VE DAYANISMA DERNEGI,Turkey,ISTANBUL,Other
+KADIKOY BELEDIYESI,Turkey,ISTANBUL,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+KIVANC KIMYA SANAYII VE TICARET ANONIM SIRKETI,Turkey,BASAKSEHIR ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+USKUDAR BELEDIYESI,Turkey,ISTANBUL,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+BALIKESIR ELEKTROMEKANIK SANAYI TESISLERI ANONIM SIRKETI,Turkey,BALIKESIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ENGINSOFT TURKEY MUHENDISLIK YAZILIM TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DEINTERNATIONAL SERVIS HIZMETLERI ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURK TELEKOMUNIKASYON AS,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ARGELA YAZILIM VE BILISIM TEKNOLOJILERI SANAYI VE TICARET AS,Turkey,SARIYER ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+YASAR UNIVERSITESI,Turkey,IZMIR,Higher or Secondary Education Establishments
+ISTANBUL MEDIPOL UNIVERSITESI VAFKI,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+ANADOLU UNIVERSITY,Turkey,ESKISEHIR,Higher or Secondary Education Establishments
+HACETTEPE UNIVERSITESI,Turkey,CANKAYA ANKARA,Higher or Secondary Education Establishments
+BEDEN ISLEMSEL SANATLAR DERNEGI,Turkey,ISTANBUL,Other
+IZMIR EKONOMI UNIVERSITESI,Turkey,IZMIR,Higher or Secondary Education Establishments
+GEBZE TEKNIK UNIVERSITESI,Turkey,KOCAELI,Higher or Secondary Education Establishments
+BITES SAVUNMA HAVACILIK VE UZAY TEKNOLOJILERI YAZILIM ELEKTRONIK TICARET,Turkey,Ankara,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"TURKEY MINISTRY OF TRANSPORT, MARITIME AFFAIRS AND COMMUNICATIONS",Turkey,Ankara,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+HATAY METROPOLITAN MUNICIPALITY,Turkey,ANTAKYA HATAY,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+EKONOMI VE DIS POLITIKA ARASTIRMALAR MERKEZI DERNEGI - EDAM,Turkey,ISTANBUL,Research Organisations
+SOKTAS DOKUMA ISLETMELERI SANAYI VE TICARET ANONIM SIRKETI,Turkey,BAYRAKLI/IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KARAYOLLARI GENEL MUDURLUGU,Turkey,YUCETEPE ANKARA,Research Organisations
+GEDIZ UNIVERSITESI,Turkey,MENEMEN IZMIR,Higher or Secondary Education Establishments
+KAMUSAL POLITIKA VE DEMOKRASI CALISMALARI DERNEGI,Turkey,ISTANBUL,Other
+ADANA METROPOLITAN MUNICIPALITY,Turkey,SEYHAN ADANA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TURKIYE EKONOMIK VE SOSYAL ETUDLERVAKFI,Turkey,BESIKTAS ISTANBUL,Research Organisations
+PARS MAKINA SANAYI VE TICARET LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MIKROSENS ELEKTRONIK SANAYI VE TICARET AS,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Elektrik Uretim Anonim Sirketi,Turkey,Ankara,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ASIST OGRETIM KURUMLARI A.S.,Turkey,ATASEHIR/ISTAMBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ZORLUTEKS TEKSTIL TICARET VE SANAYI ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MERSIN UNIVERSITESI,Turkey,MERSIN,Higher or Secondary Education Establishments
+DESISTEK ROBOTIK ELEKTRONIK YAZILIMAR-GE URETIM DANISMANLIK ITHALAT IHRACAT TICARET LIMITED SIRKETI,Turkey,CANKAYA ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BURSA BUYUKSEHIR BELEDIYESI,Turkey,BURSA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+GREENWAY GUNES SISTEMLERI ENERJI URETIM SANAYI VE TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Seferihisar Municipality,Turkey,SEFERIHISAR IZMIR,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SISTEM TEKNIK ENDUSTRIYEL FIRINLARLIMITED SIRKETI,Turkey,KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+COSKUNOZ KALIP MAKINA SANAYI VE TICARET ANONIM SIRKETI,Turkey,BURSA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NILUFER BELEDIYE BASKANLIGI,Turkey,BURSA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+Pamukkale Universitesi,Turkey,DENIZLI,Higher or Secondary Education Establishments
+TURKECO INSAAT ENERJI SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SOKTAS TEKSTIL SANAYI VE TICARET ANONIM SIRKETI,Turkey,SOK,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ENERGON ENERJI VERIMLILIGI DANISMANLIGI HIZMETI VE TICARET LIMITED SIRKETI,Turkey,ATASEHIR ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TEPEBASI MUNICIPALITY,Turkey,ESKISEHIR,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+OLCSAN CAD TEKNOLOJILERI YAZILIM DONANIM DANISMANLIK SANAYI VE TICARETANONIM SIRKETI,Turkey,MECIDIYEKOY SISLI ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DEMIR CANER,Turkey,ISTANBUL KADIKOY,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NURD YAZILIM ANONIM SIRKETI,Turkey,CANKAYA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AKTIF YATIRIM BANKASI AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EKOL LOJISTIK AS,Turkey,SULTANBEYLI ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ESKISEHIR TEKNIK UNIVERSITESI,Turkey,ESKISEHIR,Higher or Secondary Education Establishments
+SARP HAVACILIK LOJISTIK TURIZM SANAYI VE TICARET ANONIM SIRKETI,Turkey,ESKISEHIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ANKARA YILDIRIM BEYAZIT UNIVERSITESI,Turkey,ANKARA,Higher or Secondary Education Establishments
+KAHRAMANMARAS TICARET VE SANAYI ODASI,Turkey,KAHRAMANMARAS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ADANA TICARET ODASI,Turkey,Adana,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+CUKUROVA TECHNOLOJI GELISTIRME BOLGESI YONETICI AS,Turkey,SARICAM ADANA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MERSIN TICARET VE SANAYI ODASI,Turkey,MERSIN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ISTANBUL SANAYI ODASI,Turkey,ISTANBUL,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+DENIZLI TICARET ODASI,Turkey,DENIZLI,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+EGE BOLGESI SANAYI ODASINA,Turkey,IZMIR,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+MEVLANA KALKINMA AJANSI,Turkey,KONYA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ERCIYES TEKNOPARK AS,Turkey,MELIKGAZI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ODTU TEKNOKENT YONETIM ANONIM SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ANKARA SANAYI ODASI,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TURKIYE TEKNOLOJI GELISTIRME VAKFI,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+KONYA SANAYI ODASI,Turkey,Konya,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ANTALYA TICARET VE SANAYI ODASI,Turkey,Antalya,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ANTALYA TEKNOKENT YONETICI VE ISLETICI ANOMIM SIRKETI,Turkey,ANTALYA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+T.C. MUGLA TICARET VE SANAYI ODASI,Turkey,MUGLA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TURKIYE SU ENSTITUSU,Turkey,ISTANBUL,Research Organisations
+PAK GIDA URETIM VE PAZARLAMA ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+YAPI KREDI TEKNOLOJI ANONIM SIRKETI,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ARGEDOR BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SOLIMPEKS ENERJI SANAYI VE TICARET AS,Turkey,KARATAY,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HIDROTEKNIK YAT GEMI DENIZ YAPILARITASARIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CAPA DENIZCILIK NAKLIYAT SANAYI VETICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GURDESAN GEMI MAKINA SANAYI VE TICARET ANONIM SIRKETI,Turkey,KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BORNOVA ILCE MILLI EGITIM MUDURLUGU,Turkey,BORNOVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ISTANBUL VALILIGI,Turkey,ISTANBUL,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+IZMIR VALILIGI,Turkey,IZMIR,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+EGITIM VE GENCLIK CALISMALARI ENSTITUSU DERNEGI,Turkey,MENDERES IZMIR,Research Organisations
+IZMIR IL MILLI EGITIM MUDURLUGU,Turkey,IZMIR,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SELCUK UNIVERSITESI,Turkey,SELCUKLU KONYA,Higher or Secondary Education Establishments
+CANKAYA BELEDIYESI,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ZAFER KALKINMA AJANSI,Turkey,KUTAHYA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+AIRTIES KABLOSUZ ILETISIM SANAYI VEDIS TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ANADOLU ISUZU OTOMOTIV SANAVII VE TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ISTAC ISTANBUL CEVRE YONETIM SANAYIVE TICARET AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PLANET TURKEY YONETIM VE GELISTIRME DANISMANLIK ANONIM SIREKTI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KASTAMONU ENTEGRE AGAC SANAYI VE TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ESKISEHIR SANAYI ODASI,Turkey,ESKISEHIR,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TEPE BETOPAN YAPI MALZEMELERI SANAYI VE TICARET ANONIM SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BESE MIMARLIK MUHENDISLIK INSAAT SANAYI TICARET LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+IZMIR KATIP CELEBI UNIVERSITESI,Turkey,IZMIR,Higher or Secondary Education Establishments
+ACIBADEM UNIVERSITESI,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+TOBB EKONOMI VE TEKNOLOJI UNIVERSITESI,Turkey,ANKARA,Higher or Secondary Education Establishments
+HACETTEPE MINERAL TECHNOLOGIES LTD,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SABANCI UNIVERSITESI NANOTEKNOLOJI ARASTIRMA VE UYGULAMA MERKEZI SUNUM,Turkey,ISTANBUL,Research Organisations
+KAFKAS UNIVERSITESI,Turkey,KARS,Higher or Secondary Education Establishments
+HAYAT KIMYA SANAYI ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BILKENT UNIVERSITESI ULUSAL NANOTEKNOLOJI ARASTIRMA MERKEZI - UNAM,Turkey,ANKARA,Research Organisations
+SURDURULEBILIR ULASIM VE SEHIRLER DERNEGI,Turkey,ISTANBUL,Other
+TOKAT GAZIOSMANPASA UNIVERSITESI,Turkey,TOKAT,Higher or Secondary Education Establishments
+AEROTIM MUHENDISLIK YAZILIM VE DANISMANLIK SANAYI TICARET LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Lifemote Yasam Teknolojileri Sanayi ve Ticaret Anonim Sirketi,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GEOSYS COGRAFI BILGI SISTEMLERI VE SEHIR PLANLAMA ELEKTRONIK BILI. MUH. VE MUS. INS. REK. SAN. VE TIC. LTD. STI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ERMAKSAN MAKINA SANAYI VE TICARET ANONIM SIRKETI,Turkey,BURSA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GAZI UNIVERSITESI,Turkey,ANKARA,Higher or Secondary Education Establishments
+SURGITATE MEDIKAL ARGE SANAYI VE TICARET ANONIM SIRKETI,Turkey,KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SEBIT EGITIM VE BILGI TEKNOLOJILERIANONIM SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INFOTECH BILISIM VE ILETISIM TEKNOLOJILERI SANAYI VE TICARET AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GENETIKS SAGLIK HIZMETLERI TICARETLIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KARTAL BELEDIYE BASKANLIGI,Turkey,ISTANBUL,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+CEDS EGITIM VE DANISMANLIK HIZMETLERI AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SERAMIK ARASTIRMA MERKEZI AS,Turkey,TEPEBASI ESKISEHIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ISTANBUL TEKNOKENT ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ULUG ENERJI DAGITIM VE PERAKENDE SATIS HIZMETLERI ANONIM SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GEDS TEKNOLOJI HIZMETLERI VE DANISMANLIK LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+FOODLIFE INTERNATIONAL BILIMSEL DANISMANLIK PROJE YONETIMI EGITIM ARASTIRMA GELISTIRME SANAYI VE TICARETLIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Taris Figs Agricultural Sales Cooperatives Unions,Turkey,izmir,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SULEYMAN DEMIREL UNIVERSITY,Turkey,ISPARTA,Higher or Secondary Education Establishments
+TAZI BILISIM TEKNOLOJILERI ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EPIGENETIKS GENETIK BIYOINFORMATIK YAZILIM AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+RS ARASTIRMA EGITIM DANISMANLIK ILAC SANAYI TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SINOP UNIVERSITESI,Turkey,SINOP,Higher or Secondary Education Establishments
+MERSIN IHTISAS ORGANIZE SANAYICILERI DERNEGI MIODER,Turkey,MERSIN,Other
+ISTANBUL KULTUR UNIVERSITY,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+HAKKARI UNIVERSITESI,Turkey,HAKKARI,Higher or Secondary Education Establishments
+KTO KARATAY UNIVERSITY,Turkey,KONYA,Higher or Secondary Education Establishments
+MERSIN IL MILLI EGITIM MUDURLUGU,Turkey,MERSIN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+HARRAN UNIVERSITESI,Turkey,SANLIURFA,Higher or Secondary Education Establishments
+NEVSEHIR HACI BEKTAS VELI UNIVERSITY,Turkey,NEVSEHIR,Higher or Secondary Education Establishments
+MERSIN BUYUKSEHIR BELEDIYESI,Turkey,MERSIN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+GAZIANTEP UNIVERSITESI,Turkey,GAZIANTEP,Higher or Secondary Education Establishments
+MEBITECH BILISIM ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BOTEGO BILGI TEKNOLOJILERI A.S.,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SIVAS CUMHURIYET UNIVERSITESI,Turkey,SIVAS,Higher or Secondary Education Establishments
+TURK DENIZ ARASTIRMALARI VAKFI,Turkey,ISTANBUL,Research Organisations
+MIMAR SINAN FINE ARTS UNIVERSITY,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+ISTANBUL MEDENIYET UNIVERSITY,Turkey,KADIKOY ISTANBUL,Higher or Secondary Education Establishments
+SANKO TEKSTIL ISLETMELERI SANAYI VETICARET ANONIM SIRKETI,Turkey,BURSA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ARGOSAI TEKNOLOJI ANONIM SIRKETI,Turkey,CANKAYA ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ENGELLI KADIN DERNEGI,Turkey,ANKARA,Other
+ERCIYES UNIVERSITESI,Turkey,KAYSERI,Higher or Secondary Education Establishments
+ALTINBAS UNIVERSITESI,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+EKOLOJIK TARIM ORGANIZASYONU DERNEGI,Turkey,IZMIR,Other
+EA-TEK ULUSLARARASI ARASTIRMA GELISTIRME MUHENDISLIK Y AZILIM VE DANISMANLIK LIMITED SIRKETI,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KORUMA KLOR ALKALI SANAYI VE TICARET ANONIM SIRKETI,Turkey,KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EMODA YAZILIM VE DANISMANLIK SANAYITICARET LIMITED SIRKETI,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ARAMA KURTARMA DERNEGI (AKUT),Turkey,ISTANBUL,Other
+ORGANIZATION OF THE BLACK SEA ECONOMIC COOPERATION,Turkey,Istanbul,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ULUTEK,Turkey,NILUFER  BURSA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KOU TEKNOPARK AS,Turkey,Kocaeli,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DOGU MARMARA AVRUPA BIRLIGI IS GELISTIRME MERKEZI (ABIGEM) AS,Turkey,IZMIT KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BURSA CHAMBER OF COMMERCE AND INDUSTRY,Turkey,BURSA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ANKARA KALKINMA AJANSI,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+IMED SURGICAL TEKNOLOJI ANONIM SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TEA ILETISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+YUNSA YUNLY SANAYI VE TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ERMETAL OTOMOTIV VE ESYA SANAYI TICARET AS,Turkey,BURSA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ZADE VITAL ILAC KIMYA GIDA SAN VE TICARET ANOMIM SIRKETI,Turkey,KONYA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TRABZON TICARET VE SANAYI ODASI,Turkey,Trabzon,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SAMSUN CHAMBER OF COMMERCE AND INDUSTRY,Turkey,SAMSUN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+NAMIK KEMAL UNIVERSITESI TEKNOLOJIGELISTRIME BOLGESI YONETICI ANONIM SIRKETI,Turkey,TEKIRDAG,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CANAKKALE CHAMBER OF COMMERCE AND INDUSTRY,Turkey,CANAKKALE,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+NEVISOFT BILISIM TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI,Turkey,ESKISEHIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SORANUS ARGE VE DANISMANLIK HIZMETLERI SANAYI TICARET ANONIM SIRKETI,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GENMEL BIYOMEDIKAL TEKNOLOJI ARGE SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AMBEENT WIRELESS YAZILIM VE BILISIM ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ANKARA BUYUKSEHIR BELEDIYE BASKANLIGINA,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+FIRAT UNIVERSITESI,Turkey,Elazig,Higher or Secondary Education Establishments
+FIRAT SANAYI VE IS DUNYASI FEDERASYONU,Turkey,MALATYA,Other
+VAN TICARET VE SANAYI ODASI BASKANLIGI,Turkey,IPEKYOLU VAN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ATA TEKNOKENT AS,Turkey,ERZURUM,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KUZEYDOGU ANADOLU KALKINMA AJANSI,Turkey,ERZURUM,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ISTANBUL AYDIN UNIVERSITESI VAKFI,Turkey,KUCUKCEKMECE ISTANBUL,Higher or Secondary Education Establishments
+University of Ankara,Turkey,Ankara,Unknown
+General Directorate of Electrical Survey and Development Administration,Turkey,Ankara,Unknown
+Middle-East Technical University,Turkey,Ankara,Unknown
+Southwest Anatolia Forest Research Institute,Turkey,Antalya,Unknown
+Turkish Electricity Generation - Transmission Corporation General Directorate,Turkey,Ankara,Unknown
+University KoÃ§,Turkey,Istinye - Istanbul,Unknown
+Akdeniz Ãniveritesi,Turkey,Antalya,Unknown
+University of Ege,Turkey,Izmir,Unknown
+UNIVERSITY OF EGE,Turkey,BORNOVA,Unknown
+HACETTEPE University,Turkey,Ankara,Unknown
+University of Ege,Turkey,Bornova,Unknown
+Ernst Reuter Center for Urban Studies,Turkey,06590 Cebeci - Ankara,Unknown
+Prof. Dr. SOZEN Nur,Turkey,Batikent - Ankara,Unknown
+UNIVERSITY OF CUKUROVA,Turkey,ADANA,Unknown
+Istanbul Medical School,Turkey,Istanbul,Unknown
+HACETTEPE Public Health Foundation,Turkey,Ankara,Unknown
+Ortadogu Teknik Universitesi Arastirma Ve Gelistirme Merkezi (Middle East Technical University Research and Development Center),Turkey,Ankara,Unknown
+MIDDLE EAST TECHNICAL UNIVERSITY,Turkey,ANKARA,Unknown
+GANTEK TEKNOLOJI BILISIM COZUMLERI ANONIM SIRKETI,Turkey,"KISIKLI, ISTANBUL",Unknown
+MIDDLE EAST TECHNICAL UNIVERSITY,Turkey,ERDEMLI - ICEL,Unknown
+TECHNICAL UNIVERSITY OF ISTANBUL,Turkey,ISTANBUL,Unknown
+BOGAZICI UNIVERSITY,Turkey,ISTANBUL,Unknown
+SABANCI UNIVERSITY,Turkey,"ORHANLI, TUZLA, ISTANBUL",Unknown
+RESEARCH INSTITUTE FOR GENETIC ENGINEERING AND BIOTECHNOLOGY,Turkey,KOCAELI,Unknown
+"MERKAT ENERGY-ENVIRONMENT-INDUSTRY MANUFACTURING, MARKETING, CONSULTING AND REPRESENTATION INC.",Turkey,ISTANBUL,Unknown
+KALITE DERNEGI,Turkey,ISTANBUL,Unknown
+YILDIZ TECHNICAL UNIVERSITY,Turkey,ISTANBUL,Unknown
+UNIVERSITY OF ISTANBUL,Turkey,ISTANBUL,Unknown
+NORM ENVIRONMENTAL TECHNOLOGIES AND TRADE LIMITED,Turkey,ERENKOY - ISTANBUL,Unknown
+MINISTRY OF FORESTRY,Turkey,ANKARA,Unknown
+"SEYAS SEY ARCHITECTS, ENGINEERING, CONSULTANTS, INC.",Turkey,ISTANBUL,Unknown
+GENERAL DIRECTORATE OF RURAL SERVICES,Turkey,ANKARA,Unknown
+TECHNICAL UNIVERSITY OF ISTANBUL,Turkey,ISTAMBUL,Unknown
+UNIVERSITY OF ONDOKUZ MAYIS,Turkey,AKLIMAN-SINOP,Unknown
+BLACK SEA ENVIRONMENTAL PROGRAMME,Turkey,ISTAMBUL,Unknown
+COMMISSION FOR THE PROTECTION OF THE BLACK SEA AGAINST POLUTION,Turkey,ISTAMBUL,Unknown
+BOGAZICI UNIVERSITESI,Turkey,BEBEK ISTANBUL,Unknown
+TURKIYE BILIMSEL VE TEKNIK ARASTIRMA KURUMU - TUBITAK,Turkey,ANKARA,Unknown
+ESKISEHIR OSMANGAZI UNIVERSITY,Turkey,ESKISEHIR,Unknown
+LOGO YAZILIM SANAYI VE TICARET A.S.,Turkey,KIZILTOPRAK/ISTANBUL,Unknown
+ISIK UNIVERSITY,Turkey,ISTANBUL,Unknown
+TURKIYE BILISIM VAKFI,Turkey,NISANTASI / ISTANBUL,Unknown
+TURKISH LIBRARIANS' ASSOCIATION,Turkey,KIZILAY/ANKARA,Unknown
+ARCELIK A.S.,Turkey,TUZLA,Unknown
+RESEACH INSTITUTE FOR GENETIC ENGINEERING AND BIOTECHNOLOGY,Turkey,GEBZE,Unknown
+TURKISH UNIVERSITIES ASSOCIATION IN EC STUDIES,Turkey,ISTANBUL,Unknown
+"MUHENDISLIK, DANISMANLIK, ARASTIRMA, A.S.",Turkey,ANKARA,Unknown
+CANAKKALE ONSEKIZ MART UNISERSITY,Turkey,CANAKKALE,Unknown
+TUBITAK - MARMARA RESEARCH CENTRE,Turkey,GEBZE-KOCAELI,Unknown
+DOLSAR ENGINEERING LTD.,Turkey,ANKARA,Unknown
+UNIVERSITY OF ISTANBUL,Turkey,AVCILAR,Unknown
+BILKENT UNIVERSITESI,Turkey,"BILKENT, ANKARA",Unknown
+THE CENTRAL RESEARCH INSTITUTE FOR FIELD CROPS,Turkey,ANKARA,Unknown
+SCIENTIFIC AND TECHNOLOGICAL RESEARCH COUNCIL OF TURKEY - TUBITAK,Turkey,ANKARA,Unknown
+HACETTEPE UNIVERSITY,Turkey,ANKARA,Unknown
+FMV ISIK UNIVERSITY,Turkey,MASLAK - ISTANBUL,Unknown
+GANTEK TEKNOLOJI BILISIM COZUMLERI TICARET A.S.,Turkey,KISIKLI/ISTANBUL,Unknown
+YEDITEPE UNIVERSITY,Turkey,ISTANBUL,Unknown
+ADNAN MENDERES UNIVERSITY,Turkey,AYDIN,Unknown
+UNIVERSITY OF ANKARA,Turkey,ANKARA,Unknown
+ITU DEVELOPMENT FOUNDATION FINANCING MANAGEMENT,Turkey,ISTANBUL,Unknown
+ISTANBUL MEDICAL FACULTY,Turkey,ISTANBUL,Unknown
+CERRAHPASA MEDICAL FACULTY,Turkey,ISTANBUL,Unknown
+GENERAL DIRECTORATE OF ELECTRICAL SURVEY AND DEVELOPMENT ADMINISTRATION,Turkey,ANKARA,Unknown
+DOKUZ EYLUL UNIVERSITY,Turkey,BUCA/IZMIR,Unknown
+ADANA FARMERS ASSOCIATION,Turkey,ADANA,Unknown
+GENERAL COMMAND OF MAPPING,Turkey,ANKARA,Unknown
+ARA ARASTIRMA TANITIM DANISMANLIK VE TEMSILCILIK LIMITED,Turkey,ISTANBUL,Unknown
+MERKAT ENERGY,Turkey,BESIKTAS/INSTANBUL,Unknown
+FENTEK - FENIS TEKNIK UERUENLER AS,Turkey,GEBZE - KOCAELI,Unknown
+BOGAZICI UNIVERSITY,Turkey,BEDEK - ISTANBUL,Unknown
+SOUTHEASTERN ANATOLIA PROJECT,Turkey,ANKARA,Unknown
+SANLIURFA KISAS WATER USERS ASSOCIATION,Turkey,KISAS-SANLIURFA,Unknown
+ORTA DOGU TEKNIK UNIVERSITESI,Turkey,ANKARA,Unknown
+FONOKLIK ILETISIM HIZMETLERI VE TICARET A.S.,Turkey,ISTANBUL,IND
+SABANCI UNIVERSITY,Turkey,ISTANBUL,Unknown
+ISTANBUL UNIVERSITY CONTINUE MEDICAL EDUCATION AND RESEARCH CENTER,Turkey,"CAPA, ISTANBUL",Unknown
+BOGAZICI UNIVERSITY,Turkey,BEDEK-ISTANBUL,Unknown
+ATILIM UNIVERSITY,Turkey,ANKARA,Unknown
+ORTADOGU RULMAN SANAYI VE TICARET A.S.,Turkey,LODUMLU / ANKARA,Unknown
+TEPE TEKNOLOJIK SERVISLER ANONIM SIRKETI,Turkey,BILKENT ANKARA,IND
+MIDDLE EAST TECHNICAL UNIVERSITY,Turkey,Ankara,Higher or Secondary Education Establishments
+BORNOVA VETERINARY CONTROL AND RESEARCH INSTITUTE,Turkey,BORNOVA/IZMIR,Unknown
+AKDENIZ UNIVERSITY,Turkey,Antalya,Unknown
+ANTALYA GREATER MUNICIPALITY,Turkey,Antalya,Unknown
+TURKIYE BILIMSEL VE TEKNIK ARASTIRMA KURUMU,Turkey,ANKARA,Unknown
+INTRO BILGI VE TELEKOMUNIKASYON SISTEMLERI SAN. TIC. LTD. STI.,Turkey,ANKARA,PRI
+MOBILERA BILISIM VE ILETISIM TEKNOLOJILERI TICARET A.S.,Turkey,Istanbul,IND
+ISTANBUL TEKNIK UNIVERSITESI,Turkey,ISTANBUL,Unknown
+SABANCI UNIVERSITESI,Turkey,TUZLA,Unknown
+KADIR HAS UNIVERSITESI,Turkey,ISTANBUL,Unknown
+AKDENIZ UNIVERSITY SCHOOL OF MEDICINE,Turkey,ANTALYA,Unknown
+BOGAZICI UNIVERSITESI,Turkey,BEBEK ISTANBUL,Higher or Secondary Education Establishments
+Sabanci University,Turkey,ISTANBUL,Unknown
+"AKDENIZ SU ÃRÃNLERI ARASTIRMA, ÃRETIM VE EGITIM ENSTITÃSÃ MÃDÃRLÃGÃ",Turkey,"DEMRE, ANTALYA",Unknown
+ULUSLARARASI NAKLIYECILER DERNEGI,Turkey,ISTANBUL,Unknown
+THE SCIENTIFIC AND TECHNOLOGICAL RESEARCH COUNCIL OF TURKEY,Turkey,ANKARA,Unknown
+GENERAL DIRECTORATE OF TURKISH HIGHWAYS,Turkey,ANKARA,Unknown
+TÃRKIYE TEKNOLOJI GELISTIRME VAKFI (TECHNOLOGY DEVELOPMENT FOUNDATION OF TURKEY),Turkey,BILKENT - ANKARA,Unknown
+SCIENTIFIC AND TECHNICAL RESEARCH COUNCIL OF TURKEY,Turkey,ANKARA,Unknown
+THE SCIENTIFIC AND TECHNICAL RESEARCH COUNCIL OF TURKEY,Turkey,ANKARA,Unknown
+THE CHAMBER OF COMMERCI OF BEYPAZARI,Turkey,BEYPAZARI/ANKATA,Unknown
+MERVES GUMUS,Turkey,BEYPAZARI/ANKARA,Unknown
+THE SCIENTIFIC AND TECHNICAL RESEARCH COUNCIL OF TURKEY-TUBITAK,Turkey,ANKARA,Unknown
+NOORDZEE SU URUENLERI,Turkey,,Unknown
+TURKIYE BILIMSEL VE TEKNOLOJIK ARASTIRMA KURUMU,Turkey,ANKARA,Unknown
+ISTANBUL UNIVERSITESI,Turkey,ISTANBUL,Unknown
+ILERI TIP TEKNOLOJILERI DAN. HIZM. SAN. TIC. LTD. STI.,Turkey,ISTANBUL,Unknown
+KAANLAR GIDA SANAYI VE TICARET A.S.,Turkey,BAYRAMPASA-ISTANBUL,Unknown
+RODER RO-RO VESSEL OPERATORS AND COMBINED TRANSPORTERS ASSOCIATION,Turkey,ISTANBUL,Unknown
+SABANCI UNIVERSITESI,Turkey,ISTANBUL,Unknown
+"MARMARA UNIVERSITY, DIVISION OF PEDIATRIC ALLERGY AND IMMUNOLOGY",Turkey,ISTANBUL,Unknown
+TUBITAK MARMARA RESEARCH CENTER FOOD INSTITUTE,Turkey,GEBZE KOCAELI,Unknown
+HACETTEPE UNIVERSITY FOOD ENGINEERING DEPARTMENT,Turkey,ANKARA,Unknown
+UNIVERSITY OF ANKARA,Turkey,"DISKAPI, ANKARA",Unknown
+IDEAL TEKNOLOJI BILISIM COZUMLERI A.S.,Turkey,KAVACIK-ISTANBUL,Unknown
+REFIK SAYDAM INSTITUTE OF HYGIENE,Turkey,ANKARA,Unknown
+TUBITAK MARMARA ARASTIRMA MERKEZI YER VE DENIZ BILIMLERI ENSTITÃSÃ,Turkey,"GEBZE, KOCAELI",Unknown
+INTRO BILGI VE TELEKOMUNIKASYON SISTEMLERI SAN VE TIC. LTD. STI.,Turkey,ANKARA,IND
+TURKIYE BILIMSELVE TEKNOLOJIK ARASTIRMA KURUMU - THE SCIENTIFIC AND TECHNOLOGICAL COUNCIL OF TURKEY,Turkey,ANKARA,Unknown
+AKDENIZ UNIVERSITY MEDICAL SCHOOL,Turkey,ANTALYA,Unknown
+CAN HALEFOGLU,Turkey,ANTAKYA,Unknown
+TARGI TARIMSAL GIRISIM SANAYII VE TICARET A.S.,Turkey,ISTANBUL,Unknown
+TROYKA MAKINE GIDA SANAYII DANISMANLIK VE PAZARLAMA LTD SIRKETI,Turkey,ANKARA,Unknown
+SU URUNLERI TANITIM DERNEGI,Turkey,IZMIR,Unknown
+LIMAN ENTEGRE BALIKCILIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Unknown
+TUBITAK BURSA TEST VE ANALIZ LABORATUUARI,Turkey,BURSA,Unknown
+BILKENT UNIVERSITESI,Turkey,ANKARA,Unknown
+TARGI TARIMSAL GIRISIM SANAYII VE TICARET AS,Turkey,ISTANBUL,Unknown
+TROYKA MAKINE GIDA SANAYII DANISMANLIK VE PAZARLAME LTD SIRKETI,Turkey,ANKARA,Unknown
+NIGDE UNIVERSITESI,Turkey,NIGDE,Unknown
+CENTRAL FISHERIES RESEARCH INSTITUTE,Turkey,YOMRA - TRABZON,Unknown
+IDAGIDA TARIMSAL URETIM IC VE DIS TIC. LTD. ST.,Turkey,CANAKKALE,Unknown
+KILIC DENIZ URUNLERI A.S.,Turkey,MILAS-BODRUM,Unknown
+ANKARA UNIVERSITY (ANKARA ÃRNIVERSITESI),Turkey,ANKARA,Unknown
+ETLIK CENTRAL VETERINARY CONTROL AND RESEARCH INSTITUTE,Turkey,ANKARA,Unknown
+ISTANBUL VETERINER HEKIMLER ODASI (IVHO) (THE CHAMBER OF VETERINARY SURGEONS OF ISTANBUL),Turkey,ISTANBUL,Unknown
+VETERINER HALK SAGLIGI VE TOPLUMSAL ÃALISMALAR DERNEGI,Turkey,ISTANBUL,Unknown
+KADIR HAS UNIVERSITESI,Turkey,FATIH-ISTANBUL,Unknown
+IZMIR ABIGEM DANISMANLIK VE OZEL EGITI A.S.,Turkey,IZMIR,Unknown
+THE SCIENTIFIC ANDTECHNOLOGICAL RESEARCH COUNCIL OF TURKEY,Turkey,BESEVIER-ANKARA,Unknown
+ANADOLU UNIVERSITY,Turkey,ESKISEHIR,Unknown
+BLACK SEA TECHNICAL UNIVERSITY,Turkey,TRABZON,Unknown
+SINOP FISHERIES FACULTY OF ONDOKUZ MAYIS UNIVERSITY,Turkey,SINOP,Unknown
+EGE UNIVERSITESI BILIM-TEKNOLOJI UYGULAMA VE ARASTIRMA MERKEZI,Turkey,BORNOVA - IZMIR,Unknown
+ULUDAG UNIVERSITY,Turkey,BURSA,Unknown
+"AKDENIZ UNIVERSITY, ECONOMIC RESEARCH CENTER ON MEDITERRANEAN COUNTRIES (CREM)",Turkey,ANTALYA,Unknown
+ISTANBUL TECHNICAL UNIVERSITY,Turkey,MASLAK-ISTANBUL,Unknown
+TURKISH PATENT INSTITUTE,Turkey,YENIMAHALLE-ANKARA,Unknown
+ORTADOGU TEKNOPARK GELISTIRME MUHENDISLIK INSAAT TAAHHUT VE TICARET A.S.,Turkey,ANKARA,Unknown
+PENDIK VETERINARY CONTROL AND RESEARCH INSTITUTE,Turkey,"PENDIK, ISTANBUL",Unknown
+EGE UNIVERSITY,Turkey,BORNOVA-IZMIR,Unknown
+MIDDLE EAST TECHNICAL UNIVERSITY,Turkey,,Unknown
+THE SCIENTIFIC & TECHNOLOGICAL RESEARCH COUNCIL OF TURKEY-ANKARA TEST AND ANALYSIS LABORATORY,Turkey,BESEVLER-ANKARA,Unknown
+MIDDLE EAST TECHNICAL UNIVERSITY / ORTA DOGU TEKNIK UNIVERSITESIDEPARTMENT OF AEROSPACE ENGINEERING,Turkey,ANKARA,Unknown
+CUKUROVA UNIVERSITY,Turkey,ADANA,Unknown
+BOGAZICI UNIVERSITESI,Turkey,ISTANBUL,Unknown
+DOKUZ EYLUL UNIVERSITESI,Turkey,INCIRALTI - IZMIR,Unknown
+ATATURK UNIVERSITY,Turkey,ERZURUM,Unknown
+AKDENIZ UNIVERSITY,Turkey,ANTALYA,Unknown
+IZMIR INSTITUTE OF TECHNOLOGY,Turkey,IZMIR,Unknown
+FORD OTOMOTIV SANAYI A.S.,Turkey,GOLCUK,Unknown
+ELECTRICAL POWER RESOURCES AND SURVEY AND DEVELOPMENT ADMINISTRATION,Turkey,ANKARA,Unknown
+SMALL AND MEDIUM INDUSTRY DEVELOPMENT ORGANISATION,Turkey,ANKARA,Unknown
+TEKNOLOJI ARASTIRMA GELISTIRME ENDUSTRIYEL URUNLER BILISIM TEKNOLOJILERI SAN TIC A.S.,Turkey,ISTANBUL,Unknown
+WOMEN ENTREPRENEURS ASSOCIATION OF TURKEY,Turkey,ISTANBUL,Unknown
+ORTADOGU TEKNOPARK GELISTIRME MUHENDISLIK INSAAT TAAHHUT VE TICARET AS,Turkey,ANKARA,Unknown
+EGE UNIVERSITY,Turkey,BORNOVA IZMIR,Unknown
+"AKDENIZ UNIVERSITY, SCHOOL OF MEDICINE",Turkey,ANTALYA,Unknown
+HEMOSOFT BILISIM VE EGITIM HIZMETLERI LIMITED SIRKETI,Turkey,ANKARA,Unknown
+GAZIANTEP UNIVERSITY,Turkey,GAZIANTEP,Unknown
+MIDDLE EAST TECHNICAL UNIVERSITY,Turkey,Ankara,Unknown
+ISTANBUL TECHNICAL UNIVERSITY,Turkey,ISTANBUL,Unknown
+"UNIVERSITY OF CUKUROVA, FACULTY OF AGRICULTURE",Turkey,ADANA,Unknown
+MIDDLE EAST TECHNICAL UNIVERSITY-WATER RESOURCES CENTER,Turkey,ANKARA,Unknown
+REPUBLIC OF TURKEY PRIME MINISTRY SOUTHEASTERN ANATOLIA PROJECT - REGIONAL DEVELOPMENT ADMINISTRATION,Turkey,ANKARA,Unknown
+KISAS SULAMA BIRLIGI BASKANLIGI-KISAS WATER USER ASSOCIATION,Turkey,KISAS/SANLIURFA-TÃRKIYE,Unknown
+THE SCIENTIFIC AND TECHNICAL RESEARCH COUNCIL OF TURKEY,Turkey,06100 ANKARA,Unknown
+ISTANBUL COMMERCE UNIVERSITY,Turkey,ISTANBUL,Unknown
+"KANDILLI OBSERVATORY AND EARTHQUAKE RESEARCH INSTITUTE, BOGAZICI UNIVERSITY",Turkey,"CENGELKOY, ISTANBUL",Unknown
+ADANA USAM DERNEGI VE ISL.(UNIVERSITY INDUSTRY JOINT RESEARCH CENTER ASSOCIATION AND ENTERPRISE),Turkey,ADANA,Unknown
+ANKARA UNIVERSITESI,Turkey,ANKARA,Unknown
+TÃRKIYE BILIMSEL VE TEKNIK ARASTIRMA KURUMU,Turkey,ANKARA,Unknown
+EGE ÃNIVERSITESI,Turkey,Izmir,Unknown
+"TURK PLASTIK SANAYICILERI ARASTIRMA, GELISTIRME VE EGITIM VAKFI",Turkey,ISTANBUL,Unknown
+POLIMER TEKNIK MAKINA & MUHENDISLIK SANAYI VE TICARET LIMITED STI,Turkey,BURSA,Unknown
+BILKENT UNIVERSITY,Turkey,ANKARA,Unknown
+EGE UNIVERSITESI,Turkey,BORNOVA-IZMIR,Unknown
+FARBA OTOMOTIV AYDINLATMA VE PLASTIK FABRIKALARI A.S.,Turkey,BURSA,Unknown
+TARIMSAL HIDROLOGI ARASTIRMA VE EGITIM MERKEZI,Turkey,MENEMEN,Unknown
+YEDITEPE UNIVERSITY DEPARTMENT OF GENETIC AND BIOENGINEERING,Turkey,ISTANBUL,Unknown
+KOÃ UNIVERSITY,Turkey,ISTANBUL,Unknown
+IZMIR INSTITUTE OF TECHNOLOGY (IZMIR YUKSEK TEKNOLOJI ENSTITUSU),Turkey,IZMIR,Unknown
+TUBITAK MARMARA ARASTIRMA MERKEZI,Turkey,GEBZE KOCAELI,Unknown
+DENIZ PAZARLAMA,Turkey,YILDIRIM / BURSA,Unknown
+INTERMAK MAKINE IMALAT ITHALAT SANAYI VE TICARET A.S.,Turkey,KARATAY/KONYA,Unknown
+AYGIN SÃT VE GIDA MAMULLERI SANAYI VE TICARET ANONIM SIRKETI,Turkey,KARATAY/KONYA,Unknown
+SAKARYA UNIVERSITESI,Turkey,SAKARYA,Unknown
+MAKINA IMALATCILARI BIRLIGI,Turkey,ANKARA,Unknown
+KOC UNIVERSITY,Turkey,ISTANBUL,Unknown
+BALKAN TEKSTIL MAKINALARI SANAYI VE TICARET LIMITED SIRKETI,Turkey,AYDIN,Unknown
+THE SCIENTIFIC AND TECHNOLOGICAL RESEARCH COUNCIL OF TURKEY,Turkey,Ankara,Unknown
+KARADENIZ TECHNICAL UNIVERSITY,Turkey,TRABZON,Unknown
+ISTANBUL UNIVERSITY,Turkey,ISTANBUL,Unknown
+FJORD MARIN DENIZ ÃRÃNLERI ÃRETIM SANAYI VE TICARET.A.S.,Turkey,MUGLA,Unknown
+SENUR ELEKTRIK MOT. SAN. VE TIC. A.S.,Turkey,ISTANBUL,Unknown
+BGS BILGISAYAR SIST. VE HIZM. SAN. VE. TIC. A.S.,Turkey,ISTANBUL,Unknown
+TÃBYTAK MARMARA RESEARCH CENTER,Turkey,"GEBZE, KOCAELI",Unknown
+MIDDLE EAST TECHICAL UNIVERSITY,Turkey,ANKARA,Unknown
+EGE UNIVERSITESI,Turkey,"BORNOVA, IZMIR",Unknown
+SCIENTIFIC AND TECHNOLOGICAL RESEARCH COUNCIL OF TURKEY,Turkey,ANKARA,Unknown
+"BOGAZICI UNIVERSITY, KANDILLI OBSERVATORY AND EARTHQUAKE RESEARCH INSTITUTE",Turkey,ISTANBUL,Unknown
+ISTANBUL TEKNIK UNIVERSITESI (ISTANBUL TECHNICAL UNIVERSITY),Turkey,ISTANBUL,Unknown
+TOBB EKONOMI VE TEKNOLOJI UNIVERSITESI,Turkey,ANKARA,Unknown
+TURKCELL ILETISIM HIZMETLERI A.S.,Turkey,ISTANBUL,Unknown
+OMTAS OTOMOTIV TRANSMISYON AKSAMI SAN. VE TIC. A.S,Turkey,GEBZE,Unknown
+TEKNOLOJI ARASTIRMA GELISTIRME ENDUSTRIYEL URUNLER BILISIM TEKNOLOJILERI SAN. TIC. AS,Turkey,ISTANBUL,Unknown
+DENIZ KORUMA MERKEZI,Turkey,"EMEK, ANKARA",Unknown
+BALIKILER DENIZ URUNLERI URETIMI TURIZM ITH. IHR.VE LTD.STI.,Turkey,MUGLA,Unknown
+SAGLIKTA YASAM KALITESI DERNEGI (SOCIETY OF HEALTH RELATED QUALITY OF LIFE),Turkey,BORNOVA - LZMIR,Unknown
+TURKISH AEROSPACE INDUSTRIES,Turkey,KAZAN-ANKARA,Unknown
+INNOVA BILISIM COZUMLERI ANONIM SIRKETI - ANKARA SUBESI,Turkey,ANKARA,Unknown
+C/S ENFORMASYON TEKNOLOJILERI LIMITED SIRKETI,Turkey,ANKARA,Unknown
+ANKARA UNIVERSITY,Turkey,ANKARA,Unknown
+ONDOKUZ MAYIS UNIVERSITY MEDICAL FACULTY,Turkey,SAMSUN,Unknown
+MARMARA RESEARCH CENTER,Turkey,KOCAELI,Unknown
+KOCAELI UNIVERSITESI,Turkey,IZMIT / KOCAELI,Unknown
+TURKIYE BILIMSEL VE TEKNOLOJIK ARASTIRMA KURUMU -MRC - TUBITAK,Turkey,ANKARA,Unknown
+TEPE TEKNOLOJIK SERVISLER ANONIM SIRKETI,Turkey,BILKENT ANKARA,Unknown
+ARCELIK A.S.,Turkey,ISTANBUL,Unknown
+BOGAZICI UNIVERSITY,Turkey,BEBEK-ISTANBUL,Unknown
+TURKISH PLASTICS INDUSTRY PROMOTION,Turkey,ISTANBUL,Unknown
+YELKENCILER MAKINA SAN VE TIC LTD STI,Turkey,ISTANBUL,Unknown
+"MINISTRY OF AGRICULTURE AND RURAL AFFAIRS, GENERAL DIRECTORATE OF AGRICULTURAL RESEARCH",Turkey,ANKARA,Unknown
+FIRAT UNIVERSITY,Turkey,ELAZIG,Unknown
+TURKIY BILIMSEL VE TEKNIK ARASTIRMA KURUMU (THE SCIENTIFIC AND TECHNICAL RESEARCH COUNCIL OF TURKEY),Turkey,ANKARA,Unknown
+"DEPT. OF AG. ECONOMICS, AG. FACULTY, CUKUROVA UNIVERSITY",Turkey,,Unknown
+"MINSTRY OF AGRICULTURE & RURAL AFFAIRS, GENERAL DIRECTORATE OF PROTECTION AND CONTROL",Turkey,ANKARA,Unknown
+TÃBLTAK-MARMARA RESEARCH CENTER,Turkey,KOCAELI,Unknown
+TUBITAK - MARMARA RESEARCH CENTER,Turkey,ANKARA,Unknown
+MUSTAFA KEMAL UNIVERSITY,Turkey,ANTAKYA / HATAY,Unknown
+ISTANBUL BILGI UNIVERSITY,Turkey,ISTANBUL,Unknown
+TOFAS TURK OTOMOBIL FABRIKASI A.S,Turkey,BURSA,Unknown
+EGE UNIVERSITY,Turkey,"BORNOVA, IZMIR",Unknown
+GENERAL DIRECTORATE OF AGRICULTURAL RESEARCH,Turkey,ANKARA,Unknown
+FORD OTOMOTIV SANAYI A.S.,Turkey,"KARTAL, ISTANBUL",Unknown
+ISTANBUL TEKNIK UNIVERSITESI,Turkey,MASLAK - ISTANBUL,Unknown
+EGE ÃNIVERSITESI BILIM-TEKNOLOJI UYGULAMA VE ARASTIRMA MERKEZI (EGE UNIVERSITY SCIENCE AND TECHNOLOGY CENTRE),Turkey,"Bornova, Izmir",Higher or Secondary Education Establishments
+HACETTEPE UNIVERSITESI,Turkey,ANKARA,Unknown
+SOLITEM GUNES ENERJISI TEK. LTD. STI.,Turkey,ANKARA,Unknown
+"DOKUZ EYLUL UNIVERSITY, WATER RESOURCES MANAGEMENT RESEARCH & APPLICATION CENTER",Turkey,BUCA/IZMIR,Unknown
+FIRAT PLASTIK KAUCUK SANAYI VE TICARET ANONIM SIRKETI,Turkey,BÃYÃKÃEKMECE ISTANBUL,Unknown
+T.C. MERSIN UNIVERSITESI,Turkey,MERSIN,Unknown
+MERSIN TICARET VE SANAYI ODASI MERSIN CHAMBER OF COMMERCE AND INDUSTRY,Turkey,MERSIN,Unknown
+MERSIN TARSUS ORGANIZE SANAYI BOLGESI MERSIN ORGANISED INDUSTRY ZONE,Turkey,TARSUS MERSIN,Unknown
+RAYON TEXTILE INDUSTRIES AND FOREIGN TRADE CO LTD,Turkey,MERTER-ISTANBUL,Unknown
+SETAS KIMYA SAN AS.,Turkey,ISTANBUL,Unknown
+SAKARYA UNIVERSITY,Turkey,SAKARYA,Unknown
+BAHCESEHIR UNIVERSITY,Turkey,"BESIKTAS, ISTANBUL",Unknown
+GALATASARAY UNIVERSITY,Turkey,ISTANBUL,Unknown
+GEBZE INSTITUTE OF TECHNOLOGY,Turkey,KOCAELI,Unknown
+BILISIM TEKNOLOJILERI DANISMANLIK HIZMETLERI REKLAMCILIK TICARET LTD. STI,Turkey,ISTANBUL,Unknown
+DUMLUPINAR UNIVERSITY,Turkey,KUTAHYA,Unknown
+EGE UNIVERSITY MEDICAL SCHOOL DEPARTMENT OF PARASITOLOGY,Turkey,"BOMOVA, IZMIR",Unknown
+BOGAZICI UNIVERSITY OF TURKISH REPUBLIC -DEPARTMENT OF CIVIL ENGINEERING,Turkey,ISTANBUL,Unknown
+SANS MIMARLIK VE LNSAAT LTHALAT LHRACAT TICARET LIMITED SIRKETI,Turkey,BODRUM,Unknown
+SMALL AND MEDIUM INDUSTRY DEVELOPMENT ORGANISATION (KOSGEB),Turkey,ANKARA,Unknown
+TURKIYE BILIMSEL VE TEKNIK ARASTIRMA KURUMU - TUBITAK,Turkey,,Unknown
+"MARMARA UNIVERSITY, FACULTY OF FINE ARTS",Turkey,KADIKOY-ISTANBUL,Unknown
+EST ENERJI SISTEM TEKNOLOJILERI SANAYI IC VE DIS TICARET LTD. STI,Turkey,ISTANBUL,Unknown
+TURKISH TEXTILE EMPLOYER'S ASSOCIATION',Turkey,ISTANBUL,Unknown
+SULEYMAN DEMIREL UNIVERSITY,Turkey,ISPARTA,Unknown
+EGE UNIVERSITESI,Turkey,BORNOVA IZMIR,Unknown
+MAKRO DEGISIM ORAGNISATION INC,Turkey,BEYOGLU-ISTANBUL,Unknown
+SCIENCE CENTRE FOUNDATON,Turkey,ISTANBUL,Unknown
+KOC.NET COMMUNICATION TECHNOLOGIES AND SERVICES INC,Turkey,USKUDAR ISTANBUL,Unknown
+"MK CONSULTANCY, TRAINING AND TRADING LTD",Turkey,TARABYA,Unknown
+LEYAL TURIZM INSAAT MOBILYA SANAYI VE TICARET LTD.,Turkey,MECIDIYEKOY-SISLI-ISTANBUL,Unknown
+THE ISTANBUL CHAMBER OF COMMERCE,Turkey,EMIN????N???? - ISTANBUL,Unknown
+PERMANENT SECRETARIAT OF THE COMMISSION ON THE PROTECTION OF THE BLACK SEA AGAINST POLLUTION,Turkey,ISTANBUL,Unknown
+UNIVERSITY OF ONDOKUZ MAYIS,Turkey,SINOP,Unknown
+"SINOP UNIVERSITY, FISHERIES FACULTY",Turkey,SINOP,Unknown
+SAP ENSTITÃSÃ MÃDÃRLÃGÃ (FMD INSTITUTE),Turkey,ANKARA,Unknown
+ERCIYES UNIVERSITESI VETERINER FAKULTESI (ERCIYES UNIVERSITY FACULTY OF VETERINARY MEDICINE),Turkey,KAYSERI,Unknown
+DEU INSTITUTE OF MARINE SCIENCES AND TECHNOLOGY (DENIZ BILIMLERI VE TEKNOLOJISI ENSTITÃSÃ),Turkey,INCIRALTI-IZMIR,Unknown
+EGE KIMYA SANAYI VE TICARET AS,Turkey,ISTANBUL,Unknown
+"CUKUROVA UNIVERSITY, FACULTY OF AGRICULTURE",Turkey,ADANA,Unknown
+MARMARA UNIVERSITY MEDICAL SCHOOL HOSPITAL,Turkey,ISTANBUL,Unknown
+"MIDDLE EAST TECHNICAL UNIVERSITY (DEPT. OF CIVIL ENG., DIS. MAN. RES. CTR., EARTHQUAKE ENG. RES. CTR., STRUCT. ENG. RES. UNIT)",Turkey,ANKARA,Unknown
+EGE UNIVERSITY SCIENCE & TECHNOLOGY CENTER,Turkey,BORNOVA IZMIR,Unknown
+EGE UNIVERSITESI BILIM -TEKNOLOJI UYGULAMA VE ARASTIRMA MERKEZI,Turkey,IZMIR,Unknown
+ISTANBUL BUYUKSEHIR BELEDIYESI,Turkey,ISTANBUL,Unknown
+ORME JEOTERMAL MUHENDISLIK SANAYI VE TICARET A.S.,Turkey,ANKARA,Unknown
+ORTA DOGU TEKNIK ÃNIVERSITESI,Turkey,ANKARA,Unknown
+BOGAZICI UNIVERSITY.,Turkey,BEDEK - ISTANBUL,Unknown
+TURKIYE SISE VE CAM FABRIKALARI AS,Turkey,"4.LEVENT, ISTANBUL",Unknown
+TURKIYE BILIMSEL VE TEKNIK ARASTIRMA KURUMU-TUBITAK,Turkey,ANKARA,Unknown
+IOTA INFORMATIK LIMITED SIRTEKI,Turkey,MASLAK ISTANBUL,Unknown
+DOKUZ EYLÂ¿ UNIVERSITY,Turkey,IZMIR,Unknown
+PORTAKAL TEKNOLOJI EGITIM DANISMANLIK YAZILIM TURIZM TAAHHUT VE TICARET LIMITED SIRKETI,Turkey,ANKARA,Other
+ISTANBUL GAZ DAGITIM SANAYI VE TICARET A.S.,Turkey,ALIBEYKÃ/ISTANBUL,Unknown
+EGE UNIVERSITY,Turkey,IZMIR,Unknown
+"EGE UNIVERSITY, INTERNATIONAL COMPUTER INSTITUTE (ULUSLARARASI BILGISAYAR ENSTITUSU)",Turkey,IZMIR,Unknown
+INFOTRON ELEKTORNIK VE BILGISAYAR SISTEMLERI ÃRETIM VE TIC. A.S.,Turkey,ISTANBUL,Unknown
+TURKISH ACADEMY OF SCIENCES (TURKIYE BILIMLER AKADEMISI),Turkey,ANKARA,Unknown
+RTB EGITIM COZUMLERI LIMITED SIRKETI,Turkey,MALTEPE ANKARA,Unknown
+IES EGITIM VE BILGI TEKNOLOJILERI AS,Turkey,"CANKAYA, ANKARA",Unknown
+SAP INSTITUTE,Turkey,ULUS-ANKARA,Unknown
+EGE UNIVERSITY FISHERIES FACULTY,Turkey,IZMIR,Unknown
+"EGE UNIVERSITY, DEPARTMENT OF PROTOHISTORY AND NEAR EASTERN ARCHAEOLOGY",Turkey,BORNOVA-IZMIR,Unknown
+YEDITEPE UNIVERSITY,Turkey,KAYISDAGI- ISTANBUL,Unknown
+ANKARA CHAMBER OF INDUSTRY,Turkey,ANKARA,Unknown
+MINISTRY OF INDUSTRY AND TRADE SMALL AND MEDIUM INDUSTRY DEVELOPMENT ORGANIZATION,Turkey,ANKARA,Unknown
+"HACETTEPE UNIVERSITY, FACULTY OF MEDICINE, DEPARTMENT OF RADIOLOGY, UNIT OF INTERVENTIONAL RADIOLOGY",Turkey,ANKARA,Unknown
+EGE ÃNIVERSITESI BILIM-TEKNOLOJI UYGULAMA VE ARASTIRMA MERKEZI (EGE UNIVERSITY SCIENCE AND TECHNOLOGY CENTRE),Turkey,IZMIR,Unknown
+EGE BÃLGESI SANAYI ODASI (AEGEAN REGION CHAMBER OF INDUSTRY),Turkey,"ALSANCAK, IZMIR",Unknown
+IZMIR ATATÃRK ORGANIZE SANAYI BÃLGESI (IZMIR ATATURK ORGANISED INDUSTRIAL REGION),Turkey,"CIGLI, IZMIR",Unknown
+KÃCÃK VE ORTA ÃLCEKLI SANAYI GELISTIRME VE DESTEKLEME IDARESI BASKANLIGI (DIRECTORSHIP FOR DEVELOPMENT AND SUPPORT FO SMES),Turkey,IZMIR,Unknown
+ISTANBUL UNIVERSITY - SCIENCE FACULTY,Turkey,ISTANBUL,Unknown
+INTRO BILGI VE TELEKOMUNIKASYON SISTEMLERI SAN. TIC. LTD. STI.,Turkey,ANKARA,Unknown
+MARMARA RESEARCH CENTER,Turkey,GEBZE,Unknown
+"DEPARTMENT OF SOCIOLOGY, UNIVERSITY OF MUGLA",Turkey,MUGLA,Unknown
+ERKUS VE ORT.TARIM.LTD.STI.,Turkey,MERSIN,Unknown
+"UYGUN TARIM AMBALAAJ VE SERA MAL., DANISMANLIK LTD.STI",Turkey,MERSIN,Unknown
+LUCKYEYE BILGISAYAR TANITIM HIZMETLERI YAYINCILIK TICARET A.S.,Turkey,ISTANBUL,Unknown
+UNIVERSITY OF EGE,Turkey,BORNOVA - IZMIR,Unknown
+YOGURT BILGISAYAR TEKNOLOJILERI TICARET LIMITED SIRKETI,Turkey,"SARIYER, ISTANBUL",Unknown
+MOMENTUM BILGISAYAR YAZILIM DANISMANLIK TICARET ANONIM SIRKETI,Turkey,GEBZE-KOCAELI,Unknown
+Sabanci University,Turkey,"Orhanli, Tuzla, Istanbul",Unknown
+KOC UNIVERSITY,Turkey,Istanbul,Higher or Secondary Education Establishments
+IBS BEYNELMILEL IS HIZMETLERI A.S.,Turkey,ISTANBUL,Unknown
+BOYTAS MOBILYA SANAYI VE TICARET ANONIM SIRKETI,Turkey,KAYSERI,Unknown
+LOGO YAZILIM SANAYI VE TICARET A.S.,Turkey,KOZYATAGI ISTANBUL,Unknown
+TÃRKIYE CUMHURIYETI DEVLET DEMIRYOLLARI ISLETMESI GENEL MÃDÃRLÃGÃ,Turkey,ANKARA,Unknown
+BALNAK NAKLIYAT VE LOJISTIK HIZMETLERI TICARET A.S.,Turkey,ISTANBUL,Unknown
+IBS BEYNELMILEL IS HIZMETLERI AS,Turkey,ISTANBUL,Unknown
+PIRAMIT ENERJI URETIM VE OLCUM SISTEMLERI SAN.VE TIC.LTD.STI.,Turkey,ISTANBUL,Unknown
+GAP GUNEYDOGU ANADOLU PAZARLAMA VE TARIM URUNLERI SAN. VE TIC. A.S.,Turkey,GAZIANTEP,Unknown
+SABANCI UNIVERSITY,Turkey,,Unknown
+UNTES,Turkey,ISTANBUL,Unknown
+KOCAELI UNIVERSITESI,Turkey,IZMIT KOCAELI,Higher or Secondary Education Establishments
+EDS ELEKTRONIK DESTEK SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ATARD SAVUNMA VE HAVACILIK SANAYI ILERI TEKNOLOJI UYGULAMALARI ARASTIRMA VE GELISTIRME A.S.,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OMTAS OTOMOTIV TRANSMISYON AKSAMI SANAYI VE TICARET ANONIM SIRKETI,Turkey,KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SOLIMPEKS DIS TICARET AS,Turkey,KONYA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TROYKA MAKINA GIDA INSAAT MUHENDISLIK ENERJI CEVRE BILISIM ARASTIRMA GELISTIRME DANISMANLIK SANAYI VE PAZARLAMA LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ATOS ORIGIN BILISIM DANISMANLIK VEMUSTERI HIZMETLERI SANAYI VE TICARET AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MERK UNLU MAMMULLER GIDA KATKI MADDELERI TURIZM INSAAT VE TICARET LTD SIRKETI,Turkey,Ankara,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKISH ATOM ENERJISI KURUMU,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GAZIANTEP BUYUKSEHIR BELEDIYESI,Turkey,GAZIANTEP,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ALTIPARMAK GIDA SANAYI VE TICARET KOLLEKTIF SIRKETI OZEN-OZGUR,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DEVLET HAVA MEYDANLARI ISLETMESI GENEL MUDURLUGU - DHMI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SUALTI SISTEMLERI TEKNOLOJI GELISTIRME SANAYI TICARET LIMITED SIRKETI,Turkey,KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DE-KA ELEKTROTEKNIK SANAYI VE TICARET ANONIM SIRKETI,Turkey,GEBZE âKOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+FRITERM TERMIK CIHAZLAR SANAYI VE TICARET AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AKYUZ PLASTIK SANAYI VE TICARET AS,Turkey,IKITELLI - ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Vestel Savunma Sanayi A.S.,Turkey,ANKARA CANKAYA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BAHCESEHIR UNIVERSITESI FOUNDATION,Turkey,Besiktas Istanbul,Higher or Secondary Education Establishments
+BAHCIVAN GIDA SANAYI VE TICARET,Turkey,SISLI ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TUERKIYE SUET ET GIDA SANAYICILERI VE UERETICILERI BIRLIGI DERNEGI,Turkey,ANKARA,Other
+MIKROSAY YAZILIM VE ELEKTRONIK ENERJI SANAYI TICARET AS,Turkey,MALTEPE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CATI SANAYICI VE IS ADAMLARI DERNEGI,Turkey,Istanbul,Other
+ARIMEKS MUHENDISLIK MIMARLIK INSAAT SANAYI VE DIS TICARET LIMITED SIRKETI,Turkey,GEBZE-KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TÃŒrkiye Cumhuriyeti KÃŒltÃŒr ve Turizm BakanlÄ±ÄÄ±,Turkey,Ankara,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ASELSAN ELEKTRONIK SANAYI VE TICARET ANONIM SIRKETI,Turkey,YENIMAHALLE ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SAMPAS NANOTEKNOLOJI ARASTIRMA GELISTIRME VE PAZARLAMA LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Setas Kimya Sanayi AS,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKIYE RUZGAR ENERJISI BIRLIGI,Turkey,ANKARA,Other
+INOVENSO DANISMANLIK ARASTIRMA GELISTIRME TEKSTIL MAKINA SANAYI ITHALAT IHRACAT VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TOZMETAL TICARET VE SANAYI.A.S,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NARPAK NARENCIYE PAKETLEME VE DIS TIC AS,Turkey,MERSIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GOKSER MAKINA SANAYI VE TICARET LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ARTIDOKSAN HIZLI IMALAT TEKNOLOJILERI SANAYI VE TICARET AS,Turkey,GEBZE KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ORIENT RESEARCH MUHENDISLIK VE DANISMANLIK HIZMETLERI TICARET LIMITEDSIRKETI,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ONUR INSAAT YAZILIM BILGISAYAR ENERJI REKLAM YAPI MALZEMELERI LABORATUARI MUHENDISLIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ADNAN MENDERES UNIVERSITESI,Turkey,AYDIN,Higher or Secondary Education Establishments
+EZINC METAL SANAYI VE TICARET AS,Turkey,MELIKGAZI KAYSERI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ODE YALITIM SANAYI VE TICARET A.S.,Turkey,ISTANBUL,Unknown
+BAHCESEHIR EGITIM KURUMLARI ANONIM SIRKETI,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+MORAVIA BOYA VE KIMYA SANAYI TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GUVEN PRES DOKUM SANAYI VE TICARETLIMITED SIRKITI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ALTIN GIDA MAMULLERI TICARET VE SANAYI ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Ultrasonik Endustriyel Yikama Makina Sanayii ve Ticaret Limited Sirketi,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Tansug Makina Sanayi ve Ticaret Ltd. Åti.,Turkey,Adana,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SIMSOFT BILGISAYAR TEKNOLOJILERI LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SOBEE YAZILIM,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+STM Savunma Teknolojileri Muhendislik ve Ticaret A.S.,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NILKA TEKSTIL SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OZSU BALIK URETIMI VE MALZEMELERI GIDA SANAYI PAZARLAMA TICARET LIMITED SIRKETI,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+IZMIR SU URUNLERI YETISTIRICILERI BIRLIGI BIRLIK,Turkey,IZMIR,Other
+BODRUM MILAS SU URUNLERI YETISTIRICILERI VE URETICILERI BIRLIGI,Turkey,MILAS MUGLA,Other
+KALITE SISTEM LABORATUVARLARI AS,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AFLIVA DANISMANLIK VE EGITIM MERKEZI IKTISADI ISLETMESI,Turkey,CANKAYA ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ABANT IZZET BAYSAL UNIVERSITESI,Turkey,BOLU,Higher or Secondary Education Establishments
+EST ENERJI SISTEM TEKNOLOJILERI SANAYI IC VE DIS TICARET LIMITED SIRKET,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKIYE EKONOMI POLITIKALARI ARASTIRMA VAKFI,Turkey,ANKARA,Research Organisations
+ANKARA POLITIKAR MERKEZI,Turkey,ANKARA CANKAYA,Research Organisations
+TUNAY GIDA SANAYI VE TICARET ANONIM SIRKETI,Turkey,ERZINCAN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VESTEL BEYAZ ESYA SANAYI VE TICARET AS,Turkey,AVCILAR ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INTRO DIS TICARET LTD. STI.,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURK TESISAT MUHENDISLERI DERNEGI IKTISADI ISLETMESI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TEMSA ARASTIRMA GELISTIRME VE TEKNOLOJI A.S.,Turkey,Kocaeli,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TEMSA GLOBAL SANAYI VE TICARET A.S.,Turkey,ADANA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HELVACIZADE GIDA VE IHTIYAC MADDELERI SANAYI VE TICARET AS,Turkey,KONYA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKCELL ILETISIM HIZMETLERI A.S.,Turkey,"TEPEBASI, ISTAMBUL",Private for-profit entities (excluding Higher or Secondary Education Establishments)
+FAME-MED MEDIKAL TICARET LIMITED SIRKETI,Turkey,YENIMAHALLE ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ANKARA STRATEJI ENSTITUSU DERNEGI,Turkey,ANKARA,Other
+LOGO ELEKTRONIK TICARET HIZMETLERI AS,Turkey,GEBZE KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKIYE BILISIM VAKFI,Turkey,Istanbul,Other
+VISKAM GORUNTU ANALIZ VE OTOMASYON SISTEMLERI SANAYI VE TICARET LIMITED SIRKETI,Turkey,NILUFER BURSA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+YAPI MERKEZI PREFABRIKASYON AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+YAPI MERKEZI INSAAT VE SANAYI AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKIYE PREFABRIK BIRLIGI DERNEGI - TURKISH PRECAST CONCRETE ASSOCIATION TPCA,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AFAPREFABRIK PREFABRIKE BETON SAN.VE TIC. AS,Turkey,IZMIR - ALSANCAK,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LNL ELEKTRIK ELEKTRONIK BILISIM VEDANISMANLIK LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SAKARYA UNIVERSITESI,Turkey,SAKARYA,Higher or Secondary Education Establishments
+BIYOLOJIK TARIM DANISMANLIK VE MUHENDISLIK HIZMETLERI LIMITED SIRKETI,Turkey,ERZIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKIYE ELEKTRIK ILETIM ANONIM SIRKETI,Turkey,Bahcelievler - ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ULUSLARARASI ANTALYA UNIVERSITESI,Turkey,ANTALYA,Higher or Secondary Education Establishments
+FORM MUHENDISLIK TICARET LTD STI,Turkey,Ankara,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CAGLAR DOGAL URUNLER YENILENEBILIR ENERJI GUBRE GIDA VE TARIM ITHALAT IHRACAT SANAYI TICARET LIMITED SIRKETI,Turkey,URLA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CEVRE VE ORMAN BAKANLIGI - TURKIYE CUMHURIYETI,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+THE COMMISSION ON THE PROTECTION OFTHE BLACK SEA AGAINST POLLUTION,Turkey,ISTANBUL,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TEKNOBE PROJE VE TEKNOLOJI GELISTIRME YONETIM DANISMANLIK EGITIM HIZMETL.SAN.VE TICARET LTD STI,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BaÅar Bilgisayar Sistemleri ve Ä°letiÅim Teknolojileri Sanayi ve Ticaret Limited Åirketi,Turkey,Ãankaya Ankara,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ALFA POLIMER INOVASYON PLASTIK SANAYI VE TICARET AS,Turkey,KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BALKAN TEKSTIL MAKILANARI SANAYI VE TICARET LIMITED SIRKETI,Turkey,AYDIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MTD Mustafa Kemal Ozturk Muh.Ins.Tur.Kim.Elek.Eletr.Mak.San ve Tic Ltd.Sti,Turkey,Ankara,Unknown
+BOSSA TICARET VE SANAYI ISLETMELERITURK ANONIM SIRKETI,Turkey,ADANA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TUREKS TURUNC MADENCILIK IC VE DISTICARET ANONIM SIRKETI,Turkey,AFYONKARAHISAR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GENERAL DIRECTORATE OF TURKISH COAL ENTERPRISES,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LOJISTIK DERNEGI,Turkey,ISTANBUL,Other
+PORTAKAL TEKNOLOJI EGITIM DANISMANLIK YAZILIM TURIZM TAAHHUT VE TICARET LTD STI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KOCSISTEM BILGI VE ILETISIM HIZMETLERI A.S.,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Admarin Denizcilik Muteahhitlik Muhendislik Musavirlik Ticaret Sanayi Ltd. Sti.,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AVEA ILETISIM HIZMETLERI AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MOBIT BILISIM ELEKTRONIK VE KONTROL SISTEMLERI DIS TICARETI VE AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CADEM CAD/CAM DESTEK MERKEZI VE BILGISAYAR SANAYI TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AKDENIZ KIYI VAKFI,Turkey,MUGLA,Research Organisations
+ARTI ENDUSTRIYEL ELEKTRONIK SERVIS SISTEM LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TEKNOSET BILGISAYAR YAZILIM VE DANISMANLIK HIZMETLERI SANAYIVE LIMITED SIRKETI,Turkey,KOCAELÄ°,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ANKARA ILERI TEKNOLOJI YATIRIMLARI ANONIM SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Profito Fidancilik Sanayi ve Ticaret Limited Sirketi,Turkey,Bursa,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TED UNIVERSITESI,Turkey,CANKAYA ANKARA,Higher or Secondary Education Establishments
+SAGLIK AKADEMISYENLERI DERNEGI,Turkey,KAVAKLIDERE ANKARA,Research Organisations
+YILDIZ TECHNICAL UNIVERSITY,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+TURKISH SOCIETY OF HVAC AND SANITARY ENGINEERS,Turkey,KAVAKLIDERE ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ENDUSTRIYEL ATIK DONUSUM SISTEMLERI TAAHHUT SAYANI VE TICARET LIMITED SIRKETI,Turkey,ALSANCAK IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TORMAN Yedek Parca Sanayi ve Ticaret AS,Turkey,Izmir,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ULTRAKIM KIMYA SANAYI VE TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INNOVAS MAKINA MUHENDISLIK VE DANISMANLIK HIZMETLERI SANAYI VE TICARETLIMITED SIRKETI,Turkey,SAKARYA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HAKKI USTA MAK.SAN.TIC.LTD.STI,Turkey,AYDIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CEVRE KORUMA VE ARASTIRMA VAKFI,Turkey,IZMIR,Research Organisations
+USTUN AGAC ISLERI DAYANIKLI TUKETIMMALLARI SANAYI VE TICARET LIMITEDSIRKETI,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKIYE ZIRAAT ODALARI BIRLIGI IKTISADI ISLETMESI,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+KONYA GIDA VE TARIM UNIVERSITESI,Turkey,KONYA,Higher or Secondary Education Establishments
+EGE BIYOTEKNOLOJI SANAYI VE TICARETANONIM SIRKETI,Turkey,Izmir,Unknown
+OMEGA MAKINA SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ULUSLARARASI NAKLIYECILER DERNEGI,Turkey,ISTANBUL,Research Organisations
+DOGU MARMARA KALKINMA AJANSI BASKANLIGI,Turkey,IZMIT KOCAELI,Research Organisations
+Inovent Coop.,Turkey,Kocaeli,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GORDION BILGI HIZMET LIMITED SIRKETI,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VISTEK ISRA VISION YAPAY GORME VE OTOMASYON SANAYI VE TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VISIOTHINK BILGI TEKNOLOJILERI SANAYI TICARET LIMITED SIRKETI,Turkey,KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Ozel Aileden Biri Evde BakÄ±m Hizmetleri Merkezi AS,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Eczacibasi Saglik Hizmetleri Anonim sirketi,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BILMED BILGISAYAR VE YAZILIM AS,Turkey,ISTAMBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BIRIM BILGI TEKNOLOJILERI TICARET ANONIM SIRKETI,Turkey,ALSANCAK IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DENIZ SU VE ATIK SU ARITIM INSAAT TICARET VE SANAYI AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SOLITEM GUNES ENERJISI TEKNOLOJILERI LTD.STI.,Turkey,ANKARA,Unknown
+IZOCAM TICARET VE SANAYI ANONIM SIRKETI,Turkey,UMRANYIE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+YORUK SUT URUNLERI HAYVANCILIK GIDA SANAYI VE TICARET LIMITED SIRKETI,Turkey,MERSIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Unar Yapi ve Malzemeleri Ticaret Limited Sirketi,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ISTANBUL BETON ELEMANLARI VE HAZIRBETON FABRIKALARI SANAI VE TICARETAS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ARISU GIDA DIS TICARET AS,Turkey,DENIZLI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NANOTEGO NANO TEKNOLOJIK URUNLER ARASTIRMA GELISTIRME KIMYA SANAYI VETICARET ANONIM SIRKETI,Turkey,GEBZE KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ICISLERI BAKANLIGI,Turkey,BAKANLIKLAR ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+NANOBIZ NANOBIYOTEKNOLOJIK SISTEMLER EGITIM BILISIM DANISMANLIK AR-GE LTD STI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ISBAK Istanbul Ulasim Haberlesme ve Guvenlik Teknolojileri Sanayi ve Ticaret AS,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+IMO-CONTROL SERTIFIKASYON TICARET LIMITED SIRKETI,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ENTEGRE ENFORMASYON SISTEMLERI EGITIM DANISMANLIK TICARET ANONIM SIRKETI,Turkey,CANKAYA ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURK TOZ METALURJISI DERNEGI,Turkey,ANKARA,Other
+INOVEGE ARASTIRMA GELISTIRME PROJE DANISMANLIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OZDEKAN KAUCUK INSAAT YAPI PROJE MUHENDISLIK MUMESSILLIK SANAYIVE TICARET ANONIM SIRKETI,Turkey,YENIMAHALLE ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BESIK RAF VE DONANIM SISTEMLERI VETICARET LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+FULL YAZILIM MUHENDISLIK REKLAM TANITIM TURIZM ORGANIZASYON SANAYI TICARET LIMITED SIRKETI,Turkey,MURATPASA ANTALYA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Omega Pro Proje Arastirma Gelistirme ve Danismanlik Ltd Åti,Turkey,Ankara,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Turkiye Aile Hekimleri Uzmanlik Dernegi,Turkey,ANKARA,Other
+GEBZE YUKSEK TEKNOLOJI ENSTITUSU,Turkey,KOCAELI,Higher or Secondary Education Establishments
+KALEKALIP MAKINE VE KALIP SANAYII ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKIYE BILIMSEL VE TEKNOLOJIK ARASTIRMA KURUMU,Turkey,Ankara,Research Organisations
+EGE IHRACATCI BIRLIKLERI,Turkey,IZMIR,Other
+KASIMLAR TARIM SU URUNLERI VE TURIZM SANAYI VE TICARET AS,Turkey,BALIKESIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UYGUN RAFINE YAG SAN. VE TIC. LTD. STI.,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BIYOMEDTEK BIYOMEDIKAL TEKNOLOJILERDERNEGI IKTISADI ISLETMESI,Turkey,CANKAYA ANKARA,Other
+II A ULUSLARARASI MIMARI TASARIM YAPI UYGULAMA VE DANISMANLIK LIMITEDSIRKETI,Turkey,BAGCILAR ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AFYON KOCATEPE UNIVERSITESI,Turkey,AFYONKARAHISAR,Higher or Secondary Education Establishments
+MUG MUHENDISLIK SURDURULEBILIR KALKINMA PROJE VE DANISMANLIK HIZMETLERI SANAYI VE TICARET LTD STI SANAYISUBESI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MDA ILERI TEKNOLOJI SERAMIKLERI SANAYI TICARET LIMITED SIRKETI,Turkey,Eskisehir,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"MINISTIRY OF AGRICULTURE AND RURAL AFFAIRS, GENERAL DIRECTORATE OF AGRICULTURAL RESEARCHES, PISTACHIO RESARCH INSTITUTE",Turkey,GAZIANTEP,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+Turkiye Cumhuriyeti Saglik Bakanligi,Turkey,Ankara,Unknown
+SRDC YAZILIM ARASTIRMA VE GELISTIRME VE DANISMANLIK TICARET LIMITED SIRKETI,Turkey,CANKAYA ANKARA,Unknown
+ROTASOFT YAZILIM TEKNOLOJILERI LIMITED SIRKETI,Turkey,Ankara,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LOGO YAZILIM SANAYI VE TICARET AS,Turkey,KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LENIS GLOBAL PLASTIK VE KALIP SAN. TIC. LTD. STI.,Turkey,MANISA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AVEZ ELEKTRONIK ILETISIM EGITIM DANISMANLIGI TICARET ANONIM SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+T.C DOGUS UNIVERSITESI,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+INFOTRON ELEKTRONIK VE BILGISAYAR SISTEMLERI URETIM VE TICARET AS,Turkey,INSTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BARIDA MAKINA SANAYI TICARET LIMITED SIRKETI,Turkey,NILUFER BURSA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CALDAG NIKEL MADENCILIK SANAYI VE TICARET AS,Turkey,MANISA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ARKAS DENIZCILIK VE NAKLIYAT AS,Turkey,KONAK IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Engin Medya Hizmetleri A.S.,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURGUTREIS DENIZCILIK SANAYI VE TICARET AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BIMTAS BOGAZICI PEYZAJ INSAAT MUSAVIRLIK TEKNIK HIZMETLER SANAYI TICARET ANONIM SIRKETI,Turkey,BEYOGLU ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ERKEM TIBBI YAYINCILIK YAZILIM GELISTIRME VE EGITIM HIZMETLERI LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ULUDAG UNIVERSITESI,Turkey,BURSA,Higher or Secondary Education Establishments
+ISTANBUL ULASIM SANAYI VE TICARET AS,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Ministry of Health,Turkey,Sihhiye Ankara,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SUPERPOOL MIMARLIK INSAAT EMLAK DANISMANLIGI REKLAMCILIK BILISIM HIZMETLERI TURIZM VE TIC LTD STI,Turkey,BEYOGLU ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SUPERPOOL MIMARLIK,Turkey,"KarakÃ¶y, Istanbul",Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SINOP UNIVERSITY*SINOP FISHERIES FACULTY SNU FF,Turkey,SINOP,Higher or Secondary Education Establishments
+GATE Elektronik Sanayi Ve Ticaret A.S,Turkey,Ankara,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DOGAL HAYATI KORUMA VAKFI,Turkey,ISTANBUL,Other
+NEHIR BIYOTEKNOLOJI AR-GE HIZMETLERI DANISMANLIK BILISIM PAZARLAMA SANAYI TICARET LTD STI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SDT Uzay ve Savunma Teknolojileri Bilisim Uretim Danismanlik Ticaret A.S.,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AYDIN YAZILIM VE ELEKTRONIK SANAYI,Turkey,ANKRA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HITUSA TAS VE MADENCILIK SANAYI VETICARET LIMITED SIRKETI,Turkey,FETHIYE MUGLA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PLASCAM PLASTIK OTO CAM SANAYI VE TIC A.S.,Turkey,GEBZE KOCAELI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KARTAS KONTRPLAK SANAYI VE TICARET LIMITED SIRKETI,Turkey,SISLI/ ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TUSAS MOTOR SANAYI AS,Turkey,ESKISEHIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TUGLA VE KIREMIT SANAYICILERI DERNEGI,Turkey,YENIMAHALLE ANKARA,Other
+FIBA HOLDING A.S.,Turkey,ISTANBUL,Unknown
+BG MIMARLIK MUSAVIRLIK LIMITED SIRKETI,Turkey,Istanbul,Unknown
+SECOL ELEKTRONIK MUHENDISLIK DANISMANLIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,BURSA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AKUVATUR Su Urunleri Ticaret ve Sanayi AS,Turkey,IZMIR BAYRAKLI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKIYE SISE VE CAM FABRIKALARI AS,Turkey,ISTANBUL,Unknown
+INCI AKU SANAYI VE TICARET ANONIM SIRKETI,Turkey,MANISA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GIDA GUVENLIGI DERNEGI,Turkey,ISTANBUL,Other
+ISTANBUL VE MARMARA EGE AKDENIZ KARADENIZ BOLGELERI GEMI SANAYICILERI DERNEGI,Turkey,TUZLA,Other
+HSE HITIT SOLAR ENERJI AS,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KALE HAVACILIK SANAYI ANONIM SIRKETI,Turkey,TUZLA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DEFNE DIS TICARET VE TARIM URUNLERIAS,Turkey,Izmir,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EGE AGAC MAMULLERI VE ORMAN URUNLERI IHRACATCILARI BIRLIGININ,Turkey,IZMIR,Other
+ISTANBUL SU VE KANALIZASYON IDARESI,Turkey,Istanbul,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SOMA ELEKTIRIK URETIM VE TICARET AS,Turkey,SOMA MANISA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MIR ARASTIRMA VE GELISTIRME AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SOMA BELEDIYESI,Turkey,SOMA MANISA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ARMAGAN ERGUN,Turkey,IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+JEODIJITAL BILISIM TEKNOLOJI MADENCILIK INSAAT TAAHUT SANAYI VE TICARET LIMITED SIRKETI,Turkey,Ankara,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CUKUROVA MAKINA IMALAT VE TICARET AS,Turkey,Tarsus - Mersin,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKEY SCIENCE CENTERS FOUNDATION,Turkey,ISTANBUL,Research Organisations
+Markom / Leo Burnett A.S.,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ILHAN KOMAN KULTUR VE SANAT VAKFI,Turkey,ISTANBUL,Other
+MEPARK TURIZM VE TICARET LIMITED SIRKETI,Turkey,MUGLA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DELTA DENIZCILIK MUHENDISLIK VE BILGISAYAR SANAYI VE TIRCARET AS,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TEKIRDAG NAMIK KEMAL UNIVERSITESI,Turkey,TekirdaÄ,Higher or Secondary Education Establishments
+ATASANCAK ACPAYAM TARM ISLETMESISANAYI VE TICARET AS,Turkey,ACIPAYAM DENIZLI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MURATBEY GIDA VE SUT URUNLERI PAZARLAMA SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL BAYRAMPASA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TRAKYA UNIVERSITESI,Turkey,"KARAAGAG, EDIRNE",Higher or Secondary Education Establishments
+ILKNAK SU URUNLERI SANAYI VE TICARET AS,Turkey,KARSIYAKA IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Tarimsal Kimya Teknolojileri Sanayi ve Ticaret AS,Turkey,NISANTASI - INSTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKIYE SEYAHAT ACENTALARI BIRLIGI,Turkey,Istanbul,Other
+YAPAYZEKI YAZILIM BILISIM ORGANIZASYON INTERNET DANISMANLIK PAZARLAMA REKLAM SANAYI VE TICARET LIMITED SIRKETI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TITAN BINA ELEKTRONIK SISTEMLERI TEKNOLOJI SANAYI VE TICARET LIMITED SIRKETI,Turkey,Ankara,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ENKON ENDUSTRIYEL KONTROL KAYNAK SANAYI VE TICARET LIMITED SIRKETI,Turkey,,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TAHRIBATSIZ MUAYENE DERNEGI,Turkey,ANKARA,Other
+"MINISTRY OF ENVIRONMENT AND FORESTRY, SOUTHWEST ANATOLIA FOREST RESEARCH INSTITUTE",Turkey,ANTALYA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TURKIYE BILIMLER AKADEMISI,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+EKINOKS HARITA YAZILIM MUHENDISLIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,BEYKOZ ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KAHRAMANMARAS SUTCU IMAM UNIVERSITESI,Turkey,KAHRAMANMARAS,Higher or Secondary Education Establishments
+DATASEL BILGI SISTEMLERI AS,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ITUNOVA TEKNOLOJI ANONIM SIRKETI,Turkey,SARIYER ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MERSIN IL OZEL IDARESI,Turkey,Mersin,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TARGID TARIM VE GIDA URUNLERI SANAYI VE TICARET LIMITED SIRKETI (TARGID Food and Agricultural Prods. Ind. Trade Ltd. Co.),Turkey,Mersin,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MINISTRY OF FOOD AGRICULTURE AND LIVESTOCK,Turkey,Lodumlu/Ankara,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ITKIB ITA EGITIM ARASTIRMA VE DANISMANLIK LIMITED SIRKETI,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OZTEK TEKSTIL TERBIYE TESISLERI SANAYI VE TICARET AS,Turkey,CORLU TEKIRDAG,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TURKIYE KIZILAY DERNEGI,Turkey,ANKARA,Other
+ONDOKUZ MAYIS UNIVERSITESI,Turkey,SAMSUN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SADIKLAR SOGUK HAVA TESISLERI VE SU URUNLERI SANAYI TICARET LIMITED SIRKETI,Turkey,SINOP,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MALKOCOGLU BALIKCILIK HAYVANCILIK SANAYI VE TICARET LIMITED SIRKETI,Turkey,Samsun,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+IGEM Danismanlik Organizasyon Arastirma Ltd. Sti.,Turkey,Istanbul,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MINISTRY OF PUBLIC WORKS AND SETTLEMENT,Turkey,ANKARA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+INONU UNIVERSITESI,Turkey,Malatya,Higher or Secondary Education Establishments
+ETI MAKINE SANAYI VE TICARET AS,Turkey,Eskisehir,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MUGLA SITKI KOCMAN UNIVERSITY,Turkey,MUGLA,Higher or Secondary Education Establishments
+EGE UNIVERSITY SCIENCE & TECHNOLOGY CENTER,Turkey,BORNOVA IZMIR,Higher or Secondary Education Establishments
+TURGUC TASARIM HAVACILIK ENERJI MUHENDISLIK MAKINA VE IMALAT TICARET LIMITED SIRKETI,Turkey,ANKARA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ANSAN METAL VE PLASTIK SANAYI VE TICARET LTD STI,Turkey,ISTANBUL,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Fatih Universitesi,Turkey,ISTANBUL,Higher or Secondary Education Establishments
+Keremoglu Ozel Egitim Isletmeleri A.S.,Turkey,CIGLI-IZMIR,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ISIK UNIVERSITY,Turkey,SILE ISTANBUL,Higher or Secondary Education Establishments
+IPEK UNIVERSITESI,Turkey,ANKARA,Higher or Secondary Education Establishments

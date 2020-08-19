@@ -1,0 +1,572 @@
+name,country,city,businessType
+VILNIAUS UNIVERSITETAS,Lithuania,VILNIUS,Higher or Secondary Education Establishments
+LITORIJ UAB,Lithuania,Vilnius,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB CIVITTA,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VYTAUTO DIDZIOJO UNIVERSITETAS,Lithuania,KAUNAS,Higher or Secondary Education Establishments
+LIETUVOS ENERGETIKOS INSTITUTAS,Lithuania,KAUNAS,Research Organisations
+vilniaus universiteto medicinos fakultetas,Lithuania,Vilnius,Higher or Secondary Education Establishments
+UAB THERMO FISHER SCIENTIFIC BALTICS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"""UAB """"Spronk NMR Consultancy""""""",Lithuania,Vilnius,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS RESPUBLIKOS ZEMES UKIO MINISTERIJA,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+KLAIPEDOS UNIVERSITETAS,Lithuania,KLAIPEDA,Higher or Secondary Education Establishments
+VALSTYBES IMONE ORO NAVIGACIJA,Lithuania,VILNIAUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"LIGHT CONVERSION, UAB",Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIESOJI ISTAIGA LIETUVOS ZEMES UKIO KONSULTAVIMO TARNYBA,Lithuania,KEDAINIAI,Other
+LIETUVOS SOCIALINIU TYRIMU CENTRAS,Lithuania,Vilnius,Research Organisations
+UAB MODERNIOS E-TECHNOLOGIJOS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EKSPLA UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIESOJI ISTAIGA EUROPOS HUMANITARINIS UNIVERSITETAS,Lithuania,VILNIUS,Higher or Secondary Education Establishments
+MUITINES KRIMINALINE TARNYBA,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+VILNIAUS DAILES AKADEMIJA,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+Audejas UAB,Lithuania,Vilnius,Other
+MOKSLO INOVACIJU IR TECHNOLOGIJU AGENTURA,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+NACIONALINE VISUOMENES SVEIKATOS PRIEZIUROS LABORATORIJA,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+LIETUVOS SVEIKATOS MOKSLU UNIVERSITETAS,Lithuania,KAUNAS,Higher or Secondary Education Establishments
+RADIACINES SAUGOS CENTRAS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+NACIONALINIS VISUOMENES SVEIKATOS CENTRAS PRIE SVEIKATOS APSAUGOS MINISTERIJOS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+KAUNO TECHNOLOGIJOS UNIVERSITETAS,Lithuania,KAUNAS,Higher or Secondary Education Establishments
+APLINKOS APSAUGOS AGENTURA,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+VALSTYBINIS MOKSLINIU TYRIMU INSTITUTAS FIZINIU IR TECHNOLOGIJOS MOKSLU CENTRAS,Lithuania,VILNIUS,Research Organisations
+UAB METIS BALTIC,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VILNIAUS MIESTO SAVIVALDYBES ADMINISTRACIJA,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+VILNIAUS GEDIMINO TECHNIKOS UNIVERSITETAS,Lithuania,VILNIUS,Higher or Secondary Education Establishments
+NATIONAL PAYING AGENCY,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ITREE LIETUVA UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VALSTYBES SIENOS APSAUGOS TARNYBA PRIE VIDAUS REIKALU MINISTERIJOS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+VIESOJI ISTAIGA VIESOSIOS POLITIKOSIR VADYBOS INSTITUTAS,Lithuania,VILNIUS,Research Organisations
+UAB RENERGA,Lithuania,JONAVA DISTRICT,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB SOLI TEK R&D,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VALSTYBES IMONES VALSTYBINIU MISKU UREDIJOS,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ALEKSANDRO STULGINSKIO UNIVERSITETAS,Lithuania,KAUNAS,Higher or Secondary Education Establishments
+AB AMBER GRID,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS KIBERNETINIU NUSIKALTIMU KOMPETENCIJU IR TYRIMU CENTRAS,Lithuania,VILNIUS,Other
+LIETUVOS ROBOTIKOS ASOCIACIJA,Lithuania,VILNIUS,Other
+VSI STARTUP DIVISION,Lithuania,VILNIUS,Other
+VSI DARBO EIGOS,Lithuania,VILNIUS,Research Organisations
+UAB TERAGLOBUS,Lithuania,VILNIAUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ASOCIACIJA ZINIU EKONOMIXOS FORUMAS,Lithuania,VILNIUS,Other
+MYKOLO ROMERIO UNIVERSITETAS,Lithuania,VILNIUS,Higher or Secondary Education Establishments
+GENEROLO JONO ZEMAICIO LIETUVOS KARO AKADEMIJA,Lithuania,VILNIUS,Higher or Secondary Education Establishments
+BALTIJOS PAZANGIU TECHNOLOGIJU INSTITUTAS,Lithuania,VILNIUS,Research Organisations
+LIETUVOS NACIONALINE VARTOTOJU FEDERACIJA ASOCIACIJA,Lithuania,VILNIUS,Other
+UAB ORTHO BALTIC,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB NOVA FABRICA,Lithuania,IGNALINA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB BIOCENTRAS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AB NANOPOWDER PLANT,Lithuania,KLAIPEDA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB ENERGENAS,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PUBLIC INVESTMENT DEVELOPMENT AGENCY,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VALSTYBINE VARTOTOJU TEISIU APSAUGOS TARNYBA VI,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+POLICIJOS DEPARTAMENTAS PRIE LIETUVOS RESPUBLIKOS VIDAUS REIKALU MINISTERIJOS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+GEOTERMA UAB,Lithuania,KLAIPEDA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ZEMDIRBIU KONSULTACIJOS,Lithuania,VAIGELISKES VILNIUS DISTRICT,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB MEDIUM GROUP,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PERSPEKTYVINIU TECHNOLOGIJU TAIKOMUJU TYRIMU INSTITUTAS,Lithuania,VILNIUS,Research Organisations
+UAB BIOAPPLICATIONS,Lithuania,SAKIU RAJ JOGINISKIAI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MUITINES DEPARTAMENTAS PRIE LIETUVOS RESPUBLIKOS FINANSU MINISTERIJOS,Lithuania,Vilnius,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+UAB RUBEDO SISTEMOS,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MB SESI PARTNERIAI,Lithuania,Kaunas,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIESOJI ISTAIGA LIETUVOS INOVACIJU CENTRAS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ARS LAB UAB,Lithuania,Vilnius,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB NANOAVIONIKA,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB FEMTIKA,Lithuania,Vilnius,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB FACTOBOTICS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GEOMATRIX UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Elgama-Elektronika,Lithuania,Vilnius,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB SAULES VEJO ARUODAI,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KAUNO ENERGIJA AB,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIESOJI ISTAIGA KAUNO MOKSLO IR TECHNOLOGIJU PARKAS,Lithuania,KAUNAS,Other
+"VOVERE IR RIESUTAS, MB",Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB MEDAUS PIRKLIAI,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB MY RESEARCH,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+FERENTIS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB BLUE OCEAN ROBOTICS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB SOLET TECHNICS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB INOVATYVI MEDICINA,Lithuania,VILNIAUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS INZINERINES PRAMONES ASOCIACIJA LINPRA,Lithuania,VILNIUS,Other
+UAB GUMOS TECHNOLOGIJOS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB EUROPARAMA,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NEO GROUP,Lithuania,RIMKAI KLAIPEDA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+FINANSINIU NUSIKALTIMU TYRIMO TARNYBA PRIE VIDAUS REIKALU MINISTERIJOS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+VALSTYBES IMONE IGNALINOS ATOMINE ELEKTRINE,Lithuania,VISAGINAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+STATYBOS PRODUKCIJOS SERTIFIKAVIMO CENTRAS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS RESPUBLIKOS ENERGETIKOS MINISTERIJOS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+UAB MEDIAPARK,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LITGRID AB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KAUNO MIESTO SAVIVALDYBES ADMINISTRACIJA,Lithuania,KAUNAS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+KAUNAS 2022,Lithuania,KAUNAS,Other
+IGNALINOS ATOMINES ELEKTRINES REGIONO PLETROS AGENTURA,Lithuania,IGNALINA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+KLAIPEDOS MIESTO SAVIVALDYBES ADMINISTRACIJA,Lithuania,KLAIPEDA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+RUPTELA UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Lietuvos mokslo taryba,Lithuania,Vilnius,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ISM VADYBOS IR EKONOMIKOS UNIVERSITETAS UAB,Lithuania,VILNIUS,Higher or Secondary Education Establishments
+UAB INTENOVA,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB PRECIZIKA METAL,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB SPORTINE AVIACIJA IR KO,Lithuania,PRIENAI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIESOJI ISTAIGA FIZIKOS INSTITUTO MOKSLO IR TECHNOLOGIJU PARKAS,Lithuania,VILNIUS,Research Organisations
+VIESOJI ISTAIGA KLAIPEDOS KELEIVINIS TRANSPORTAS,Lithuania,KLAIPEDA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SMART CONTINENT LT UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VALSTYBES IMONE KLAIPEDOS VALSTYBINIO JURU UOSTO DIREKCIJA,Lithuania,KLAIPEDA,Other
+VIESOJI ISTAIGA SKAITMENINE STATYBA,Lithuania,VILNIUS,Other
+ASOCIACIJA LIETUVOS VARTOTOJU ORGANIZACIJU ALJANSAS ALLIANCE OF LITHUANIAN CONSUMER ORGANISATIONS,Lithuania,VILNIUS,Other
+VIESOJI ISTAIGA LIETUVOS ENERGETIKOS AGENTURA,Lithuania,VILNIUS,Other
+UAB INDEFORM,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIESOJI ISTAIGA SOCIALINIU INOVACIJU INSTITUTAS,Lithuania,VILNIUS,Research Organisations
+VIA SOLIS UAB,Lithuania,ALYTUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS MISKO SAVININKU ASOCIACIJA,Lithuania,VILNIUS,Other
+ELINTA,Lithuania,Kauno raj.,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+REGIONINIS INOVACIJU VADYBOS CENTRAS,Lithuania,VILNIUS,Research Organisations
+LIETUVOS STATYBININKU ASOCIACIJA,Lithuania,VILNIUS,Other
+UAB TERAVIL,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+JONAVOS RAJONO SAVIVALDYBES ADMINISTRACIJA,Lithuania,JONAVA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+APLINKOSAUGOS VALDYMO IR TECHNOLOGIJU CENTRAS VIESOJI ISTAIGA,Lithuania,KAUNAS,Other
+VALSTYBINE VAISTU KONTROLES TARNYBAPRIE LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTERIJOS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+UAB ENERSTENA,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VSI EUROPOS SOCIALINIS VERSLUMO UGDYMOIR INOVATYVIU STUDIJU INSTITUTAS,Lithuania,KLAIPEDA,Other
+BIOTECHPHARMA,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VERSLI LIETUVA VIESOJI ISTAIGA,Lithuania,VILNIUS,Other
+VISIONARY ANALYTICS UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KLAIPEDA CHAMBER OF COMMERCE INDUSTRY AND CRAFTS,Lithuania,KLAIPEDA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+VILNIAUS PREKYBOS PRAMONES IR AMATU RUMAI,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"Kauno prekybos, pramones ir amatu rumai",Lithuania,KAUNAS,Other
+UAB SALCININKU SILUMOS TINKLAI,Lithuania,SALCININKAI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS SILUMOS TIEKEJU ASOCIACIJA,Lithuania,VILNIUS,Other
+VIESOJI ISTAIGA SVIETIMO IR KULTUROS MOBILIUJU TECHNOLOGIJU INSTITUTAS,Lithuania,VILNIUS,Other
+VALSTYBES IMONE REGISTRU CENTRAS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB BITSENS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ELEKTRONIKOS PERDIRBIMO TECHNOLOGIJOS UAB,Lithuania,VILNIAUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIESOJI ISTAIGA VILNIAUS UNIVERSITETO LIGONINE SANTAROS KLINIKOS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+VALSTYBINIS VILNIAUS GAONO ZYDU MUZIEJUS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+Lietuvos geologijos tarnyba prie Aplinkos ministerijos,Lithuania,Vilnius,Research Organisations
+Gamtos tyrimų centras,Lithuania,Vilnius,Research Organisations
+VAE SPB UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB ALTECHNA COATINGS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIESOJI ISTAIGA INTECHCENTRAS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+UAB BALTIK VAIRAS,Lithuania,Siauliai,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AB LIETUVOS GELEZINKELIAI,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB Bioseka,Lithuania,Vilnius,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS ISTORIJOS INSTITUTAS,Lithuania,VILNIUS,Research Organisations
+VILNIAUS TECHNOLOGIJU IR DIZAINO KOLEGIJA,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+EUROPOS SOCIALINIAI TEISINIAI IR EKONOMINIAI PROJEKTAI,Lithuania,VILNIUS,Research Organisations
+VALSTYBINE MAISTO IR VETERINARIJOS TARNYBA,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+LIETUVOS TEISMO EKSPERTIZES CENTRAS,Lithuania,VILNIUS,Research Organisations
+BALTIJOS APLINKOS FORUMAS VSI,Lithuania,VILNIUS,Other
+LIETUVOS AGRARINIU IR MISKU MOKSLU CENTRAS,Lithuania,KEDAINIU RAJ,Research Organisations
+LIETUVOS SAUGIOS LAIVYBOS ADMINISTRACIJA,Lithuania,KLAIPEDA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+LIETUVOS TRANSPORTO SAUGOS ADMINISTRACIJA,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+LIETUVOS SVEIKATOS MOKSLU UNIVERSITETO LIGONINE KAUNO KLINIKOS,Lithuania,KAUNAS,Research Organisations
+NACIONALINIS VEZIO INSTITUTAS,Lithuania,VILNIUS,Research Organisations
+UZDAROJI AKCINE BENDROVE DIRMETA,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NACIONALINIS MAISTO IR VETERINARIJOS RIZIKOS VERTINIMO INSTITUTAS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+UAB SYNHET,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Institute of Theoretical Physics and Astronomy - Lithuanian Academy of Sciences,Lithuania,Vilnius,Unknown
+Kaunas University of Technology,Lithuania,Kaunas,Unknown
+Institute of Geology,Lithuania,Vilnius,Unknown
+KlaipÃ©da University,Lithuania,KlaipÃšda,Unknown
+INSTITUTE OF GEOLOGY,Lithuania,VILNIUS,Unknown
+Vilnius University,Lithuania,Vilnius,Unknown
+Lithuanian Oncology Center,Lithuania,Vilnius,Unknown
+"Institute of Biochemistry, Vilnius",Lithuania,Vilnius,Unknown
+VILNIUS UNIVERSITY,Lithuania,VILNIUS,Unknown
+LITHUANIAN INSTITUTE OF HORTICULTURE,Lithuania,BABTAI,Unknown
+National Nutrition Centre of Lithuania,Lithuania,Vilnius,Unknown
+Institute of Biochemistry of Lithuania,Lithuania,Vilnius,Unknown
+State Enterprise Infostructura,Lithuania,,Unknown
+"Tikroji Ukine Bendrija ""Meta""",Lithuania,Vaidotai,Unknown
+Mokslo Zinios,Lithuania,,Unknown
+Kaunas University of Technology,Lithuania,,Unknown
+Technology University of Kaunas,Lithuania,,Unknown
+Kaunas Medical Academy,Lithuania,Kaunas,Unknown
+KAUNAS UNIVERSITY OF TECHNOLOGY,Lithuania,KAUNAS,Unknown
+LITHUANIAN FOREST RESEARCH INSTITUTE,Lithuania,KAUNAS,Unknown
+Institute of Mathematics and Informatics,Lithuania,Vilnius,Unknown
+RESEARCH AND DEVELOPMENT COMPANY ALTECHNA CO. LTD.,Lithuania,VILNIUS,Unknown
+SEMICONDUCTOR PHYSICS INSTITUTE,Lithuania,VILNIUS,Unknown
+Vytauras Magnus University,Lithuania,Kaunas,Unknown
+Institute of Biotechnology Fermentas,Lithuania,Vilnius,Unknown
+Semiconductor Physics Institute,Lithuania,Vilnius,Unknown
+Center of Occupational Health - Institute of Hygiene,Lithuania,Vilnius,Unknown
+Lithuanian Institute of Horticulture,Lithuania,Babtai,Unknown
+Valstybine Geodezijos Ir Kartografijos Tarnyba Prie Lietuvos Respublikos Vyriausybes/ National Service of Geodesy and Cartography Subordinated To the Government of the Republic of Lithuania,Lithuania,Vilnius,Unknown
+INSTITUTE OF BIOTECHNOLOGY,Lithuania,VILNIUS,Unknown
+Lithuanian Centre of Pathology,Lithuania,Vilnius,Unknown
+LAW UNIVERSITY OF LITHUANIA,Lithuania,VILNIUS,Unknown
+LITHUANIAN ENERGY INSTITUTE,Lithuania,KAUNAS,Unknown
+ENVIRONMENTAL PROTECTION AGENCY,Lithuania,VILNIUS,Unknown
+INSTITUTE OF ECOLOGY OF THE UNIVERSITY OF VILNIUS,Lithuania,VILNIUS,Unknown
+ENVIRONMENTAL CENTRE FOR ADMINISTRATION AND TECHNOLOGY LITHUANIA,Lithuania,KAUNAS,Unknown
+STATE LAND CADASTRE AND REGISTER ENTERPRISE,Lithuania,VILNIUS,Unknown
+KLAIPEDA STATE SEAPORT AUTHORITY,Lithuania,KLAIPEDA,Unknown
+ADVERA JOINT STOCK COMPANY,Lithuania,VILNIUS,Unknown
+LITHUANIAN WOMEN SOCIETY,Lithuania,VILNIUS,Unknown
+LITHUANIAN INSTITUTE OF WATER MANAGEMENT,Lithuania,VILAINIAI,Unknown
+UAB LKSOFT BALTIC,Lithuania,KAUNAS,Unknown
+REHABILITATION AND PHYSICAL MEDICINE CENTRE OF VILNIUS UNIVERSITY,Lithuania,VILNIUS,Unknown
+"IMONIU ASOCIACIJA ""INFOBALT'",Lithuania,VILNIAUS,Unknown
+SOCIALINES POLITIKOS GRUPE,Lithuania,VILNIUS,Unknown
+INSTITUTE OF MATHEMATICS AND INFORMATICS,Lithuania,VILNIUS,Unknown
+"STATE FOOD AND VETERINARY SERVICE, LITHUANIA",Lithuania,VILNIUS,Unknown
+SAULES ENERGIJA - CLOSE JOINT STOCK COMPANY,Lithuania,KAUNAS,Unknown
+UAB BIOCENTRAS,Lithuania,VILNIUS,Unknown
+MOKSLININKU SAJUNGOS INSTITUTAS,Lithuania,Vilnius,Unknown
+KLAIPEDOS UNIVERSITETAS,Lithuania,KLAIPDA,Unknown
+KAUNAS UNIVERSITY OF MEDECINE,Lithuania,KAUNAS,Unknown
+VILNIUS OLD TOWN RENEWAL AGENCY,Lithuania,VILNIUS,Unknown
+THE MUNICIPALITY OF VILNIUS,Lithuania,VILNIUS,Unknown
+VILNIUS GEDIMINAS TECHNICAL UNIVERSITY,Lithuania,VILNIUS,Unknown
+STATE HEALTH CARE ACCREDITATION SERVICE - MINSITRY OF HEALTH,Lithuania,VILNIUS,Unknown
+SOCIAL POLICY UNIT,Lithuania,VILNIUS,Unknown
+TELEFONSERVIS,Lithuania,KAUNAS,Unknown
+INSTITUTE OF CHEMISTRY,Lithuania,VILNIUS,Unknown
+INSTITUTE OF ENVIRONMENTAL ENGINEERING - KAUNAS UNIVERSITY OF TECHNOLOGY,Lithuania,KAUNAS,Unknown
+LITHUANIAN SEA MUSEUM,Lithuania,KLAIPDA,Unknown
+MOKSLO IR TECHNOLOGIJU PARKAS,Lithuania,VILNIUS,Unknown
+"LITHUANIAN BANKING, INSURANCE AND FINANCE INSTITUTE",Lithuania,VILNIUS,Unknown
+VIESOJI ISTAIGA LIETUVOS INOVACIJU CENTRAS,Lithuania,VILNIUS,Unknown
+KARDIOSIGNALAS,Lithuania,KAUNAS,Unknown
+LITHUANIAN INSTITUTE OF AGRARIAN ECONOMICS,Lithuania,VILNIUS,Unknown
+INSTITUTE OF BOTANY,Lithuania,VILNIUS,Unknown
+SEMICONDUCTOR PHYSICS INSTITUTE - LITHUANIAN ACADEMY OF SCIENCES,Lithuania,VILNIUS,Unknown
+VILNIAUS UNIVERSITETAS,Lithuania,VILNIUS,Unknown
+NATIONAL INSTITUTE OF EXPERIMENTAL AND CLINICAL MEDICINE,Lithuania,VILNIUS,Unknown
+UAB ELEKTROMAGNETINIO SUDERINAMUMO MOKSLINIO TYRIMO CENTRAS,Lithuania,VILNIUS,Unknown
+LITHUANIAN INSTITUTE OF HISTORY,Lithuania,VILNIUS,Unknown
+KAUNAS MEDICAL UNIVERSITY HOSPITAL,Lithuania,KAUNAS,Unknown
+VITTAMED LTD,Lithuania,KAUNAS,Unknown
+"STATE ENTERPRISE ""LIETUVOS PASTAS""",Lithuania,VILNIUS,Unknown
+PSICHOFIZIOLOGIJOS IR REABILITACIJOS INSTITUTAS,Lithuania,PALANGA,Unknown
+LITHUANIAN ACADEMY OF VETERINARY,Lithuania,KAUNAS,Unknown
+VILIAUS MIESTPROJEKTAS UAB,Lithuania,VILNIUS,Unknown
+KLAIPEDA REGIONAL DEVELOPMENT AGENCY,Lithuania,KLAIPEDA,Unknown
+UAB CAD & F PROJEKTSERVISAS,Lithuania,VILNIUS,Unknown
+Science and Technology Park,Lithuania,Vilnius,Unknown
+Vilniaus Ventos Puslaidininkiai,Lithuania,Vilnius,Unknown
+Type of Event: Euro Summer School,Lithuania,,Unknown
+LITHUANIAN FOREST RESEARCH INSTITUTE,Lithuania,GIRONYS,Unknown
+VYTAUTAS MAGNUS UNIVERSITY,Lithuania,KAUNAS,Unknown
+HELISOTA,Lithuania,KAUNAS,Unknown
+KAUNAS CITY MUNICIPALITY,Lithuania,KAUNAS,Unknown
+FORENSIC SCIENCE CENTRE OF LITHUNIA,Lithuania,VILNIUS,Unknown
+MINISTRSTVO ZA NOTRANJE ZADEVE REPUBLIKE SLOVENIJE,Lithuania,LJUBLJANA,Unknown
+LITHUANIAN INSTITUT OF AGRARIAN ECONOMICS,Lithuania,VILNIUS,Unknown
+VIESOJI ISTAIGA KULTUROS PAVELDO AKADEMIJA,Lithuania,VILNIUS,Unknown
+LITHUANIAN INNOVATION CENTRE,Lithuania,VILNIUS,Unknown
+IMMUNOPROPHYLAXIS CO-ORDINATION CENTRE,Lithuania,VILNIUS,Unknown
+SIC RINKOS TYRIMAI,Lithuania,VILNIUS,Unknown
+INSTITUTE OF PSYCHOPHYSIOLOGY AND REHABILITATION,Lithuania,PALANGA,Unknown
+CENTRE FOR COMMUNICABLE DISEASES PREVENTION AND CONTROL,Lithuania,VILNIUS,Unknown
+PRIVATE ENTERPRISE VIKTORO PASTOGE,Lithuania,RASEINIU RAJ ARIOGALA,Unknown
+NIKOLAJUS MAJEVSKIS PRIVATE ENTERPRISE PAAILSYS,Lithuania,RASEINIU RAJ NEMAKSCIAL,Unknown
+Type of Event: Euro Conference,Lithuania,,Unknown
+VILNIAUS MINTIES GIMNAZIJA,Lithuania,VILNIUS,Unknown
+"INSTITUTE OF BIOCHEMISTRY, VILNIUS",Lithuania,VILNIUS,Unknown
+INSTITUTE OF GEOLOGY AND GEOGRAPHY,Lithuania,VILNIUS,Unknown
+INSTITUTE OF EXPERIMENTAL AND CLINICAL MEDICINE,Lithuania,VILNIUS,Unknown
+VILNIUS UNIVERSITY EMERGENCY HOSPITAL,Lithuania,VILNIUS,Unknown
+CENTER FOR MARINE RESEARCH,Lithuania,KLAIPDA,Unknown
+MOKSLO IR TECHNOLOGIJU PARKAS (SCIENCE AND TECHNOLOGY PARK),Lithuania,,Unknown
+LITHUANIAN INSTITUTE OF AGRICULTURE,Lithuania,AKADEMIJA / VILAINIAI,Unknown
+INSTITUTE OF CARDIOLOGY OF THE KAUNAUS UNIVERSITY OF MEDICINE,Lithuania,KAUNAS,Unknown
+CENTRE OF MARINE RESEARCH,Lithuania,KLAIPDA,Unknown
+UZDAROJI AKCINE BENDROVE NAMU PRIEZIUROS CENTRAS,Lithuania,VILNIUS,Unknown
+EKSPLA,Lithuania,VILNIUS,Unknown
+INSTITUTE OF PHYSICS,Lithuania,VILNIUS,Unknown
+"UAB ""TELEBALTIKOS"" IMPORTAS IR EKSPORTAS",Lithuania,SIAULIAI,Unknown
+INSTITUTE OF LINTHUANIAN SCIENTIFIC SOCIETY,Lithuania,VILNIUS,Unknown
+MUSU GLOBA VIS,Lithuania,VILNIUS,Unknown
+VILNIUS GEDIMINAS TECHNICAL UNIVERSITY,Lithuania,VILNIUS GEDIMINAS TECHNICAL UN,Unknown
+LITHUANIAN HYDROPOWER ASSOCIATION,Lithuania,KAUNAS-AKADEMIJA,Unknown
+LITHUANIAN INSTITUTE OF AGRICULTURE,Lithuania,TRAKU VOKE,Unknown
+"VIESOJI ISTAIGA ""ATSINAUJINANCIOS ENERGIJOS INFORMACIJOS KONSULTACINIS CENT",Lithuania,VILNIUS,Unknown
+"CLOSED JOINT STOCK COMPANY ""SAULES ENERGIJA""",Lithuania,KAUNAS,Unknown
+ELITNET LTD,Lithuania,KAUNAS,Unknown
+LIETUVOS INOVACIJU CENTRAS (LITHUANIAN INNOVATION CENTRE),Lithuania,,Unknown
+LITHUANIAN PACKAGING ASSOCIATION,Lithuania,,Unknown
+SCIENCE AND TECHNOLOGY PARK,Lithuania,,Unknown
+LIETUVOS ENERGETIKOS INSTITUTAS,Lithuania,KAUNAS,Unknown
+SIAULIU UNIVERSITETAS,Lithuania,SIAULIU,Higher or Secondary Education Establishments
+INSTITUTE OF PHYSICAL ELECTRONICS OF KAUNAS UNIVERSITY OF TECHNOLOGY,Lithuania,Kaunas,Unknown
+KAUNO TECHNOLOGIJOS UNIVERSITETAS (KAUNAS UNIVERSITY OF TECHNOLOGY),Lithuania,Kaunas,Unknown
+LIETUVOS GEOLOGIJOS TARNYBA,Lithuania,VILNIUS,Research Organisations
+LIETUVOS NACIONALINE MARTYNO MAZVYDO BIBLIOTEKA,Lithuania,VILNIUS,GOV
+AUKSTIEJI ALGORITMAI,Lithuania,VILNIUS,Unknown
+AGENCY FOR INTERNATIONAL SCIENCE AND TECHNOLOGY DEVELOPMENT PROGRAMMES,Lithuania,VILNIUS,Unknown
+INSTITUTE OF THEORETICAL PHYSICS AND ASTRONOMY OF VILNIUS UNIVERSITY,Lithuania,VILNIUS,Unknown
+PLANETARIUM OF THE INSTITUTE OF THEORETICAL PHYSICS AND ASTRONOMY OF VILNIUS UNIVERSITY,Lithuania,VILNIUS,Unknown
+LIETUVOS INOVACIJU CENTRAS,Lithuania,VILNIUS,Unknown
+INFORMACINES VISUOMENES PLETROS KOMITETAS PRIE LIETUVOS RESPUBLIKOS VYRIAUSYBES,Lithuania,VILNIUS,Unknown
+KAUNO TECHNOLOGIJOS UNIVERSITETAS,Lithuania,KAUNAS 3006,Unknown
+GEOZONDAS LTD,Lithuania,VILNIUS,Unknown
+LOKMIS UAB,Lithuania,VILNIUS,Unknown
+SKAIDULA UAB,Lithuania,VILNIUS,Unknown
+LITHUANIAN UNIVERSITY OF AGRICULTURE,Lithuania,KAUNAS,Unknown
+BROWN & SHARPE PRECIZIKA,Lithuania,VILNIUS,Unknown
+INSTITUTE OF PHYSICAL ELECTRONICS OF KAUNAS UNIVESITY OF TECHNOLOGY,Lithuania,KAUNAS,Unknown
+GEOLA UAB,Lithuania,VILNIUS,Unknown
+LITHUANIAN RADIO AND TELEVISION (LRT),Lithuania,VILNIUS,Unknown
+UAB EUROPARAMA,Lithuania,VILNUS,Unknown
+PRZEDSIEBIORSTWO PRODUKCYJNO-HANDLOWO-USLUGOWE 'ZREMBUD' SP. Z O.O.,Lithuania,VILNIUS,Unknown
+MOKSLINIU PASLAUGU FIRMA,Lithuania,KAUNAS,Unknown
+NORTA UAB,Lithuania,KAUNAS,Unknown
+KAUNO TECHNOLOGIJOS UNIVERSITETAS,Lithuania,KAUNAS,Unknown
+UAB SAULES ENERGIJA,Lithuania,KAUNAS,Unknown
+INSTITUTE OF LITHUANIAN SCIENTIFIC SOCIETY,Lithuania,VILNIUS,Unknown
+"ULTRASOUND INSTITUTE, KAUNAS UNIVERSITY OF TECHNOLOGY",Lithuania,KAUNAS,Unknown
+VILNIUS GEDIMINAS TECHNICAL UNVERSITY,Lithuania,VILNIUS,Unknown
+TRANSPORT RESEARCH INSTITUTE WITHIN VILNIUS GEDIMINAS TECHNICAL UNIVERSITY,Lithuania,VILNIUS,Unknown
+IGNALINA NUCLEAR POWER PLANT,Lithuania,VISAGINAS,Unknown
+KRETINGA FOREST ENTERPRISE,Lithuania,KRETINGA,Unknown
+UAB VILNIAUS VARGONU DIRBTUVE,Lithuania,VILNIUS,Unknown
+KLAIPEDOS UNIVERSITETAS - KLAIPEDA UNIVERSITY,Lithuania,KLAIPEDA,Unknown
+LITHUANIAN UNIVERSITY OF HEALTH SCIENCES,Lithuania,KAUNAS,Unknown
+KAUNO TECHNOLOGIJOS UNIVERSITETAS,Lithuania,KAUNUS,Unknown
+KAUNAS CITY MUNICIPALITY ADMINISTRATION,Lithuania,KAUNAS,Unknown
+KAUNAS UNIVERSITY OF TECHNOLOGY REGIONAL BUSINESS INCUBATOR,Lithuania,KAUNAS,Unknown
+MANO SEIMOS GYDYTOJAS,Lithuania,KLAIPEDA,Unknown
+VALSTYBINE LIGONIU KASA (STATE PATIENT FUND),Lithuania,KLAIPEDA,Unknown
+UAB EKONOMINES KONSULTACIJOS IR TYRIMAI,Lithuania,VILNIUS,Unknown
+LIETUVOS GEOLOGIJOS TARNYBA,Lithuania,VILNIUS,Unknown
+LITHUANIAN INSTITUTE OF AGRICULTURE,Lithuania,KEDAINIAI,Unknown
+"KAUNAS FACULTY OF HUMANITIES, VILNIUS UNIVERSITY, LITHUANIA",Lithuania,KAUNAS,Unknown
+FERMENTAS UAB,Lithuania,VILNIUS,Unknown
+KLAIPEDOS UNIVERSITETAS,Lithuania,KLAIPEDA,Unknown
+CENTRE FOR COMMUNICABLE DISEASES AND AIDS,Lithuania,VILNIUS,Unknown
+BALTIC ORTHOSERVICE UAB,Lithuania,KAUNAS,Unknown
+KLAIPEDA UNIVERSITY,Lithuania,KLAIPEDA,Unknown
+"VIESOJI ISTAIGA ""DU RATAI""",Lithuania,KLAIPEDA,Unknown
+VYTAUTO DIDZIOJO UNIVERSITETAS,Lithuania,KAUNAS,Unknown
+"PUBLIC INSTITUTION ""SCIENCE AND INNOVATIONS FOR SOCIETY""",Lithuania,KAUNAS,Unknown
+NATIONAL VETERINARY LABORATORY- DEPARTMENT OF PATHOLOGICAL ANATOMY AND HISTOLOGY,Lithuania,VILNIUS,Unknown
+KAUNO TECHNOLOGIJOS UNIVERSITETAS (KAUNAS UNIVERSITY OF TECHNOLOGY),Lithuania,KAUNAS,Unknown
+"JOINT STOCK COMPANY ""AGARAS""",Lithuania,BIRZAI,Unknown
+LIETUVOS SVEIKATOS MOKSLU UNIVERSITETAS,Lithuania,KAUNAS,Unknown
+LAW INSTITUTE,Lithuania,VILNIUS,Unknown
+LIETUVOS APRANGOS IR TEKSTILES IMONIU ASOCIACIJA,Lithuania,VILNIUS,Unknown
+VILNIAUS UNIVERSITETAS (VILNIUS UNIVERSITY),Lithuania,VILNIUS,Unknown
+VILNIUS GEDIMINO TECHNICAL UNIVERSITY INSTITUTE OF THERMAL INSULATION,Lithuania,VILNIUS,Unknown
+EUROPARAMA UAB,Lithuania,VILNIUS,Unknown
+LITHUANIAN FOREST RESEARCH INSTITUTE,Lithuania,"GIRIONYS, KAUNAS DISTR.",Unknown
+LKSOFT BALTIC,Lithuania,KAUNAS,Unknown
+KLAIPEDOS MOKSLO IR TECHNOLOGIJU PARKAS,Lithuania,KLAIPEDA,Unknown
+ASSOCIATION OF LITHUANIAN SHIPBUILDERS AND SHIPREPAIRERS,Lithuania,KLAIPEDA,Unknown
+LIETUVOS ZEMES UKIO UNIVERSITETAS,Lithuania,KAUNO RAJONAS,Unknown
+KAUNAS UNIVERSITY OF MEDICINE,Lithuania,KAUNAS,Unknown
+PUBLIC INSTITUTION BALTIC ENVIRONMENTAL FORUM (LITH. VIESOJI ISTAIGA BALTIJOS APLINKOS FORUMAS),Lithuania,VILNIUS,Unknown
+LIETUVOS INOVACIJU CENTRAS (LITHUANIAN INNOVATION CENTRE),Lithuania,VILNIUS,Unknown
+INSTITUTE OF ECOLOGY OF VILNIUS UNIVERSITY,Lithuania,VILNIUS,Unknown
+MOKSLINIU PASLAUGU FIRMA GTV,Lithuania,KAUNAS,Unknown
+UAB ÂŽVILNIAUS VINGIO MECHANIKA`,Lithuania,VILNIUS,Unknown
+LITHUANIAN CENTRE FOR QUALITY ASSESMENT IN HIGHER EDUCATION,Lithuania,VILNIUS,Unknown
+KLAIPEDA UNIVERSITY COASTAL RESEARCH AND PLANING INSTITUTE,Lithuania,KLAIPEDA,Unknown
+TARPTAUTINIU MOKSLO IR TECHNOLOGIJU PLETROS PROGRAMU AGENTURA,Lithuania,VILNIUS,Unknown
+SVIETIMO IR KULTUROS MOBILIUJU TECHNOLOGIJU INSTITUTAS,Lithuania,VILNIUS,Unknown
+SIAULIAI JUVENTOS PAGRINDINE MOKYKLA,Lithuania,SIAULIAI,Unknown
+SIAULIU UNIVERSITETAS,Lithuania,SIAULIU,Unknown
+ALTECHNA,Lithuania,VILNIUS,Unknown
+SVIETIMO INFORMACINIU TECHNOLOGIJU CENTRAS,Lithuania,VILNIUS,Unknown
+VALSTYBINIS INFORMACINES TECHNOLOGIJOS INSTITUTAS,Lithuania,VILNIUS,Unknown
+"UAB ""SKALMANTAS-PROJECTS""",Lithuania,VILNIUS,Unknown
+"UAB ""PALINK""",Lithuania,VILNIUS,Unknown
+"VILNIUS UNIVERSITY, INSTITUTE OF MATERIAL SCINCES AND APPLIED RESEARCH",Lithuania,VILNIUS,Unknown
+SOCIAL AND ECONOMIC DEVELOPMENT CENTRE,Lithuania,"VILNIUS,",Unknown
+INSTITUTE OF FORESTRY OF THE LITHUANIAN RESEARCH CENTRE FOR AGRICULTURE AND FORESTRY,Lithuania,"GIRIONYS, KAUNAS DISTR.",Unknown
+UAB BALTECK,Lithuania,KAUNAS,Unknown
+"UZDAROJI AKCINE BENDROVE ""OMNITEL""",Lithuania,VILNIUS,Unknown
+ORTOPEDIJOS TECHNIKA,Lithuania,KAUNAS,Unknown
+INFORMACINES VISUOMENES PLETROS KOMITETAS PRIE LIETUVOS RESPUBLIKOS VYRIAUSYBES,Lithuania,VILNIAUS,Unknown
+MYKOLO ROMERIO UNIVERSITETAS,Lithuania,VILNIUS,Unknown
+APLINKOS APSAUGOS POLITIKOS CENTRAS,Lithuania,VILNIUS,Unknown
+INSTITUTE OF BIOCHEMISTRY,Lithuania,VILNIUS,Unknown
+BALTEC CNC TECHNOLOGIES UAB,Lithuania,KAUNAS,Unknown
+BIRSTONO SAVIVALDYBES ADMINISTRACIJA,Lithuania,BIRSTONAS,Unknown
+LNSTITUTE OF EXPERIMENTAL AND CLINICAL MEDICINE VU,Lithuania,VILNIUS,Unknown
+KAUNO REGIONO SMULKIU IR VIDUTINIU VERSLININKU ASOCIACIJA,Lithuania,KAUNAS,Unknown
+KAUNO TECHNOLOGIJOS UNIVERSITETO REGIONINIS VERSLO INKUBATORIUS,Lithuania,KAUNAS,Unknown
+UAB ALGORITMU SISTEMOS,Lithuania,VILNIUS,Unknown
+UZDAROJI AKCINE BENDROVE ITERIJA,Lithuania,VILNIUS,Unknown
+"UZDAROJI AKCINE BENDROVE ""HRONO"" STATYBA",Lithuania,VILNIUS,Unknown
+UAB EUROPARAMA,Lithuania,VILNIUS,Unknown
+VILNIUS UNIVERSITY HOSPITAL SANTARISKIU CLINICS,Lithuania,VILNIUS,Unknown
+AGENCY FOR INTERNATIONAL SCIENCE AND TECHNOLOGY DEVELOPMENT PROGRAMMES IN LITHUANIA,Lithuania,VILNIUS,Unknown
+MOKSLININKU SAJUNGOS INSTITUTAS,Lithuania,VILNIUS,Unknown
+UAB PROTRAINING ACADEMY,Lithuania,VILNIUS,Unknown
+VIESOJI ISTAIGA KAUNO MEDICINOS UNIVERSITETO KLINIKOS,Lithuania,KAUNAS,Unknown
+PUSLAIDININKIU FIZIKOS INSTITUTAS*,Lithuania,VILNIUS,Unknown
+INSTITUTE OF IMMUNOLOGY OF VILNIUS UNIVERSITY,Lithuania,VILNIUS,Unknown
+LIETUVOS RESPUBLIKOS SVEIKATOS APSAUGOS MINISTERIJA (MINISTRY OF HEALTH OF REPUBLIC OF LITHUANIA),Lithuania,VILNIUS,Unknown
+"VILNIAUS UNIVERSITETO ONKOLOGIJOS INSTITUTAS (INSTITUTE OF ONCOLOGY, VILNIUS UNIVERSITY)",Lithuania,VILNIUS,Unknown
+LIETUVOS RESPUBLIKOS ZEMES UKIO MINISTERIJA - MINISTRY OF AGRICULTURE OF THE REPUBLIC OF LITHUANIA,Lithuania,VILNIUS,Unknown
+BALTIC GENOFUND,Lithuania,VILNIUS,Unknown
+HEALTH EDUCATION AND DESEASE PREVENTION CENTRE,Lithuania,VILNIUS,Unknown
+LITHUANIAN INSTITUTE OF AGRARIAN ECONOMICS,Lithuania,,Unknown
+KAUNO VISUOMENES SVEIKATOS CENTRAS (KAUNAS PUBLIC HEALTH CENTER),Lithuania,Kaunas,Unknown
+KAUNO MEDICINOS UNIVERSITETAS,Lithuania,Kaunas,Unknown
+LITHUANIAN VETERINARY ACADEMY,Lithuania,KAUNAS,Unknown
+MYKOLAS ROMERIS UNIVERSITY (FORMER LAW UNIVERSITY OF LITHUANIA),Lithuania,VILNIUS,Unknown
+INSTITUTE FOR SOCIAL RESEARCH,Lithuania,VILNIUS,Unknown
+ANTANAS GUSTAITIS AVIATION INSTITUTE OF VILNIUS GEDIMINAS TECHNICAL UNIVERSITY,Lithuania,VILNIUS,Unknown
+LIETUVOS MISKU INSTITUTAS,Lithuania,KAUNAS DISTR.,Unknown
+CENTER FOR ENVIRONMENT POLICY,Lithuania,VILNIUS,Unknown
+LIETUVOS ENERGETIKOS INSTITUTAS (LITHUANIAN ENERGY INSTITUTE),Lithuania,KAUNAS,Unknown
+BIOCHEMIJOS INSTITUTAS,Lithuania,VILNIUS,Unknown
+THE LITHUANIAN INSTITUTE OF AGRICULTURE,Lithuania,AKADEMIJA-DORTNUVA,Unknown
+LIETUVOS RESPUBLIKOS SVIETIMO IR MOKSLO MINISTERIJA,Lithuania,VILNIUS,Unknown
+UNIVERSITAS VILNENSIS,Lithuania,VILNIUS,Unknown
+VILNIAUS UNIVERSITETO TEORINES FIZIKOS IR ASTRONOMIJOS INSTITUTAS,Lithuania,VILNIUS,Unknown
+LITHUANIAN APPAREL AND TEXTILE INDUSTRY ASSOCIATION,Lithuania,VILNIUS,Unknown
+SIAULIAI UNIVERSITY,Lithuania,SIAULIAI,Unknown
+SOCIALINIU TYRIMU INSTITUTAS,Lithuania,VILNIUS,Unknown
+ASSOCIATION KNOWLEDGE ECONOMY FORUM,Lithuania,VILNIUS,Unknown
+LITHUANIAN CONFEDERATION OF INDUSTRIALISTS,Lithuania,VILNIUS,Unknown
+KAUNAS REGIONAL INNOVATION CENTRE,Lithuania,KAUNAS,Unknown
+LITHUANIAN BUSINESS EMPLOYERS' CONFEDERATION',Lithuania,VILNIUS,Unknown
+NAUJOS EKONOMIKOS INSTITUTAS,Lithuania,VILNIUS,Unknown
+VYTAUTO DIDZIOJO UNIVERSITETAS (VYTAUTAS MAGNUS UNIVERSITY),Lithuania,KAUNAS,Unknown
+MYKOLAS ROMERIS UNIVERSITY,Lithuania,VILNIUS,Unknown
+LIETUVOS RESPUBLIKOS SEIMAS,Lithuania,VILNIUS,Unknown
+LIETUVOS BIOETIKOS KOMITETAS,Lithuania,VILNIUS,Unknown
+VILNIAUS GEDIMINO TECHNIKOS UNIVERSITETAS,Lithuania,VILNIUS,Unknown
+FERMENTAS,Lithuania,VILNIUS,Unknown
+VILNIAUS UNIVERSITETO TEORINES FIZIKOS IR ASTRONOMIJOS INSTITUTO,Lithuania,VILNIUS,Unknown
+BAKTERINIAI PREPARATAI,Lithuania,KAUNAS,Unknown
+UAB VALENTIS,Lithuania,VILNIUS,Unknown
+VALSTYBES IMONE RADIOAKTY VIUJU ATLIEKU TVARKYMO AGENTURA,Lithuania,VILNIUS,Unknown
+VILNIAUS UNIVERSITETAS,Lithuania,Vilnius,Unknown
+VILNIAUS UNIVERSITETO TEORINES FIZIKOS IR ASTRONOMIJOS INSTITUTAS,Lithuania,Vilnius,Unknown
+GEOLOGIJOS IR GEOGRAFIJOS INSTITUTAS,Lithuania,VILNIUS,Unknown
+AGAVA UAB,Lithuania,KAUNAS,Unknown
+"UAB-PREKYBOS NAMAI ""KRIVIS""",Lithuania,KAUNAS,Unknown
+BIOCENTRAS UAB,Lithuania,VILNIUS,Unknown
+TELEMED,Lithuania,VILNIUS,Unknown
+"IMONIU ASOCIACIJA ""INFOBALT""",Lithuania,VILNIUS,Unknown
+KAUNO TECHNOLOGIJOS UNIVERSITETAS,Lithuania,Kaunas,Unknown
+CENTER FOR PHYSICAL SCIENCES AND TECHNOLOGY,Lithuania,VILNIUS,Unknown
+AGENCY FOR INTERNATIONAL SCIENCE AND TECHNOLOGY DEVELOPMENT PROGRAMMES,Lithuania,,Unknown
+EUROPARAMA,Lithuania,VILNIUS,Unknown
+LIETUVOS MEDIENOS PRAMONES IMUNIU ASOCIACIJA,Lithuania,VILNIUS,Unknown
+FOOD INSTITUTE OF KAUNAS UNIVERSITY OF TECHNOLOGY,Lithuania,KAUNAUS,Unknown
+NATIONAL VETERINARY LABORATORY,Lithuania,VILNIUS,Unknown
+VALSTYBINE MOKESCIU INSPEKCIJA PRIE LIETUVOS RESPUBLIKOS FINANSU MINISTERIJOS,Lithuania,VILNIUS,Unknown
+MINISTRY OF EDUCATION AND SCIENCE OF THE REPUBLIC OF LITHUANIA,Lithuania,VILNIUS,Unknown
+STANDA OPTOMECHANICAL PRODUCTS,Lithuania,VILNIUS,Unknown
+TEO LT AB,Lithuania,VILNIUS,Unknown
+UAB VRS GRUPE,Lithuania,VILNIUS,Unknown
+RIMKEVICIUS AND GINTAUTAS COMPANY,Lithuania,VILNIUS,Unknown
+EDUCATIONAL DEVELOPMENT CENTRE,Lithuania,VILNIUS,Unknown
+STATE PLANT PROTECTION SERVICE,Lithuania,VILNIUS,Unknown
+KLAIPEDOS VALSTYBINIS JURU UOSTAS,Lithuania,,Unknown
+"UZDAROJI AKCINE BENDROVE ""SONEX KOMPIUTERIAI""",Lithuania,Klaipeda,Unknown
+UTENOS A. IR M. MISKINIU VIESOJI BIBLIOTEKA,Lithuania,UTENA,Unknown
+SCIENCE AND TECHNOLOGY PARK,Lithuania,VILNIUS,Unknown
+VILNIUS GEDIMINAS TECHNICAL UNIVERSITY,Lithuania,,Unknown
+KAUNO TECHNOLOGIJOS UNVIERSITETAS,Lithuania,KAUNAS 3006,Unknown
+VILNIAUS PEDAGOGINIS UNIVERSITETAS,Lithuania,VILNIUS,Unknown
+"IMONIU ASOCIACIJA ""INFOBALT""",Lithuania,Vilnius,Unknown
+VIESOJI ISTAIGA VISORIU INFORMACINIU TECHNOLOGIJU PARKAS,Lithuania,Vilnius,Unknown
+AGENCY FOR INTERNATIONAL SCIENCE AND TECHNOLOGY DEVELOPMENT,Lithuania,VILNIUS,Unknown
+ELEKTRENAI MUNICIPALITY,Lithuania,ELEKTRENAI,Unknown
+LITHUANIAN UNIVERSITY OF AGRICULTUREWATER MANAGEMENT FACULTY,Lithuania,KAUNAS-AKADEMIJA,Unknown
+"VSI ""PERSPEKTYVINIU TECHNOLOGIJU TAIKOMUJU TYRIMU INSTITUTAS""",Lithuania,VILNIUS,Unknown
+UAB TELEBALTIKOS IMPORTAS IR EKSPORTAS,Lithuania,SIAULIAI,Unknown
+VILNIUS GEDIMINAS TECHNICAL UNIVERSITY,Lithuania,VILNIUS 40,Unknown
+JOINT STOCK COMPANY EKSERGIJA,Lithuania,VILNIUS,Unknown
+VILNIUS DISTRICT HEATING COMPANY,Lithuania,VILNIUS,Unknown
+TRANSPARENCY INTERNATIONAL LIETUVOSSKYRIUS*TRANSPARENCY INTERNATIONALLITHUANIAN CHAPTER,Lithuania,Vilnius,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS MOKINIU INFORMAVIMO IR TECHNINES KURYBOS CENTRAS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+LIETUVOS MOKINIU NEFORMALIOJO SVIETIMO CENTRAS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+UAB BALTEC CNC TECHNOLOGIES,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AKCIJU SABIEDRIBA LATVENERGO,Lithuania,RIGA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ALTECHNA UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIESOJI ISTAIGA MTVC,Lithuania,Vilnius,Research Organisations
+Ecorem Baltija UAB,Lithuania,Kaunas,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS VIESBUCIU IR RESTORANU ASOCIACIJA,Lithuania,VILNIUS,Other
+LIETUVOS JAUNUJU MOKSLININKU SAJUNGA,Lithuania,VILNIUS,Research Organisations
+MEDELKOM,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB Vittamed,Lithuania,Kaunas,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UZDAROJI AKCINE BENDROVE POLIPLASTAS,Lithuania,ROKAI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIESOJI ISTAIGA VILNIAUS UNIVERSITETO TARPTAUTINIO VERSLO MOKYKLA,Lithuania,VILNIUS,Higher or Secondary Education Establishments
+EKSPOBALTA,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB TECHNOGAMA,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UZDAROJI AKCINE BENDROVE LIETPAK,Lithuania,Vilnius,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB EKSTERJERO CENTRAS,Lithuania,08234,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB ELMIKA,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ELEKTRONINES SISTEMOS UAB,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TOMAS MARKEVICIUS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS DAILES MUZIEJUS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+LIETUVOS TEISES INSTITUTAS,Lithuania,VILNIUS,Research Organisations
+UAB AEROGEODEZIJOS INSTITUTAS,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Gamtos tyrimÅ³ centras,Lithuania,Vilnius,Research Organisations
+AB LIETUVOS ENERGIJA,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VILNIAUS UNIVERSITETO TEORINES FIZIKOS IR ASTRONOMIJOS INSTITUTAS,Lithuania,VILNIUS,Higher or Secondary Education Establishments
+ALTECHNA R&D UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OPTOLITA UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BALTIJOS POLISTIRENAS UAB,Lithuania,"GARLIAVA,KAUNO",Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PUSLAIDININKIU FIZIKOS INSTITUTAS,Lithuania,Vilnius,Research Organisations
+National Tuberculosis and Infectious Diseases University Hospital,Lithuania,Vilnius,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+UAB GROTA,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB DGE BALTIC SOIL AND ENVIRONMENT,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MARIJAMPOLES SAVIVALDYBES ADMINISTRACIJA,Lithuania,MARIJAMPOLE,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+BENCO BALTIC ENGINEERING COMPANY UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIESOJI ISTAIGA KLAIPEDOS MOKSLO IRTECHNOLOGIJU PARKAS,Lithuania,KLAIPEDA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ASOCIACIJA BALTIJOS SLENIS,Lithuania,KLAIPEDA,Other
+VALSTYBINIS MOKSLINIU TYRIMU INSTITUTAS INOVATYVIOS MEDICINOS CENTRAS,Lithuania,VILNIUS,Other
+ELAS UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Institute of Geology and Geography,Lithuania,Vilnius,Research Organisations
+LIETUVOS RESPUBLIKOS APLINKOS MINISTERIJA,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ASOCIACIJA SENJORU INICIATYVU CENTRAS,Lithuania,KAUNAS,Other
+UAB Birstono siluma,Lithuania,Birstonas,Unknown
+BIRSTONO SAVIVALDYNES TARYBA,Lithuania,BirÅ¡tonas,Unknown
+UAB BUSTO IDEJA,Lithuania,VILNIUS,Unknown
+Housing and urban development agency (Busto ir urbanistines pletros agentura),Lithuania,Vilnius,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+Administration of Palanga Town Municipality,Lithuania,Palanga,Unknown
+UZDAROJI AKCINE BENDROVE COWI LIETUVA,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AVSC GROUP,Lithuania,VILNIUS,Unknown
+KAUNO REGIONO SMULKIU IR VIDUTINIUVERSLININKU ASOCIACIJA,Lithuania,KAUNAS,Other
+UZDAROJI AKCINE BENDROVE MIT-SOFT,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS AGRARINES EKONOMIKOS INSTITUTAS,Lithuania,VILNIUS,Research Organisations
+O ZURAVLIOVO IMONE AVSISTA,Lithuania,VILNIAUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KAUNO VANDENYS UAB,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+YUKON ADVANCED OPTICS WORLDWIDE,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS EKOLOGINES ZEMDIRBYSTES ASOCIACIJA,Lithuania,KAUNAS,Other
+KAZIMIERO SIMONAVICIAUS UNIVERSITETAS UAB,Lithuania,VILNIUS,Higher or Secondary Education Establishments
+UAB INOVACINE FIRMA MKDS,Lithuania,NEMENCINE VILNIAUS RAJ,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PALEMONO KERAMIKA AB,Lithuania,Kaunas,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+JSC PAKAITA,Lithuania,Kaunas,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+FORITAS,Lithuania,Kaunas,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LITHUANIAN TEXTILE INSTITUTE,Lithuania,KAUNAS,Research Organisations
+UAB PERSPEKTYVOS*ALERGOLOGIJOS KLINIKA ALLERGY CLINIC JSC PERSPECTIVESACP,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Eurasian Harm Reduction Network,Lithuania,Vilnius,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+UAB PRECIZIKA METROLOGY,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GLASSBEL EU UAB,Lithuania,KLAIPEDA,Unknown
+VIESOJI ISTAIGA KITOKIE PROJEKTAI,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KAUNO JIESIA UAB,Lithuania,Kaunas,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS EDUKOLOGIJOS UNIVERSITETAS,Lithuania,VILNIUS,Higher or Secondary Education Establishments
+NUSIKALSTAMUMO PREVENCIJOS LIETUVOJE CENTRAS,Lithuania,Vilnius,Research Organisations
+ISMANIUJU TECHNOLOGIJU ASOCIACIJA SMART TECHNOLOGIES ASSOCIATION,Lithuania,VILNIUS,Unknown
+SAULES ENERGIJA UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PRECIZIKA-MET SC UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SC Lithuanian radio & TV centre,Lithuania,Vilnius,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Lithuanian Road Administration under the Ministry of Transport and Communications,Lithuania,Vilnius,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TOPSONIC UAB,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EIKA UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KAUNO MEDICINOS UNIVERSITETAS,Lithuania,KAUNAS,Higher or Secondary Education Establishments
+LIETUVOS VETERINARIJOS AKADEMIJOS GYVULININKYSTES INSTITUTAS,Lithuania,BAISOGALA,Higher or Secondary Education Establishments
+"""II """"Expertus Vilnensis""""""",Lithuania,Vilnius,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+"AMBER ROUTE, UAB",Lithuania,Vilnius,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VIESOJI ISTAIGA SOCIALINES IR EKONOMINES PLETROS CENTRAS,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Norta,Lithuania,Kaunas,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VILNIAUS UNIVERSITETO EKOLOGIJOS INSTITUTAS,Lithuania,VILNIUS,Research Organisations
+MED GRUPE UAB,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS BIOETIKOS KOMITETAS,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+KLAIPEDOS LAIVYBOSTYRIMU CENTRAS,Lithuania,KLAIPEDA,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+UZDAROJI AKCINE BENDROVE STANDA,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Institute of Psychophysiology and Rehabilitation of the Kaunas University of Medicine,Lithuania,Palanga,Research Organisations
+NO MAGIC EUROPE UAB,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KTU REGIONINIS MOKSLO PARKAS,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Ministry of the Interior of the Republic of Lithuania,Lithuania,Vilnius,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+KOALICIJA GALIU GYVENTI,Lithuania,Vilnius,Other
+SVIETIMO INFORMACINIU TECHNOLOGIJU CENTRAS VALSTYBES BIUDZETINE ISTAIGA - ITC,Lithuania,Vilnius,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+BIOTECHNOLOGIJOS INSTITUTAS,Lithuania,VILNIUS,Higher or Secondary Education Establishments
+BG BALTIJA UAB,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UAB ELDES,Lithuania,VILNIUS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VITTAMED TECHNOLOGIJOS UAB,Lithuania,KAUNAS,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIETUVOS MOKSLU AKADEMIJA,Lithuania,VILNIUS,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)

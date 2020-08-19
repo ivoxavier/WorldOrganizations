@@ -1,0 +1,655 @@
+name,country,city,businessType
+ETTEVOTLUSE ARENDAMISE SIHTASUTUS,Estonia,TALLINN,Other
+Institute of Baltic Studies,Estonia,TARTU,Research Organisations
+TARTU ULIKOOL,Estonia,TARTU,Higher or Secondary Education Establishments
+MITTETULUNDUSUHING LIIVIMAA LIHAVEIS,Estonia,VORU MAAKOND,Other
+TALLINNA TEHNIKAULIKOOL,Estonia,TALLINN,Higher or Secondary Education Establishments
+EESTI MAAULIKOOL,Estonia,TARTU,Higher or Secondary Education Establishments
+ADVANCED SPORTS INSTALLATIONS EUROPE AS,Estonia,TALLINNA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TERVISE ARENGU INSTITUUT,Estonia,TALLINN,Research Organisations
+CYBERNETICA AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MAAELUMINISTEERIUM,Estonia,Tallinn,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TALLINN UNIVERSITY,Estonia,TALLINN,Higher or Secondary Education Establishments
+Sihtasutus Tallinna Tehnika- ja Teaduskeskus,Estonia,TALLINN,Other
+EESTI KUTSELISTE MESINIKE UHING,Estonia,TARTU,Other
+STACC OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MAJANDUS JA KOMMUNIKATSIOONIMINISTEERIUM,Estonia,TALLINN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+KINASERA OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI LIIGUTUSHAIRETE SELTS,Estonia,TARTU,Other
+KESKKONNAMINISTEERIUM,Estonia,TALLINN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SIHTASUTUS EESTI TEADUSAGENTUUR,Estonia,TARTU,Other
+JEKO DISAIN OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OU ENDOKRINOLOOGIAKESKUS,Estonia,Tartu,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+GRAANUL BIOTECH OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INTERSPECTRUM OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+POLLUMAJANDUSUURINGUTE KESKUS,Estonia,SAKU,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SOTSIAALMINISTEERIUM,Estonia,TALLINN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TALLINNA LINN,Estonia,TALLINN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+GUARDTIME OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SMARTMATIC-CYBERNETICA CENTRE OF EXCELLENCE FOR INTERNET VOTING OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TALLINNA KESKKONNAAMET,Estonia,TALLINN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+VETERINAAR JA TOIDULABORATOORIUM,Estonia,TARTU,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TERVISEAMET,Estonia,TALLINN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SIHTASUTUS POLIITIKAUURINGUTE KESKUS PRAXIS,Estonia,TALLINN,Research Organisations
+GELATEX TECHNOLOGIES OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CIVITTA EESTI AS,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+POLLUMAJANDUSE REGISTRITE JA INFORMATSIOONI AMET,Estonia,TARTU,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SIHTASUTUS ARCHIMEDES,Estonia,TALLINN,Other
+MITTETULUNDUSUHING KANTARA INITIATIVE EUROPE,Estonia,TALLINN,Other
+CRYSTALSOL OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INVENT BALTICS OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ELEKTRILEVI OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ELERING AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MEC Insenerilahendused,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BALTIC WORKBOATS AS,Estonia,NASVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CHEMI-PHARM AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OU IMECC,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AKTSIASELTS ELCOGEN,Estonia,TALLIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MITTETULUNDUSUHING TARTU REGIOONI ENERGIAAGENTUUR,Estonia,TARTU,Other
+KORTERIUHISTU RANNALIIVA,Estonia,VORU,Other
+SIHTASUTUS TALLINNA TEADUSPARK TEHNOPOL,Estonia,TALLINN,Other
+SISEKAITSEAKADEEMIA,Estonia,TALLINN,Higher or Secondary Education Establishments
+SKELETON TECHNOLOGIES OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UBIK SOLUTIONS OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PROTOBIOS OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LDI INNOVATION OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MIKROMASCH EESTI OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DIGITAL SPUTNIK LIGHTING OU,Estonia,TALLIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CODEBORNE OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+THREOD SYSTEMS OU,Estonia,LUBJA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+RELADE OU,Estonia,TARTU CITY,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MEREDOT OU,Estonia,TALLIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MOBI SOLUTIONS OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SIHTASUTUS STOCKHOLMI KESKKONNAINSTITUUDI TALLINNA KESKUS,Estonia,TALLINN,Research Organisations
+LINGVIST TECHNOLOGIES OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UNIRAJA OU,Estonia,TALLIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AS REACH-U,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MAKSU- JA TOLLIAMETI,Estonia,TALLIN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+KESKKONNAINSPEKTSIOON,Estonia,Tallinn,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+SIHTASUTUS TALLINNA ETTEVOTLUSINKUBAATORID,Estonia,Tallinn,Other
+DERMATOONKOLOOGIA KLIINIK OU,Estonia,TALLINN HARJU MAAKOND,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DERMTEST OU,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EFENCO OU,Estonia,Sillamae,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ICOSAGEN AS,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SCULT OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ERICSSON EESTI AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OPTOFLUID TECHNOLOGIES OU,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VORU LINNAVALITSUS,Estonia,VORU,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+Politsei- ja Piirivalveamet,Estonia,Tallinn,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+AKTSIASELTS INTRAL,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OU COGNUSE,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OSAUHING MY CAPITAL,Estonia,KEILA VALD,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ROKSNET SOLUTIONS OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ALEKON CARGO OSAUHING,Estonia,RAKVERE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ICOSAGEN CELL FACTORY OU,Estonia,KAMBJA VALD,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OSAUHING ANF DEVELOPMENT,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+REVNETEK SYSTEMS OU,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TALLINK GRUPP AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SMARTLINK OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Positium OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ECOFER TECHNOLOGIES OU,Estonia,TALLIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+FOB SOLUTIONS OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BIOATLAS OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LIEWENTHAL ELECTRONICS LTD,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+220 ENERGIA OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OU NANO,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+POWERUP FUEL CELLS OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CLEVERON AS,Estonia,VILJANDI,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KATANA TECHNOLOGIES OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+REBELROAM OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+STORYTEK OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SARDINA SYSTEMS OU,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ETELATAR INNOVATION OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MITTETULUNDUSUHING EESTI INTELLEKTUAALOMANDI JA TEHNOLOOGIASIIRDE KESKUS,Estonia,TALLINN,Other
+TECHDEVCO LAB OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ESTROTECH OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI POLLUMAJANDUS-KAUBANDUSKODA,Estonia,TALLINN,Other
+AIDEAS OU,Estonia,TALLIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DOCUMENTAL OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CLARET CONSULTING,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EDGERYDERS OU,Estonia,TALLIN,Other
+OU ELIKO TEHNOLOOGIA ARENDUSKESKUS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Cityntel OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TARTU LINN,Estonia,TARTU,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+TAKSO OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AS FORTUM TARTU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TELIA EESTI AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SMART CITY LAB,Estonia,TARTU,Other
+SIHTASUTUS TEADUSKESKUS AHHAA,Estonia,TARTU,Other
+MUINSUSKAITSEAMET,Estonia,TALLINN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+MTU EESTI KAUBANDUS-TOOSTUSKODA,Estonia,TALLINN,Other
+SPRAYSPRINTER OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CAFA TECH OU,Estonia,TALLIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HEPTA GROUP AIRBORNE OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INTEGRATION AND MIGRATION FOUNDATION,Estonia,Tallinn,Other
+REALEYES OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ARTEC DESIGN OU,Estonia,HARJUMAA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI INFOTEHNOLOOGIA JA TELEKOMMUNIKATSIOONI LIIT,Estonia,TALLINN,Other
+DREAM GROUP OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MITTETULUNDUSUHING OKOLOOGILISTE TEHNOLOOGIATE KESKUS,Estonia,TARTU,Other
+BERCMAN TECHNOLOGIES,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI RAUDTEE AS,Estonia,TALLIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+RIIGI INFOSUSTEEMI AMET,Estonia,Tallinn,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+RIDANGO AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+UPPINTECH OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+THE Systems OU,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TULUNDUSUHISTU TARTU TARBIJATE KOOPERATIIV,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BALTIC INNOVATION AGENCY OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HANSABIOMED LIFE SCIENCES OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI ENERGIA AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MITTETULUNDUSUHING EESTI TIMMITUD EHITUSE TUGIRUHM,Estonia,TALLINN,Other
+MICROPROCESSOR SOLUTIONS OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MAGNESIUMCOM OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BIOTATEC OU,Estonia,TALLIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI KEELE INSTITUUT,Estonia,TALLINN,Research Organisations
+TEXTA OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AS EKSPRESS MEEDIA,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI MATERJALITEHNOLOOGIATE ARENDUSKESKUSE OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TEBO OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MTU EESTI ARIINGLITE ASSOTSIATSIOON,Estonia,TALLINN,Other
+KEEMILISE JA BIOLOOGILISE FUUSIKA INSTITUUT,Estonia,TALLINN,Other
+TERVISETEHNOLOOGIATE ARENDUSKESKUS AS,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INNOVATSIOONIKESKUS INNOKAS,Estonia,HAAPSALU,Other
+EESTI RAHVUSRINGHAALING,Estonia,TALLIN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+POLYDOME OU,Estonia,RAKVERE LAARNE VIRU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+STATE INFOCOMMUNICATION FOUNDATION,Estonia,TALLIN,Other
+BUGBOX OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+INSIGNIA GROUP OU,Estonia,LEISI  VALD SAARE COUNTY,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+E-RIIGI AKADEEMIA SIHTASUTUS,Estonia,TALLINN,Other
+MEDICAL TECHNOLOGY GROUP OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI ELEKTRITOOSTUSE LIIT,Estonia,TALLINN,Other
+IDA-VIRUMAA OMAVALITSUSTE LIIT,Estonia,JOHVI,Other
+EESTI KESKKONNAUURINGUTE KESKUS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BIG DATA SCORING,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AASA GLOBAL AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+1OT OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TIMBECO EHITUS OU,Estonia,Todva,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MTU EESTI AVATUD NOORTEKESKUSTE UHENDUS,Estonia,POLTSAMAA,Other
+EESTI MAHEPOLLUMAJANDUSE SIHTASUTUS,Estonia,TARTU,Other
+EESTI KORTERIUHISTUTE LIIT MTU,Estonia,TALLINN,Other
+VELMENNI OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KESKKONNAAGENTUUR,Estonia,TALLINN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+MITTETULUNDUSUHING POLLUKULTUURIDEKLASTER,Estonia,VANDRA VALD,Other
+MITTETULUNDUSUHING PIMEDATE OODE FILMIFESTIVAL,Estonia,TALLINN,Other
+HOSTDROP OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SIHTASUTUS RAHVUSVAHELINE KAITSEUURINGUTE KESKUS,Estonia,TALLINN,Research Organisations
+OU QURETEC,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SIHTASUTUS TARTU ULIKOOLI KLIINIKUM,Estonia,TARTU,Research Organisations
+BIOGOLD OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BIOTEHNOLOOGIA JA MEDITSIINI ETTEVOTLUSE ARENDAMISE SA,Estonia,TARTU,Other
+EESTI KIRJANDUSMUUSEUM,Estonia,TARTU,Research Organisations
+SENTAB ESTONIA OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EUROPPORTUNITIES OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MATEK AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+REF EHITUSTOOD OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AKTSIASELTS TOIDU- JA FERMENTATSIOONITEHNOLOOGIA ARENDUSKESKUS,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MITTETULUNDUSUHING EESTI DISAINIKESKUS,Estonia,TALLINN,Other
+RAVIMIAMET,Estonia,TARTU,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+AS GRAANUL INVEST,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+IPDX DIAGNOSTICS OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BALTI KAITSEKOLLEDZ,Estonia,TARTU,Higher or Secondary Education Establishments
+Fourth View Consulting,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VEETEEDE AMET,Estonia,TALLINN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+DIGIFLAK OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SIHTASUTUS HAAPSALU NEUROLOOGILINE REHABILITATSIOONIKESKUS,Estonia,HAAPSALU,Other
+EESTI TEADUSTE AKADEEMIA,Estonia,TALLINN,Research Organisations
+HARIDUSE INFOTEHNOLOOGIA SIHTASUTUS,Estonia,TALLINN,Other
+WISE GUYS INVESTMENT OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SIHTASUTUS KREDEX,Estonia,TALLINN,Other
+CYBEXER TECHNOLOGIES,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ESTONIAN RESCUE BOARD,Estonia,TALLINN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+PARALLELS SOFTWARE ESTONIA OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ADVENTURE OF LIFETIME OU,Estonia,TALLIN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HELPIFIC MTU,Estonia,TALLINN,Other
+VORUMAA OMAVALITSUSTE LIIT,Estonia,VORU,Other
+TEHNOLABOR OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MITTETULUNDUSUHING ROBOTEX,Estonia,TALLIN,Other
+WEAREBIO OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OU TESTONICA LAB,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AGILEWORKS OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SPACEIT OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NATURALDYER OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SIHTASUTUS TARTU KESKKONNAHARIDUSE KESKUS,Estonia,TARTU,Other
+MERATEL OU,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CONTRIBER FLOWS OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OU B.I.A.,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TARTU SCIENCE PARK FOUNDATION TSP,Estonia,Tartu,Other
+Lixea OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Tallinn Technical University,Estonia,Tallinn,Unknown
+TALLINN TECHNICAL UNIVERSITY,Estonia,Tallinn,Unknown
+ESTONIAN MARINE INSTITUTE,Estonia,TALLINN,Unknown
+ESTONIAN LT-CONSULTANTS LTD,Estonia,Tallin,Unknown
+Institute of Geology - Estonian Academy of Sciences,Estonia,Tallinn,Unknown
+Estonian Marine Institute,Estonia,Tallinn,Unknown
+GEOLOGICAL SURVEY OF ESTONIA,Estonia,TALLINN,Unknown
+Institute of Ecology - Estonian Academy of Sciences,Estonia,Tallinn,Unknown
+UNIVERSITY OF TARTU,Estonia,TARTU,Unknown
+University of Tartu,Estonia,Tartu,Unknown
+ESTONIAN NATIONAL MARITIME BOARD,Estonia,Tallin,Unknown
+ESTONIAN INSTITUTE OF AGRICULTURAL ENGINEERING,Estonia,SAKU,Unknown
+ESTONIAN BIOCENTRE,Estonia,TARTU,Unknown
+Estonian Institute of Experimental & Clinical Medicine,Estonia,Tallinn,Unknown
+Eagle Cad Ltd.,Estonia,Tartu,Unknown
+Estonian Biocentre,Estonia,Tartu,Unknown
+NATIONAL INSTITUTE OF CHEMICAL PHYSICS AND BIOPHYSICS,Estonia,TALLINN,Unknown
+Tallin Technical University,Estonia,,Unknown
+Geological Survey of Estonia,Estonia,Tallinn,Unknown
+Technical University,Estonia,Tallinn,Unknown
+Institute of Physics,Estonia,Tartu,Unknown
+Estla Ltd.,Estonia,Tartu,Unknown
+Prangli Tuulejoud Ltd.,Estonia,Harjumaa,Unknown
+ESTONIAN INSTITUTE OF EXPERIMENTAL AND CLINICAL MEDICINE,Estonia,TALLINN,Unknown
+Institute of Experimental Biology - Estonian academy of Sciences,Estonia,Harku - Harjumaa,Unknown
+INSTITUTE OF CYBERNETICS,Estonia,TALLINN,Unknown
+TALLINN TECHNICAL UNIVERSITY,Estonia,TALLINN,Unknown
+ESTONIAN AGRICULTURAL UNIVERSITY,Estonia,TARTU,Unknown
+Institute of International and SocialStudies,Estonia,Tallinn,Unknown
+Estonian Institute of Agricultural Engineering,Estonia,Saku,Unknown
+Tallinn Central hospital,Estonia,Tallinn,Unknown
+Tallinn Pedagogical University,Estonia,Tallinn,Unknown
+Tallinn Pelgulinn Hospital,Estonia,Tallinn,Unknown
+Statistikaamet,Estonia,Tallinn,Unknown
+OU TERVISEPORTAAL,Estonia,TALLINN,Unknown
+SIHTASUTUS TARTU ULIKOOLI KLIINIKUM,Estonia,TARTU,Unknown
+MINDWORKS INDUSTRIES OUE,Estonia,TALLINN,Unknown
+CURONIA RESEARCH OU,Estonia,TALLINN,Unknown
+ARTEC DESIGN GROUP OUE,Estonia,TALLINN,Unknown
+TARTU UNIVERSITY CLINICS,Estonia,TARTU,Unknown
+PALDISKI TOWN GOVERNMENT,Estonia,PALDISKI,Unknown
+AS BI-INFO,Estonia,TALLINN,Unknown
+TALLINNA TEHNIKAUELIKOOL,Estonia,TALLINN,Unknown
+ESTONIAN POWER AND HEAT,Estonia,TALLINN,Unknown
+ARDORAN OU LTD,Estonia,LUIGE/KIILI/HARJU,Unknown
+TALLINNA TEHNIKAUELIKOOLI EESTI MAJANDUSE INSTITUUT,Estonia,TALLINN,Unknown
+TALLINNA TEHNIKAUELIKOOLI KUEBERNEETIKA INSTITUUT,Estonia,TALLINN,Unknown
+INSTITUTE OF BALTIC STUDIES,Estonia,TARTU,Unknown
+TALLINN PEDAGOGICAL UNIVERSITY,Estonia,TALLINN,Unknown
+"VETERINARY AND FOOD BOARD, ESTONIA",Estonia,TALLINN,Unknown
+HIIUMA MAAVALITSUS,Estonia,KARDLA,Unknown
+TALLINN TECHNOLOGY AND SCIENCE CENTRE ENERGY,Estonia,TALLINN,Unknown
+HILL & KNOWLTON EESTI AS,Estonia,TALLINN,Unknown
+FOUNDATION FOR THE ESTONIAN INSTITUTE OF HUMANITIES,Estonia,TALLIN,Unknown
+ENTEH ENGINEERING LTD,Estonia,KOHTLA-JARVE,Unknown
+VETERINARY AND FOOD LABORATORY,Estonia,TARTU,Unknown
+CENTER FOR TRANSBOUNDARY COOPERATION,Estonia,TARTU,Unknown
+ALMACON LTD,Estonia,TALLINN,Unknown
+Tallian Technical University,Estonia,TALLINN,Unknown
+CENTRE FOR ECOLOGICAL ENGINEERING TARTU,Estonia,TARTU,Unknown
+JOEGEVA PLANT BREEDING INSTITUTE,Estonia,ESTONIA,Unknown
+NATIONAL ARCHIVES OF ESTONIA,Estonia,TARTU,Unknown
+EESTI KINNISVARA HALDAJATE JA HOOLDAJATE LIIT,Estonia,TALLINN,Unknown
+AKTSIASELTS APROTE,Estonia,TARTUMAA,Unknown
+SIHTASUTUS ARCHIMEDES,Estonia,TALLINN,Unknown
+PIONEER AS,Estonia,TALLINN,Unknown
+TARTU OBSERVATORY,Estonia,TOERAVERE,Unknown
+REBALA HISTORICAL RESERVE,Estonia,"JOELAHTME, HARJUMAA",Unknown
+PRAXIS - CENTER FOR POLICY STUDIES,Estonia,TALLINN,Unknown
+ESTONIAN RESEARCH INSTITUTE OF AGRICULTURE,Estonia,SAKU,Unknown
+ESTIVO AS,Estonia,TALLINN,Unknown
+INTERSPECTRUM OU,Estonia,TARTU,Unknown
+ESTONIAN FOUNDATION FOR EUROPEAN UNION EDUCATION AND RESEARCH PROGRAMMES ARCHIMEDES,Estonia,,Unknown
+AKTSIASELTS EESTI POST,Estonia,TALLINN,Unknown
+ESTONIAN INTERUNIVERSITY POPULATION RESEARCH CENTRE,Estonia,TALLINN,Unknown
+FOUNDATION ESTONIAN FOREIGN POLICY INSTITUTE,Estonia,TALLINN,Unknown
+EESTI ENERGIA AS,Estonia,TALLINN,Unknown
+PAERNU TOWN GOVERNMENT,Estonia,PAERNU,Unknown
+TARTU PARKINSON'S DISEASE SOCIETY,Estonia,TARTU,Unknown
+ESTONIAN FOUNDATION OF EUROPEAN UNION EDUCATIONAL AND RESEARCH PROGRAMMES - ARCHIMEDES,Estonia,TARTU,Unknown
+IB KRATES OU,Estonia,TALLINN,Unknown
+MINISTRY OF EDUCATION OF THE REPUBLIC OF ESTONIA,Estonia,TALLINN,Unknown
+"INSTITUTE OF PHYSICS, UNIVERSITY OF TARTU",Estonia,TARTU,Unknown
+ASPER LTD.,Estonia,TARTU,Unknown
+City of Tallinn,Estonia,Tallinn,Unknown
+CYBERNETICA AS,Estonia,TALLINN,Unknown
+ESTONIAN AGROBIOCENTRE,Estonia,TARTU,Unknown
+TALLINN UNIVERSITY OF TECHNOLOGY (ESTONIAN ENERGY RESEARCH INSTITUTE (EERI),Estonia,TALLINN,Unknown
+NORTH ESTONIAN REGIONAL HOSPITAL,Estonia,TALLINN,Unknown
+AS ENER E . A .,Estonia,PÃRNU,Unknown
+ARCHIMEDES FOUNDATION,Estonia,,Unknown
+ESTONIAN POLICE FORENSIC SERVICE CENTER,Estonia,TALLINN,Unknown
+ESTONIAN MARINE INSTITUTE,Estonia,TALLIN,Unknown
+MUINSUSKAITSEAMET,Estonia,TALLINN,Unknown
+ES TURU-UURINGUTE AS,Estonia,TALLINN,Unknown
+ESTONIAN ENVIRONMENT INFORMATION CENTRE,Estonia,TALLINN,Unknown
+ESTONIAN SCIENCE FOUNDATION,Estonia,TALLINN,Unknown
+HETA LAW OFFICES,Estonia,TALLINN,Unknown
+TALLEGG LTD,Estonia,LOO,Unknown
+KODUMAJATEHASE AS,Estonia,TALLINN,Unknown
+EESTI MEREAKADEEMIA,Estonia,TALLINN,Unknown
+OSAUEHING D-CODEX,Estonia,TALLINN,Unknown
+ENVIRONMENTAL PROTECTION INSTITUTE OF THE ESTONIAN AGRICULTURAL UNIVERSITY,Estonia,TARTU,Unknown
+MINISTRY OF JUSTICE CENTRE OF REGISTERS,Estonia,TALLINN,Unknown
+ESTONIAN EDUCATIONAL AND RESEARCH NETWORK,Estonia,TARTU,Unknown
+QUATTROMED LTD,Estonia,TARTU,Unknown
+MINISTRY OF ECONOMIC AFFAIRS OF THE REPUBLIC OF ESTONIA,Estonia,TALLINN,Unknown
+ESTONIAN FOUNDATION OF EUROPEAN UNION EDUCATION AND RESEARCH PROGRAMME,Estonia,,Unknown
+ESTONIAN FOUNDATION OF EUROPEAN UNION EDUCATIONAL AND RESEARCH PROGRAMMES - ARCHIMEDES,Estonia,TALLINN,Unknown
+ERICSSON EESTI AS,Estonia,TALLINN,Unknown
+EESTI INFOTEHNOLOOGIA SIHTASUTUS,Estonia,TALLINN,Unknown
+BTG BALTIC OUE,Estonia,TALLINN,Unknown
+TALLIN UNIVERSITY OF TECHNOLOGY,Estonia,TALLINN,Unknown
+ESTONIAN ENERGY RESEARCH INSTITUTE AT TALLINN TECHNICAL UNIVERSITY,Estonia,TALLINN,Unknown
+AS TERMOX,Estonia,TARTU,Unknown
+ESTONIAN ENVIRONMENTAL RESEARCH CENTRE LTD,Estonia,TALLINN,Unknown
+ENTRADA,Estonia,Tartu,Unknown
+UNIVERSITY OF TARTU,Estonia,,Unknown
+Ernst and Young Estonia,Estonia,,Unknown
+ENTERPRISE ESTONIA,Estonia,,Unknown
+ESTONIAN GERONTOLOGY AND GERIARTRIC ASSOCIATION,Estonia,TARTU,Unknown
+TUT,Estonia,TALLINN,Unknown
+AKTSIASELTS REGIO,Estonia,TARTU,Other
+HILL AND KNOWLTON EESTI AKTSIASELTS,Estonia,TALLINN,Unknown
+ESTONIAN VETERINARY AND FOOD LABORATORY,Estonia,TARTU,Unknown
+TALLINNA TEHNIKAULIKOOL,Estonia,TALLINN,Unknown
+TARTU UELIKOOL,Estonia,TARTU,Higher or Secondary Education Establishments
+EESTI RAHVUSRAAMATUKOGU,Estonia,TALLINN,GOV
+TALLINNA UELIKOOLI RAVHUSVAHELISTE JA SOTSIAALUURINGUTE INSTITUUT,Estonia,TALLIN,Unknown
+AKTSIASELTS ASPER BIOTECH,Estonia,TARTU,Other
+EESTI POLLUMAJANDUSUELIKOOL,Estonia,TARTU,Unknown
+TARTU ULIKOOL,Estonia,TARTU,Unknown
+TALLINN UNIVERSITY OF TECHNOLOGY,Estonia,TALLINN,Unknown
+NOVELPACK EESTI OU,Estonia,"ALLIKU, SAUE VALD",Unknown
+ASWEGA LTD,Estonia,TALLIN,Unknown
+VASTSELIINA RURAL MUNICIPALITY,Estonia,VASTSELIINA,Unknown
+ARCHIMEDES FOUNDATION,Estonia,TALLINN,Unknown
+OSAUHING PIPEREC,Estonia,TALLINN,Unknown
+MUNITSIPAALASUTUS KARJÃÃR,Estonia,KANEPI,Unknown
+HOTRONIC AS,Estonia,TALLINN,Unknown
+TEHNOPLAST AS,Estonia,TALLINN,Unknown
+ENTERPRISE ESTONIA,Estonia,TALLINN,Unknown
+TALLINNA TEHNIKAÃLIKOOL,Estonia,TALLINN,Unknown
+TALLINN LINNAVALITSUS,Estonia,TALLINN,Unknown
+AS MRP LINNA LIINID,Estonia,TALLINN,Unknown
+TALLINN BUS COMPANY,Estonia,TALLINN,Unknown
+TALLINN TRAM AND TROLLEYBUS COMPANY,Estonia,TALLINN,Unknown
+RAHVUSARHIIV,Estonia,TARTU,Other
+AKTSIASELTS REGIO,Estonia,TARTU,IND
+TARTU SCIENCE PARK,Estonia,TARTU,Unknown
+ESTONIAN MINISTRY OF ECONOMIC AFFAIRS AND COMMUNICATIONS,Estonia,TALLINN,Unknown
+EESTI TOULOOMAKASVTAJATE UHISTU,Estonia,RAPLA COUNTY,Unknown
+PIISTAOJA KATSETALU OÃ,Estonia,PARNU COUNTY,Unknown
+POLVA AGRO OU,Estonia,POLVA VALD,Unknown
+AS ENER EA,Estonia,PÃRNU,Unknown
+CLAY PROCESSING SERVICES OU,Estonia,TARTU,Unknown
+EESTI TOIDUAINETOOSTUSE LIIT,Estonia,TALLINN,Unknown
+DALE LD. AS,Estonia,LEISU,Unknown
+AKTSIASELTS REGIO,Estonia,TARTU,Unknown
+ARDORAN OU,Estonia,TALLINN,Unknown
+NORDIC FOODS LTD,Estonia,POELVA,Unknown
+AS PÃLTSAMAA FELIX,Estonia,PÃLTSAMAA,Unknown
+AG LTD,Estonia,TALLINN,Unknown
+OÃ ROHELINE RING,Estonia,KURESSAARE,Unknown
+IB STRATUM,Estonia,TALLINN,Unknown
+OAS IB FOOR,Estonia,TALLINN,Unknown
+TARTU UELIKOOL - UNIVERSITY OF TARTU,Estonia,TARTU,Unknown
+OÃ QURETEC,Estonia,TARTU,Unknown
+TALLINNA TEHNOLOOGIAPARGI ARENDAMISE SIHTASUTUS,Estonia,TALLINN,Unknown
+ESTONIAN INSTITUTE FOR FUTURE STUDIES,Estonia,TALLINN,Unknown
+ESTLA LTD,Estonia,TARTU,Unknown
+TARTU UNIVERSITY,Estonia,TARTU,Unknown
+ICOSAGEN AS,Estonia,TARTU,Unknown
+ESTONIAN-SWEDISH MENTAL HEALTH AND SUICIDOLOGY INSTITUTE,Estonia,TALLINN,Unknown
+PROTOBIOS LTD.,Estonia,TALLINN,Unknown
+TARTU ÃLIKOOL,Estonia,TARTU,Unknown
+ICOSAGEN,Estonia,TARTU,Unknown
+ASPER BIOTECH,Estonia,TARTU,Unknown
+EESTI MAHERPOLLUMAJANDUSE SIHTASUTUS,Estonia,TARTU,Unknown
+AKTSIASELTS A&G,Estonia,TALLINN,Unknown
+TARTU BIOTECHNOLOGY PARK,Estonia,TARTU,Unknown
+OSAÃHING BIODATA,Estonia,TARTU,Unknown
+AS SEPA REHV,Estonia,TARTU,Unknown
+AKTSIASELTS LÃÃNE-TALLINNA KESKHAIGLA,Estonia,TALLINN,Unknown
+KEVILI POLLUMAJANDUSUHISTU,Estonia,JÃGEVA,Unknown
+HALLIK AS,Estonia,TAMSALU,Unknown
+FEDERATION OF ESTONIAN ENGINEERING INDUSTRY,Estonia,TALLINN,Unknown
+ADREM PARNU AS,Estonia,PARNU,Unknown
+CLIK AS,Estonia,HARJUMAA,Unknown
+SA EPLER & LORENZ,Estonia,TARTU,Unknown
+STOCKHOLM ENVIRONMENT INSTITUTE TALLINN CENTRE/ESTONIAN INSTITUTE FOR SUSTAINABLE DEVELOPMENT,Estonia,TALLINN,Unknown
+SA EESTIMAA LOODUSE FOND (ESTONIAN FUND FOR NATURE),Estonia,TARTU,Unknown
+"ESTONIAN MARINE INSTITUTE, UNIVERSITY OF TARTU",Estonia,TALLINN,Unknown
+TALLINNA TEHNIKAUELIKOOL.,Estonia,TALLINN,Unknown
+ESTONIAN AGRICULTURAL RESEARCH CENTRE,Estonia,"SAKU, HARJUMAA",Unknown
+TALLINNA ULIKOOL,Estonia,TALLINN,Unknown
+TARTU UELIKOOL,Estonia,TARTU,Unknown
+HARIDUSMEEDIA,Estonia,TALLINN,Unknown
+TARTU BOITEHNOLOOGIA PARK,Estonia,TARTU,Unknown
+ENTERTPRISE ESTONIA,Estonia,TALLINN,Unknown
+ARCHIMEDES FOUNDATION,Estonia,TALINN,Unknown
+ESTONIAN ACADEMY OF SCIENCES,Estonia,TALLINN,Unknown
+SCIENCE CENTRE AHHAA FOUNDATION,Estonia,TARTU,Unknown
+ESTONIAN TELEVISION,Estonia,TALLINN,Unknown
+SA TALLINNA TEHNIKA- JA TEADUSKESKUS,Estonia,TALLINN,Unknown
+TALLINNA ULIOKOOL,Estonia,TALLINN,Unknown
+CENTRE FOR ECOLOGICAL ENGINEERING,Estonia,TARTU,Unknown
+INVENT BALTICS OU,Estonia,TALLINN,Unknown
+REBRUK FARM,Estonia,JRVAMAA,Unknown
+TALLINNA TEHNIKAÃLIKOOLI KÃBERNEETIKA INSTITUUT,Estonia,TALLINN,Unknown
+MEC INSENERILAHENDUSED OÃ,Estonia,TALLINN,Unknown
+TALLINN TECHNOLOGY PARK DEVELOPMENT FOUNDATION,Estonia,TALLINN,Unknown
+UNIVERSITY OF TARTU PÃRNU COLLEGE,Estonia,PÃRNU,Unknown
+JÃHVI INDUSTRIAL PARK FOUNDATION,Estonia,JÃHVI,Unknown
+ESTONIAN CLOTHING AND TEXTILE ASSOCIATION,Estonia,TALLINN,Unknown
+TALLINNA LINNAVALITSUS,Estonia,TALLINN,Unknown
+AVISION AS,Estonia,TALLINN,Unknown
+AS LAPI MT,Estonia,VORU COUNTY,Unknown
+IB KRATES OÃ,Estonia,TALLINN,Unknown
+EESTI MAAUELIKOOL,Estonia,TARTU,Unknown
+DVIGATEL RAKIS AS,Estonia,TALLINN,Unknown
+DVIGATEL REGITAL OÃ,Estonia,TALLINN,Unknown
+TARTU OBSERVATORY -ESTONIAN MINISTRY OF EDUCATION AND RESEARCH,Estonia,TORAVERE,Unknown
+AKTSIASELTS AIREL,Estonia,TARTU,Unknown
+INSTITUTE OF CYBERNETICS AT TALLINN UNIVERSITY OF TECHNOLOGY,Estonia,TALLINN,Unknown
+ATI PROFIIL OU,Estonia,HAAPSALU,Unknown
+TIIGRIHUPPE SIHTASUTUS,Estonia,TALLINN,Unknown
+OU ELIKO TEHNOLOOGIA ARENDUSKESKUS,Estonia,TALLINN,Unknown
+ASPER BIOTECH LTD,Estonia,TARTU,Unknown
+SIHTASUTUS EESTI NAGEMISPUUETEGA INIMESTE FOND,Estonia,TALLINN,Unknown
+INSPIRIT OU,Estonia,TARTU,Unknown
+AKTSIASELTS ASPER BIOTECH,Estonia,TARTU,Unknown
+PEIPSI CENTER FOR TRANSBOUNDARY COOPERATION,Estonia,TARTU,Unknown
+E-RIIGI AKADEEMIA SIHTASUTUS,Estonia,TALLINN,Unknown
+OU MIKSIKE,Estonia,TARTU,Unknown
+JAMA-UR OSAUHING,Estonia,"VIIMSI VALD, ROHUNEEME",Unknown
+ASPER BIOTECH LTD.,Estonia,TARTU,Unknown
+ESTONIAN WIRELESS NETWORK,Estonia,HAAPSALU,Unknown
+AS LASER DIAGNOSTIC INSTRUMENTS,Estonia,TALLINN,Unknown
+COSTECH MICROANALYTICAL OUE,Estonia,TALLINN,Unknown
+POLLUMAJANDUSUURINGUTE KESKUS,Estonia,"SAKU, HARJUMAA",Unknown
+NATIONAL INSTITUTE FOR HEALTH DEVELOPMENT,Estonia,TALLINN,Unknown
+HEKOTEK AS,Estonia,HARJUMAA,Unknown
+OSKANDO OU,Estonia,TALLINN,Unknown
+"ESTONIAN INSTITUTE FOR SUSTAINABLE DEVELOPMENT, STOCKHOLM ENVIRONMENT INSTITUTE TALLINN CENTRE",Estonia,TALLINN,Unknown
+ETTEVOTLUSE ARENDAMISE SIHTASUTUS,Estonia,TALLINN,Unknown
+"HAEMATOLOGY AND ONCOLOGY CLINIC, TARTU UNIVERSITY HOSPITAL",Estonia,TARTU,Unknown
+SA POHJA-EESTI REGIONAALHAIGLA (FOUNDATION NORTH ESTONIA MEDICAL CENTRE),Estonia,TALLINN,Unknown
+EESTI FUEUESIKA SELTS,Estonia,TARTU,Unknown
+SIHTASUTUS EESTI TEADUSFOND (ESTONIAN SCIENCE FOUNDATION),Estonia,TALLINN,Unknown
+ARCHIMEDES FOUNDATION,Estonia,TALLIN,Unknown
+SIHTASUTUS POLIITIKAUURINGUTE KESKUS PRAXIS,Estonia,TALLINN,Unknown
+TALLINNA TEHNIKAULIKOOLI KUBERNEETIKA INSTITUUT,Estonia,TALLINN,Unknown
+DIGITAL HOLDING OU,Estonia,TALLINN,Unknown
+KEEMILISE JA BIOLOOGILISE FUUSIKA INSTITUUT,Estonia,TALLINN,Unknown
+OSAÃHING PER SCITUM,Estonia,TALLINN,Unknown
+ESTONIAN SCIENCE FOUNDATION,Estonia,TALLIN,Unknown
+ESTONIAN RESEARCH COUNCIL,Estonia,TARTU,Unknown
+EESTI VABARIIGI HARIDUS - JA TEADUSMINISTEERIUM / ESTONIAN ACADEMY OF SCIENCES,Estonia,TARTU,Unknown
+EESTI TEADUSTE AKADEEMIA,Estonia,TALLINN,Unknown
+MOBI SOLUTIONS OU,Estonia,TARTU,Unknown
+AS EGEEN,Estonia,TARTU,Unknown
+TARTU ULIKOOLI,Estonia,TARTU,Unknown
+ESTONIAN AGRICULTURAL UNIVERSITY,Estonia,,Unknown
+"TALLINN UNIVERSITY OF TECHNOLOGY, DEPARTMENT OF FOOD PROCESSING",Estonia,TALLINN,Unknown
+ESTONIAN ENVIRONMENTAL RESEARCH CENTRE,Estonia,TALLINN,Unknown
+TERVISE ARENGHU INSTITUUT (NATIONAL INSTITUTE FOR HEALTH DEVELOPMENT),Estonia,Tallinn,Unknown
+PRAXIS CENTRE FOR POLICY STUDIES,Estonia,TALLINN,Unknown
+ESTONIAN BIOTECHNOLOGY ASSOCIATION,Estonia,TARTU,Unknown
+TALLINN UNIVERSITY,Estonia,TALLINN,Unknown
+TALLINNA TEHNIKA UELIKOOL,Estonia,TALLINN,Unknown
+ESTONIAN MARINE INSTITUTE,Estonia,Tallinn,Research Organisations
+POLIITIKAUURINGUTE KESKUS PRAXIS,Estonia,TALLINN,Unknown
+SIHTASUTUS TALLINNA TEHNIKAULIKOOLI INNOVATSIOONIKESKUS,Estonia,TALLINN,Unknown
+HARIDUS-JA TEADUS MINISTEERIUM,Estonia,TARTU,Unknown
+EESTI PLASTMASSIUHING MTU,Estonia,TALLINN,Unknown
+STOCKHOLM ENVIRONMENT INSTITUTE TALLINN CENTRE,Estonia,TALLINN,Unknown
+BDA ESTONIA OÃ,Estonia,TALLINN,Unknown
+BDA CONSULTING OÃ,Estonia,TALLINN,Unknown
+TARU UELIKOOL,Estonia,TARTU,Unknown
+HARIDUSMEEDIA OÃ,Estonia,TALLINN,Unknown
+ESTONIAN PHYSICAL SOCIETY,Estonia,TARTU,Unknown
+THE NON-ESTONIANS' INTEGRATION FOUNDATION',Estonia,TALLINN,Unknown
+"INSTITUTE OF INTERNATIONAL AND SOCIAL STUDIES, TALLINN PEDAGOGICAL UNIVERSITY",Estonia,TALLINN,Unknown
+OSAUEHING EETRIUEKSUS,Estonia,TALLINN,Unknown
+EESTI BIOTEHNOLOOGIA LIIT,Estonia,TARTU,Unknown
+ALFA-OMEGA COMMUNICATIONS LTD.,Estonia,TALLINN,Unknown
+SIHTASUTUS TALLINNA TEHNIKA-JA TEADUSKESKUS,Estonia,TALLINN,Unknown
+ESTONIAN EDUCATIONAL AND RESEARCH NETWORK,Estonia,Tartu,Unknown
+OSAUHING VP AUTOLAMMUTUS,Estonia,KEILA-JOA,Unknown
+EESTI AIANDUSLIT,Estonia,TALLINN,Unknown
+EESTI POLLUMAJANDUSÃLIKOOL (ESTONIAN AGRICULTURAL UNIVERSITY),Estonia,TARTU,Unknown
+PORT OF TALLINN,Estonia,TALLINN,Unknown
+TALLINNA TEHNIKAULIKOOL GEOLOOGIA INSTITUUT,Estonia,TALLINN,Unknown
+TERVISE ARENGU INSTITUUT - NATIONAL HEALTH DEVELOPMENT INSTITUTE,Estonia,TALLINN,Unknown
+TARTU OBSERVATOORIUM,Estonia,TARTUMAA,Unknown
+SIHTASUTUS ARCHIMEDES,Estonia,TARTU,Unknown
+OK.EE LTD.,Estonia,TALLINN,Unknown
+"HANSSON, LEEGO & PARTNER LTD.",Estonia,TARTU,Unknown
+SIHTASUTUS ARCHIMEDES,Estonia,Tartu,Unknown
+EESTI POLLUMAJANDUSULIKOOL,Estonia,TARTU,Unknown
+EESTIMAA TALUPIDAJATE KESKLIIT,Estonia,SAKU,Unknown
+ATTEVALJA OU,Estonia,TARTU - VARA,Unknown
+TALLINNA ÃLIKOOL,Estonia,TALLINN,Unknown
+EESTI METSATOOSTUSE LIIT,Estonia,TALLINN,Unknown
+INFORING AS,Estonia,JOHVI,Unknown
+KULTUURI-MINISTEERIUM,Estonia,TALLINN,Unknown
+OÃ MIKSIKE,Estonia,,Unknown
+ELION ETTEVOTTED AS,Estonia,TALLINN,Unknown
+Tallinna Tehnikauelikooli Kueberneetika Instituut,Estonia,TALLINN,Unknown
+ESTIKO PLASTAR AS,Estonia,TARTU 50107,Unknown
+LOGITRANS CONSULT OU,Estonia,,Unknown
+INTERBALT MARITIME AGENCY OSHAUEHING,Estonia,,Unknown
+VORUMAA KESKRAAMATUKOGU,Estonia,VORU,Unknown
+AS APROTE,Estonia,Tartu,Unknown
+ALFA-OMEGA COMMUNICATIONS LTD,Estonia,TALLINN,Unknown
+EESTI-TAANI KOMMUNIKATSIOONI OSAUEHING,Estonia,,Unknown
+PRAXIS CENTER FOR POLICY STUDIES,Estonia,TALLINN,Unknown
+AS BI-INFO,Estonia,,Unknown
+AKTSIASELTS INFORING,Estonia,Johvi,Unknown
+OÃ LEAB EESTI,Estonia,TALLINN,Unknown
+Chemicals Notification Centre,Estonia,,Unknown
+ESTONIAN MINISTRY OF EDUCATION AND RESEARCH,Estonia,,Unknown
+EESTI DIPLOMAATIDE KOOL,Estonia,,Unknown
+TALLINNA LINN,Estonia,TALLINN,Unknown
+IB AKSIAAL OU,Estonia,TALLINN,Unknown
+VALGA TOWN GOVERNMENT,Estonia,VALGA,Unknown
+"STOCKHOLM ENVIRONMENT INSTITUTE TALLINN CENTRE, ESTONIAN INSTITUTE FOR SUSTAINABLE DEVELOPMENT",Estonia,TALLINN,Unknown
+OSAUHING NAXO,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI TAIMEKASVATUSE INSTITUUT,Estonia,JOGEVA ALEVIK,Research Organisations
+TARTU BIOTEHNOLOOGIA PARK AS,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TIIGRIHUPPE SIHTASUTUS,Estonia,TALLINN,Other
+LENNULIIKLUSTEENINDUSE AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ASPER BIOTECH AS,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Ehituskonstrueerimise ja Katsetuste OÃ,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OSAUHING EESTI INNOVATSIOONI INSTITUUT,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+STORKBIO,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+RAPINA PABERIVABRIK,Estonia,RAPINA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ADVISIO OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EOLANE TALLINN AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+VISITRET DISPLAYS OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+KARUTEENED OU,Estonia,ELVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI RAHVUSRAAMATUKOGU,Estonia,TALLINN,Research Organisations
+INBIO OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PLASTITEHASE AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TARTU OBSERVATORY - ESTONIAN MINISTRY OF EDUCATION AND RESEARCH,Estonia,TORAVERE,Research Organisations
+AKTSIASELTS ESFIL TEHNO,Estonia,Tootuse,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Electronics Design Ltd,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CLEANTECH ESTONIA MTU,Estonia,TALLINN,Other
+8th Ephorate of Byzantine Antiquities,Estonia,Ioannina,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+OU IMMUNOTRON,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MOLCODE AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+STATISTIKAAMET,Estonia,Tallinn,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+CHEMEDEST OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SETTON OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Eesti KÃŒtte- ja Ventilatsiooniinseneride Ãhendus,Estonia,Tallinn,Other
+OSAUHING KINEMA,Estonia,AAVIKU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DEFENDEC OU,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Eesti Vabariigi Kultuuriministeerium,Estonia,Tallinn,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+AS Paide Masinatehas,Estonia,PAIDE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AS REMEKSI KESKUS,Estonia,KOHTLA-JARVE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ESTONIAN INTERUNIVERSITY POPULATION RESEARCH CENTRE,Estonia,TALLINN,Higher or Secondary Education Establishments
+ARDORAN OU,Estonia,HIIUMAA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OÃ TESTONICA LAB,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+BALTIC INNOVATION AGENCY OÃ,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+HARIDUS-JA TEADUS MINISTEERIUM,Estonia,TARTU,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+ESTONIAN EDUCATIONAL AND RESEARCH NETWORK,Estonia,TARTU,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+AS Metrosert,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PKL AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Elgerta Electronics OU,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Osauhing Bellust Elektroonika,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MITTETULUNDUSUHING PEIPSI KOOSTOO KESKUS,Estonia,TARTU,Other
+TEHNOPLAST AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LDIAMON AS,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Sanfix Group OÃ,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+K.MET AS,Estonia,LAANEMAA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+DVIGATEL REGITAL OY,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+ESTIKO PLASTAR AS,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CLOUDMORE OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AKTSIASELTS SERTIFITSEERIMISKESKUS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Eesti Opetajate Liit,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MOLYCORP SILMET AS,Estonia,SILLAMAE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EPLER & LORENZ AS,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Eesti Geoloogiakeskus OÃ,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OÃ Kalaveski,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SEEDRI PUUKOOL OU,Estonia,KARSKI NUIA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SAARE PAAT AS,Estonia,NASVA KAARMA VALD,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Elvior OÃ,Estonia,TALINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NORDBIOCHEM OU,Estonia,POLVA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LOGITRANS CONSULT OU,Estonia,MAARDU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+LASER DIAGNOSTIC INSTRUMENTS AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+RAHVUSARHIIV,Estonia,TARTU,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+Borthwick-Pignon OÃ,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EUPROCOM OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+RIIGIKANTSELEI,Estonia,TALLINN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+P-SYSTEM OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI KUNSTIAKADEEMIA,Estonia,TALLINN,Higher or Secondary Education Establishments
+EESTI-ROOTSI VAIMSE TERVISE JA SUITSIDOLOOGIA INSTITUUT,Estonia,TALLINN,Research Organisations
+ELKE SENSOR OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AQUAMYK OU,Estonia,SAAREMA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Remedium AS,Estonia,Rakvere,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PAHKLA VAHI JA KALAKASVATUS OU,Estonia,Kuressaare,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TRV Kliima,Estonia,Assaku,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AS DATEL,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI BIOKESKUS,Estonia,TARTU,Research Organisations
+TALLINNA TEHNIKAUELIKOOLI KUEBERNEETIKA INSTITUUT,Estonia,TALLINN,Research Organisations
+RENEKO AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OÃ Frog Plastic,Estonia,Tabasalu,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Tallinna Autobussikoondise AS,Estonia,Tallinn,Unknown
+TALLINNA TEHNIKAKORGKOOL,Estonia,Tallinn,Higher or Secondary Education Establishments
+CENTRUMLINE OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+Genorama OU,Estonia,Tartu,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+APPRISE OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+CAD SUSTEEMIDE OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MITTETULUNDUSUHING EESTI PLASTITOOSTUSE LIIT (Estonian Plastics Association),Estonia,Tallinn,Other
+Hama Investeeringud OU,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+AKTSIASELTS ENKO,Estonia,VIIMSI HARJUMAA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI ERAMETSALIIT - ESTONIAN PRIVATE FOREST UNION,Estonia,TALLINN,Other
+Maves LTD,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MITTETULUNDUSUHING EESTI DIGIKESKUS,Estonia,TALLINN,Other
+AS AIREL,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI BIOTEHNOLOOGIA LIIT,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+NORTAL AS,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+SNC PROMEX AS,Estonia,HARJUMAA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+TBD-BIODISCOVERY OU,Estonia,TARTU,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+METALLURG ENGINEERING OU,Estonia,Tallinn,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PLANTEX AS,Estonia,LUUNJA VALD TARTUMAA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI MEREMUUSEUM,Estonia,TALLINN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+OSAUHING GEOMEDIA,Estonia,TARTU LINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+MINISTRY OF JUSTICE,Estonia,TALLINN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+Ministry of the Interior,Estonia,TALLIN,Public bodies (excluding Research Organisations and Secondary or Higher Education Establishments)
+Estonian Fishermen Association,Estonia,Tallinn,Other
+HILL AND KNOWLTON EESTI AKTSIASELTS *,Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+PATS OU,Estonia,RAKVERE,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+OSAUHING WOLMREKS EHITUS (WOLMREKS CONSTRUCTION LTD),Estonia,TALLINN,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+YOUTH IN SCIENCE AND BUSINESS FOUNDATION YSBF,Estonia,Tallinn,Research Organisations
+AS LAPI MT,Estonia,VORUMAA,Private for-profit entities (excluding Higher or Secondary Education Establishments)
+EESTI MAAVILJELUSE INSTITUUT,Estonia,SAKU,Research Organisations
